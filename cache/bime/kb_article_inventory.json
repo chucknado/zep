@@ -1,0 +1,1062 @@
+[
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-17T21:09:33Z",
+    "dita": "Bime_GS_Datasources",
+    "id": 217701028,
+    "section_id": 203948637,
+    "source_locale": "en-us",
+    "title": "Importing data",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217701028-Importing-data"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-25T22:59:15Z",
+    "dita": "Bime_GS_Introduction",
+    "id": 218339297,
+    "section_id": 203948637,
+    "source_locale": "en-us",
+    "title": "Getting started introduction",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218339297-Getting-started-introduction"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-17T21:33:03Z",
+    "dita": "Bime_GS_queries",
+    "id": 218146007,
+    "section_id": 203948637,
+    "source_locale": "en-us",
+    "title": "Creating\n    queries",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218146007-Creating-queries"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-18T22:41:58Z",
+    "dita": "Bime_GS_dashboards",
+    "id": 218170897,
+    "section_id": 203948637,
+    "source_locale": "en-us",
+    "title": "Creating dashboards",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218170897-Creating-dashboards"
+  },
+  {
+    "author": "Adam Finer",
+    "created_at": "2016-03-15T15:45:04Z",
+    "dita": null,
+    "id": 217604948,
+    "section_id": 203948647,
+    "source_locale": "en-us",
+    "title": "Introducing BIME",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217604948-Introducing-BIME"
+  },
+  {
+    "author": "Adam Finer",
+    "created_at": "2016-03-17T15:17:17Z",
+    "dita": null,
+    "id": 218134607,
+    "section_id": 203948647,
+    "source_locale": "en-us",
+    "title": "Working with data sources",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218134607-Working-with-data-sources"
+  },
+  {
+    "author": "Adam Finer",
+    "created_at": "2016-03-18T22:27:56Z",
+    "dita": null,
+    "id": 218170777,
+    "section_id": 203948647,
+    "source_locale": "en-us",
+    "title": "Creating and customizing queries",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218170777-Creating-and-customizing-queries"
+  },
+  {
+    "author": "Adam Finer",
+    "created_at": "2016-03-18T22:46:39Z",
+    "dita": null,
+    "id": 217725838,
+    "section_id": 203948647,
+    "source_locale": "en-us",
+    "title": "Calculating queries",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217725838-Calculating-queries"
+  },
+  {
+    "author": "Adam Finer",
+    "created_at": "2016-03-21T20:30:17Z",
+    "dita": null,
+    "id": 217747998,
+    "section_id": 203948647,
+    "source_locale": "en-us",
+    "title": "Building and publishing dynamic dashboards",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217747998-Building-and-publishing-dynamic-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-28T18:45:01Z",
+    "dita": "Bime_bigdata",
+    "id": 217874708,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Connecting to big data stores",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217874708-Connecting-to-big-data-stores"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-07-20T22:23:41Z",
+    "dita": null,
+    "id": 223224408,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Data sources reference",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/223224408-Data-sources-reference"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-07-18T17:55:37Z",
+    "dita": "Bime_Rest_connector",
+    "id": 222967167,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Creating a new REST connection",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/222967167-Creating-a-new-REST-connection"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-15T17:54:57Z",
+    "dita": "Bime_Youtube",
+    "id": 218074607,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Connecting to Youtube",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218074607-Connecting-to-Youtube"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-14T21:10:57Z",
+    "dita": "Bime_Twitter",
+    "id": 218050057,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Connecting to Twitter",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218050057-Connecting-to-Twitter"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-14T18:21:51Z",
+    "dita": "Bime_RDBMS",
+    "id": 217578868,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Connecting to RDBMS data sources",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217578868-Connecting-to-RDBMS-data-sources"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-14T18:05:25Z",
+    "dita": "Bime_salesforce",
+    "id": 218046207,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Connecting to Salesforce",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218046207-Connecting-to-Salesforce"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-11T21:15:23Z",
+    "dita": "Bime_GA",
+    "id": 217555648,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Connecting to Google Analytics",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217555648-Connecting-to-Google-Analytics"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-10T23:07:20Z",
+    "dita": "Bime_Facebook",
+    "id": 217525798,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Connecting to Facebook",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217525798-Connecting-to-Facebook"
+  },
+  {
+    "author": "Marion Pavillet",
+    "created_at": "2016-04-02T12:17:44Z",
+    "dita": "Bime_ElasticSearch",
+    "id": 218462457,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Connecting to ElasticSearch",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218462457-Connecting-to-ElasticSearch"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-02-18T22:08:29Z",
+    "dita": "Bime_Onlinefiles",
+    "id": 216768748,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Connecting to files from online sources",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/216768748-Connecting-to-files-from-online-sources"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-02-18T22:10:12Z",
+    "dita": "Bime_computer_files",
+    "id": 216768768,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Connecting to files\n    on\n    your computer",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/216768768-Connecting-to-files-on-your-computer"
+  },
+  {
+    "author": "AT Internet",
+    "created_at": "2016-07-19T22:56:16Z",
+    "dita": null,
+    "id": 223127207,
+    "section_id": 203804207,
+    "source_locale": "en-us",
+    "title": "Connecting to your AT Internet data",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/223127207-Connecting-to-your-AT-Internet-data"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-06-06T22:54:25Z",
+    "dita": "Bime_SQLdesigner",
+    "id": 220572587,
+    "section_id": 203841648,
+    "source_locale": "en-us",
+    "title": "Selecting multiple tables from a database connection ",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/220572587-Selecting-multiple-tables-from-a-database-connection-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-10T20:34:55Z",
+    "dita": "Bime_bimedb",
+    "id": 218000607,
+    "section_id": 203841648,
+    "source_locale": "en-us",
+    "title": "Using Managed Storage",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218000607-Using-Managed-Storage"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-06-08T23:04:13Z",
+    "dita": "BIME_joins",
+    "id": 220345648,
+    "section_id": 203841648,
+    "source_locale": "en-us",
+    "title": "About joins",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/220345648-About-joins"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-28T18:25:08Z",
+    "dita": "Bime_scheduler",
+    "id": 217874208,
+    "section_id": 203841648,
+    "source_locale": "en-us",
+    "title": "Using the BIME\n    Scheduler",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217874208-Using-the-BIME-Scheduler"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-03T23:42:10Z",
+    "dita": "Bime_measureaggregators",
+    "id": 217183808,
+    "section_id": 203804167,
+    "source_locale": "en-us",
+    "title": "Changing metric aggregators",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217183808-Changing-metric-aggregators"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-04-11T21:37:51Z",
+    "dita": "Bime_queries_interacting",
+    "id": 218639427,
+    "section_id": 203804167,
+    "source_locale": "en-us",
+    "title": "Interacting with\n    queries",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218639427-Interacting-with-queries"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-02-11T22:58:48Z",
+    "dita": "Bime_adding_data",
+    "id": 216564888,
+    "section_id": 203804167,
+    "source_locale": "en-us",
+    "title": "Adding metrics and\n    attributes",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/216564888-Adding-metrics-and-attributes"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-04T18:00:10Z",
+    "dita": "Bime_attributepermissions",
+    "id": 217695677,
+    "section_id": 203804167,
+    "source_locale": "en-us",
+    "title": "Setting attribute permissions",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217695677-Setting-attribute-permissions"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-11T23:47:47Z",
+    "dita": "Bime_Queryblender",
+    "id": 217558728,
+    "section_id": 203804167,
+    "source_locale": "en-us",
+    "title": "Creating joins with the Query Blender",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217558728-Creating-joins-with-the-Query-Blender"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-05T21:40:00Z",
+    "dita": "Bime_datastructure_folders",
+    "id": 235910488,
+    "section_id": 203804167,
+    "source_locale": "en-us",
+    "title": "Adding and organizing metric and attribute folders",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/235910488-Adding-and-organizing-metric-and-attribute-folders"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-08-24T20:04:55Z",
+    "dita": "Bime_sharing_queries",
+    "id": 226101787,
+    "section_id": 203804167,
+    "source_locale": "en-us",
+    "title": "Sharing queries from the Queries library",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/226101787-Sharing-queries-from-the-Queries-library"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-02-11T21:22:41Z",
+    "dita": "Bime_QueryDates",
+    "id": 216561558,
+    "section_id": 203804167,
+    "source_locale": "en-us",
+    "title": "Adding and editing dates ",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/216561558-Adding-and-editing-dates-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-11T21:23:52Z",
+    "dita": "Bime_GA_queries",
+    "id": 217555808,
+    "section_id": 203804167,
+    "source_locale": "en-us",
+    "title": "About Google Analytics\n    special\n    features",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217555808-About-Google-Analytics-special-features"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-02-26T18:12:20Z",
+    "dita": "Bime_queries_measures",
+    "id": 217026268,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Comparing metrics",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217026268-Comparing-metrics"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-02-26T19:25:10Z",
+    "dita": "Bime_queries_grids",
+    "id": 217028698,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Customizing\n    tables",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217028698-Customizing-tables"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-15T20:21:05Z",
+    "dita": "Bime_sorting",
+    "id": 217625928,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Sorting results",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217625928-Sorting-results"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-02-26T19:00:54Z",
+    "dita": "Bime_queries_category",
+    "id": 217027918,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Comparing\n    categories",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217027918-Comparing-categories"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-09-23T21:31:54Z",
+    "dita": "Bime_values_to_total",
+    "id": 227888647,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Comparing values to total results",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/227888647-Comparing-values-to-total-results"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-09-12T19:54:36Z",
+    "dita": "Bime_result_formatting",
+    "id": 227051127,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Changing your result format",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/227051127-Changing-your-result-format"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-02-25T22:24:44Z",
+    "dita": "Bime_queries_geolocation",
+    "id": 216965168,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Viewing results by\n    location",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/216965168-Viewing-results-by-location"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-02-26T17:37:33Z",
+    "dita": "Bime_queries_ToT",
+    "id": 217517207,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Comparing    trends    over time ",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217517207-Comparing-trends-over-time-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-02-26T18:10:22Z",
+    "dita": "Bime_queries_multimeasure",
+    "id": 217026168,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Using metrics as axes",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217026168-Using-metrics-as-axes"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-02-26T21:38:08Z",
+    "dita": "Bime_queries_workflow",
+    "id": 217033978,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Displaying workflow",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217033978-Displaying-workflow"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-04-11T20:49:29Z",
+    "dita": "Bime_editingnames",
+    "id": 218638527,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Editing metric and attribute names",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218638527-Editing-metric-and-attribute-names"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-03T23:21:44Z",
+    "dita": "Bime_visualizationreference",
+    "id": 217183628,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Visualization types reference",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217183628-Visualization-types-reference"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-07-01T21:37:37Z",
+    "dita": "Bime_datatips",
+    "id": 222030427,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Adding datatips to your query",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/222030427-Adding-datatips-to-your-query"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-07-12T21:04:28Z",
+    "dita": "Bime_fiscalyear",
+    "id": 222704748,
+    "section_id": 203804237,
+    "source_locale": "en-us",
+    "title": "Modifying your calendar using fiscal attributes",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/222704748-Modifying-your-calendar-using-fiscal-attributes"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-14T18:12:18Z",
+    "dita": "Bime_forecasting",
+    "id": 217578708,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Using forecasting to predict results",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217578708-Using-forecasting-to-predict-results"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-11T23:24:09Z",
+    "dita": "Bime_calculatedmeasuresattributes",
+    "id": 218025747,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Creating basic calculated metrics and attributes",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218025747-Creating-basic-calculated-metrics-and-attributes"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-22T20:25:41Z",
+    "dita": "Bime_hide_results",
+    "id": 217778078,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Hiding rows and columns",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217778078-Hiding-rows-and-columns"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-14T21:14:09Z",
+    "dita": "Bime_totals",
+    "id": 217582188,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Adding totals",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217582188-Adding-totals"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-07T22:00:22Z",
+    "dita": "Bime_result_measure",
+    "id": 217377048,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Performing calculations on manipulated results",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217377048-Performing-calculations-on-manipulated-results"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-15T18:30:43Z",
+    "dita": "Bime_Measurefilter",
+    "id": 217611128,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Selecting the metric result range",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217611128-Selecting-the-metric-result-range"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-07T23:43:00Z",
+    "dita": "Bime_result_path",
+    "id": 217378708,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Performing calculations without calculated metrics",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217378708-Performing-calculations-without-calculated-metrics"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-11T22:14:08Z",
+    "dita": "Bime_basketattributes",
+    "id": 217556768,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Dividing results into numeric ranges",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217556768-Dividing-results-into-numeric-ranges"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-10T20:43:25Z",
+    "dita": "Bime_global_variable",
+    "id": 217514208,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Performing a 'what if' analysis with global variables",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217514208-Performing-a-what-if-analysis-with-global-variables"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-04T21:47:38Z",
+    "dita": "Bime_calculations_timeanddate",
+    "id": 217704327,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Adding time and date calculated metrics",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217704327-Adding-time-and-date-calculated-metrics"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-21T18:16:35Z",
+    "dita": "Bime_fixed_measures",
+    "id": 217743928,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Adding fixed calculated metrics",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217743928-Adding-fixed-calculated-metrics"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-22T20:32:05Z",
+    "dita": "Bime_order_manipulations",
+    "id": 217778218,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Setting the order for your result manipulations",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217778218-Setting-the-order-for-your-result-manipulations"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-04T23:04:49Z",
+    "dita": "Bime_topbottomfilter",
+    "id": 217705777,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Creating a top/bottom filter",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217705777-Creating-a-top-bottom-filter"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-15T17:23:55Z",
+    "dita": "Bime_benchmark",
+    "id": 218073897,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Benchmarking your results",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218073897-Benchmarking-your-results"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-29T21:03:12Z",
+    "dita": "Bime_calculations_reference",
+    "id": 218406707,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Calculation types reference",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218406707-Calculation-types-reference"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-07T21:46:06Z",
+    "dita": "bime_groupandset",
+    "id": 217740197,
+    "section_id": 203804177,
+    "source_locale": "en-us",
+    "title": "Organizing values by groups and sets",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217740197-Organizing-values-by-groups-and-sets"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-25T17:47:15Z",
+    "dita": "Bime_IFTHENELSE",
+    "id": 217845898,
+    "section_id": 203804217,
+    "source_locale": "en-us",
+    "title": "Using\n    the IF THEN ELSE\n    function",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217845898-Using-the-IF-THEN-ELSE-function"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-22T21:49:38Z",
+    "dita": "Bime_formula_text",
+    "id": 217784248,
+    "section_id": 203804217,
+    "source_locale": "en-us",
+    "title": "Performing calculations on text",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217784248-Performing-calculations-on-text"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-25T21:24:14Z",
+    "dita": "Bime_numeric_formulas",
+    "id": 218338157,
+    "section_id": 203804217,
+    "source_locale": "en-us",
+    "title": "Performing simple mathematical calculations",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218338157-Performing-simple-mathematical-calculations"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-10-03T23:11:10Z",
+    "dita": "Bime_SWITCH",
+    "id": 228715507,
+    "section_id": 203804217,
+    "source_locale": "en-us",
+    "title": "Adding multiple conditional expressions with SWITCH",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/228715507-Adding-multiple-conditional-expressions-with-SWITCH"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-09-02T17:00:50Z",
+    "dita": "Bime_calculation_engine",
+    "id": 226514767,
+    "section_id": 203804217,
+    "source_locale": "en-us",
+    "title": "Navigating the Formula window",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/226514767-Navigating-the-Formula-window"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-08T18:53:05Z",
+    "dita": "Bime_formulas_dates",
+    "id": 217437008,
+    "section_id": 203804217,
+    "source_locale": "en-us",
+    "title": "Using dates in functions",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217437008-Using-dates-in-functions"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-28T18:06:13Z",
+    "dita": "Bime_trigonmetry_functions",
+    "id": 218364187,
+    "section_id": 203804217,
+    "source_locale": "en-us",
+    "title": "Creating advanced mathematical calculations",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218364187-Creating-advanced-mathematical-calculations"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-28T19:33:38Z",
+    "dita": "Bime_formula_reference",
+    "id": 217875558,
+    "section_id": 203804217,
+    "source_locale": "en-us",
+    "title": "Formula writing resources",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217875558-Formula-writing-resources"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-07-11T18:58:03Z",
+    "dita": "Bime_formulas_other",
+    "id": 222576347,
+    "section_id": 203804217,
+    "source_locale": "en-us",
+    "title": "Using functions to retrieve outside data",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/222576347-Using-functions-to-retrieve-outside-data"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-04T22:49:02Z",
+    "dita": "Bime_dashboards_customizing",
+    "id": 217205458,
+    "section_id": 203804187,
+    "source_locale": "en-us",
+    "title": "Customizing your dashboard",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217205458-Customizing-your-dashboard"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-08T23:40:54Z",
+    "dita": "Bime_dashboard_interactions",
+    "id": 217442748,
+    "section_id": 203804187,
+    "source_locale": "en-us",
+    "title": "Adding and using dashboard interactions",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217442748-Adding-and-using-dashboard-interactions"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-22T17:16:26Z",
+    "dita": "Bime_admin_slides",
+    "id": 218241087,
+    "section_id": 203804187,
+    "source_locale": "en-us",
+    "title": "Displaying widgets as slides",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218241087-Displaying-widgets-as-slides"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-06-06T19:08:11Z",
+    "dita": "Bime_copyingwidgets",
+    "id": 220552347,
+    "section_id": 203804187,
+    "source_locale": "en-us",
+    "title": "Copying widgets and tabs across different locations",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/220552347-Copying-widgets-and-tabs-across-different-locations"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-08-23T23:01:27Z",
+    "dita": null,
+    "id": 226027087,
+    "section_id": 203804187,
+    "source_locale": "en-us",
+    "title": "Organizing dashboards and queries into folders",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/226027087-Organizing-dashboards-and-queries-into-folders"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-09-02T18:55:53Z",
+    "dita": "Bime_public_dashboards",
+    "id": 226519127,
+    "section_id": 203841628,
+    "source_locale": "en-us",
+    "title": "Sharing private, public, and interactive dashboards",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/226519127-Sharing-private-public-and-interactive-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-08T23:52:18Z",
+    "dita": "Bime_disabling_interactions",
+    "id": 217442838,
+    "section_id": 203841628,
+    "source_locale": "en-us",
+    "title": "Removing data interaction options",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217442838-Removing-data-interaction-options"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-15T20:07:38Z",
+    "dita": "Bime_dashboard_delivery",
+    "id": 217624918,
+    "section_id": 203841628,
+    "source_locale": "en-us",
+    "title": "Sharing dashboards through email",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217624918-Sharing-dashboards-through-email"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-04-05T19:03:05Z",
+    "dita": "Bime_studiousers",
+    "id": 217989978,
+    "section_id": 203841628,
+    "source_locale": "en-us",
+    "title": "Creating editors and setting permissions",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217989978-Creating-editors-and-setting-permissions"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-04T17:53:24Z",
+    "dita": "Bime_creatingnamedusers",
+    "id": 217695467,
+    "section_id": 203841628,
+    "source_locale": "en-us",
+    "title": "Creating and managing viewers and viewer groups",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217695467-Creating-and-managing-viewers-and-viewer-groups"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-04T23:49:43Z",
+    "dita": "Bime_dashboardcomments",
+    "id": 217206318,
+    "section_id": 203901417,
+    "source_locale": "en-us",
+    "title": "Adding comments to dashboards",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217206318-Adding-comments-to-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-18T18:56:01Z",
+    "dita": "Bime_dashboard_portal",
+    "id": 218166767,
+    "section_id": 203901417,
+    "source_locale": "en-us",
+    "title": "Viewing shared dashboards ",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218166767-Viewing-shared-dashboards-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-03-22T17:28:27Z",
+    "dita": "Bime_viewer_slides",
+    "id": 218241317,
+    "section_id": 203901417,
+    "source_locale": "en-us",
+    "title": "Viewing widgets as slides",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218241317-Viewing-widgets-as-slides"
+  },
+  {
+    "author": "Andrew Forbes",
+    "created_at": "2017-04-24T21:16:55Z",
+    "dita": null,
+    "id": 115006311668,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "Building a BIME notification Slack bot",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/115006311668-Building-a-BIME-notification-Slack-bot"
+  },
+  {
+    "author": "Andrew Forbes",
+    "created_at": "2016-08-25T21:17:49Z",
+    "dita": null,
+    "id": 226191367,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "Rotating through dashboard tabs on your TV",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/226191367-Rotating-through-dashboard-tabs-on-your-TV"
+  },
+  {
+    "author": "Philippa Booth",
+    "created_at": "2016-06-22T12:14:16Z",
+    "dita": null,
+    "id": 221279228,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "When to use custom SOQL",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/221279228-When-to-use-custom-SOQL"
+  },
+  {
+    "author": "Andrew Forbes",
+    "created_at": "2016-06-16T16:14:13Z",
+    "dita": null,
+    "id": 221012788,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "Advertising agency cookbook",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/221012788-Advertising-agency-cookbook"
+  },
+  {
+    "author": "Marion Pavillet",
+    "created_at": "2016-06-03T20:38:21Z",
+    "dita": null,
+    "id": 220432767,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "Viewing a blocked help button",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/220432767-Viewing-a-blocked-help-button"
+  },
+  {
+    "author": "Andrew Forbes",
+    "created_at": "2016-06-03T23:00:31Z",
+    "dita": null,
+    "id": 220118548,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "Performing analyses without SQL",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/220118548-Performing-analyses-without-SQL"
+  },
+  {
+    "author": "Florent DE Goriainoff",
+    "created_at": "2016-06-03T20:30:03Z",
+    "dita": null,
+    "id": 220432407,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "How chart types are selected in auto-mode",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/220432407-How-chart-types-are-selected-in-auto-mode"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-05-12T15:51:11Z",
+    "dita": null,
+    "id": 218971408,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "Support tips reference",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218971408-Support-tips-reference"
+  },
+  {
+    "author": "Philippa Booth",
+    "created_at": "2016-05-06T12:31:49Z",
+    "dita": null,
+    "id": 219236977,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "Creating run rate calculations",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/219236977-Creating-run-rate-calculations"
+  },
+  {
+    "author": "Andrew Forbes",
+    "created_at": "2016-04-05T20:18:01Z",
+    "dita": null,
+    "id": 218507397,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "Keep everyone happy with change metrics and the Visualization Selector",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218507397-Keep-everyone-happy-with-change-metrics-and-the-Visualization-Selector"
+  },
+  {
+    "author": "Philippa Booth",
+    "created_at": "2016-03-25T17:51:45Z",
+    "dita": null,
+    "id": 218333007,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "Measuring the impact of images in tweets",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218333007-Measuring-the-impact-of-images-in-tweets"
+  },
+  {
+    "author": "Andrew Forbes",
+    "created_at": "2016-03-24T22:35:45Z",
+    "dita": null,
+    "id": 218324387,
+    "section_id": 203901397,
+    "source_locale": "en-us",
+    "title": "Adding alerts in Slack, FlowDock, and Yammer",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218324387-Adding-alerts-in-Slack-FlowDock-and-Yammer"
+  },
+  {
+    "author": "Andrew Forbes",
+    "created_at": "2017-05-11T18:23:21Z",
+    "dita": null,
+    "id": 115007237448,
+    "section_id": 203940048,
+    "source_locale": "en-us",
+    "title": "Creating weekly date buckets in BIME",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/115007237448-Creating-weekly-date-buckets-in-BIME"
+  },
+  {
+    "author": "Andrew Forbes",
+    "created_at": "2016-10-11T17:30:00Z",
+    "dita": null,
+    "id": 229718068,
+    "section_id": 203940048,
+    "source_locale": "en-us",
+    "title": "Recipe: Creating sales targets and goals",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/229718068-Recipe-Creating-sales-targets-and-goals"
+  },
+  {
+    "author": "Florent DE Goriainoff",
+    "created_at": "2016-08-23T16:26:55Z",
+    "dita": null,
+    "id": 226004967,
+    "section_id": 203940048,
+    "source_locale": "en-us",
+    "title": "Recipe: Measuring growth between time periods",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/226004967-Recipe-Measuring-growth-between-time-periods"
+  },
+  {
+    "author": "Philippa Booth",
+    "created_at": "2016-07-28T18:57:55Z",
+    "dita": null,
+    "id": 223734627,
+    "section_id": 203940048,
+    "source_locale": "en-us",
+    "title": "Recipe: Creating a traffic heatmap",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/223734627-Recipe-Creating-a-traffic-heatmap"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-07-12T17:46:46Z",
+    "dita": null,
+    "id": 222693148,
+    "section_id": 203940048,
+    "source_locale": "en-us",
+    "title": "Best practices and recipes reference",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/222693148-Best-practices-and-recipes-reference"
+  },
+  {
+    "author": "Philippa Booth",
+    "created_at": "2016-06-21T14:20:38Z",
+    "dita": null,
+    "id": 221267427,
+    "section_id": 203940048,
+    "source_locale": "en-us",
+    "title": "Recipe: Analyzing Net Promoter Score calculations",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/221267427-Recipe-Analyzing-Net-Promoter-Score-calculations"
+  },
+  {
+    "author": "Philippa Booth",
+    "created_at": "2016-06-21T13:54:26Z",
+    "dita": null,
+    "id": 221266187,
+    "section_id": 203940048,
+    "source_locale": "en-us",
+    "title": "Recipe: Creating cohort reports with a lifetime month",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/221266187-Recipe-Creating-cohort-reports-with-a-lifetime-month"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 218425317,
+    "section_id": 204023197,
+    "title": "Introduction",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218425317-Introduction"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 218425367,
+    "section_id": 204023197,
+    "title": "Step 1: Align chat goals with business objectives",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218425367-Step-1-Align-chat-goals-with-business-objectives"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 217915918,
+    "section_id": 204023197,
+    "title": "Step 2: Manage customer experience and chat volume",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217915918-Step-2-Manage-customer-experience-and-chat-volume"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 218425477,
+    "section_id": 204023197,
+    "title": "Step 3: Determine your staffing requirements",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218425477-Step-3-Determine-your-staffing-requirements"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 218425517,
+    "section_id": 204023197,
+    "title": "Step 4: Train your agents",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218425517-Step-4-Train-your-agents"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 217915998,
+    "section_id": 204023197,
+    "title": "Step 5: Build a chat workflow",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217915998-Step-5-Build-a-chat-workflow"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 217916008,
+    "section_id": 204023197,
+    "title": "Step 6: Monitor success metrics and improve chat deployment",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217916008-Step-6-Monitor-success-metrics-and-improve-chat-deployment"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212679857,
+    "section_id": 202558558,
+    "title": "Setting up shortcuts and departments to optimize agent efficiency",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679857-Setting-up-shortcuts-and-departments-to-optimize-agent-efficiency"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212679647,
+    "section_id": 202558558,
+    "title": "Targeting key visitors with proactive chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679647-Targeting-key-visitors-with-proactive-chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212679657,
+    "section_id": 202558558,
+    "title": "Automatically route chats to departments",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679657-Automatically-route-chats-to-departments"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016318,
+    "section_id": 202558558,
+    "title": "Setting up Zopim for complex business needs",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016318-Setting-up-Zopim-for-complex-business-needs"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": "zag_zopim_chatetiquette",
+    "id": 212016658,
+    "section_id": 202558558,
+    "title": "Best practices for chat etiquette",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016658-Best-practices-for-chat-etiquette"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212680477,
+    "section_id": 202527497,
+    "title": "Hiding the chat widget via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680477-Hiding-the-chat-widget-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212680437,
+    "section_id": 202527497,
+    "title": "Changing the widget according to status via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680437-Changing-the-widget-according-to-status-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212017088,
+    "section_id": 202527497,
+    "title": "Hiding the widget on mobile devices via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212017088-Hiding-the-widget-on-mobile-devices-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016768,
+    "section_id": 202527497,
+    "title": "Tagging visitors using mobile devices via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016768-Tagging-visitors-using-mobile-devices-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212680287,
+    "section_id": 202527497,
+    "title": "Changing the widget language via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680287-Changing-the-widget-language-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212680297,
+    "section_id": 202527497,
+    "title": "Making the widget pop up after a certain amount of time via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680297-Making-the-widget-pop-up-after-a-certain-amount-of-time-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016818,
+    "section_id": 202527497,
+    "title": "Displaying custom image statuses via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016818-Displaying-custom-image-statuses-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016788,
+    "section_id": 202527497,
+    "title": "Identifying visitors via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016788-Identifying-visitors-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212680337,
+    "section_id": 202527497,
+    "title": "Displaying or hiding the chat bubble based on status via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680337-Displaying-or-hiding-the-chat-bubble-based-on-status-via-API"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "author": "Jennifer Rowe",
+    "dita": "zug_forums_authoring_content",
+    "id": 203664076,
+    "section_id": 200624006,
+    "title": "Best practices: Developing content for your knowledge base",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664076-Best-practices-Developing-content-for-your-knowledge-base"
+  },
+  {
+    "author": "Aprill Allen",
+    "dita": null,
+    "id": 203664086,
+    "section_id": 200624006,
+    "title": "Best practices: Six things to think about before setting up community",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664086-Best-practices-Six-things-to-think-about-before-setting-up-community"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "dita": null,
+    "id": 203664066,
+    "section_id": 200624006,
+    "title": "Best practices: Measuring and optimizing your self-service channels",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664066-Best-practices-Measuring-and-optimizing-your-self-service-channels"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "dita": "zug_forums_populating",
+    "id": 203663976,
+    "section_id": 200624006,
+    "title": "Best practices for finding customer issues to start your knowledge base",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663976-Best-practices-for-finding-customer-issues-to-start-your-knowledge-base"
+  },
+  {
+    "author": "Aprill Allen",
+    "dita": null,
+    "id": 203663986,
+    "section_id": 200624006,
+    "title": "Best practices: Organizing content in your knowledge base",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663986-Best-practices-Organizing-content-in-your-knowledge-base"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "dita": "zug_forums_driving_traffic",
+    "id": 203663946,
+    "section_id": 200624006,
+    "title": "Best practices for driving traffic to your knowledge    base and    community",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663946-Best-practices-for-driving-traffic-to-your-knowledge-base-and-community"
+  },
+  {
+    "author": "Toby Roger",
+    "dita": null,
+    "id": 203663926,
+    "section_id": 200624006,
+    "title": "Best practices: Using automations to create service level targets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663926-Best-practices-Using-automations-to-create-service-level-targets"
+  },
+  {
+    "author": "Anton de Young",
+    "dita": "triggers_ticketis",
+    "id": 203663916,
+    "section_id": 200624006,
+    "title": "Triggers: The importance of the 'Ticket is' condition",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663916-Triggers-The-importance-of-the-Ticket-is-condition"
+  },
+  {
+    "author": "Anton de Young",
+    "dita": "conflicting_triggers",
+    "id": 203663906,
+    "section_id": 200624006,
+    "title": "Avoiding conflicting triggers",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663906-Avoiding-conflicting-triggers"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "dita": "zug_nps_bestpractices_3",
+    "id": 203759096,
+    "section_id": 200624006,
+    "title": "NPS Best Practices: Analyzing your Net Promoter Score\u2120 results and taking\n    action (Professional\n    Add-on and Enterprise Add-on)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203759096-NPS-Best-Practices-Analyzing-your-Net-Promoter-Score-results-and-taking-action-Professional-Add-on-and-Enterprise-Add-on-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "dita": "zug_nps_bestpractices_2",
+    "id": 203759086,
+    "section_id": 200624006,
+    "title": "NPS Best Practices: The most effective way to send a Net Promoter Score\u2120 survey",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203759086-NPS-Best-Practices-The-most-effective-way-to-send-a-Net-Promoter-Score-survey"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "dita": "zug_nps_bestpractices_1",
+    "id": 203759076,
+    "section_id": 200624006,
+    "title": "NPS Best Practices: What is Net Promoter\n    Score\u2120\n    and how does it help me?",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203759076-NPS-Best-Practices-What-is-Net-Promoter-Score-and-how-does-it-help-me-"
+  },
+  {
+    "author": "Brandon K.",
+    "dita": null,
+    "id": 203664256,
+    "section_id": 200624006,
+    "title": "Time Tracking recipe: Leaderboards, time logs, top customers",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664256-Time-Tracking-recipe-Leaderboards-time-logs-top-customers"
+  },
+  {
+    "author": "Brandon K.",
+    "dita": null,
+    "id": 203664226,
+    "section_id": 200624006,
+    "title": "Time Tracking recipe: The most costly support issues for your organization",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664226-Time-Tracking-recipe-The-most-costly-support-issues-for-your-organization"
+  },
+  {
+    "author": "Brandon K.",
+    "dita": null,
+    "id": 203664246,
+    "section_id": 200624006,
+    "title": "Time Tracking recipe: A look inside your agents' day-to-day productivity",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664246-Time-Tracking-recipe-A-look-inside-your-agents-day-to-day-productivity"
+  },
+  {
+    "author": "Brandon K.",
+    "dita": null,
+    "id": 203664236,
+    "section_id": 200624006,
+    "title": "Time Tracking recipe: The metrics you need to be measuring",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664236-Time-Tracking-recipe-The-metrics-you-need-to-be-measuring"
+  },
+  {
+    "author": "Jason Maynard",
+    "dita": "zug_ga_04_cleanup",
+    "id": 203664166,
+    "section_id": 200624006,
+    "title": "Google Analytics and Help Center - Part 4: Fine-tuning Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664166-Google-Analytics-and-Help-Center-Part-4-Fine-tuning-Help-Center"
+  },
+  {
+    "author": "Jason Maynard",
+    "dita": "zug_ga_03_users",
+    "id": 203664156,
+    "section_id": 200624006,
+    "title": "Google Analytics and Help Center - Part 3: Tracking customers' actions",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664156-Google-Analytics-and-Help-Center-Part-3-Tracking-customers-actions"
+  },
+  {
+    "author": "Jason Maynard",
+    "dita": "zug_ga_02_search",
+    "id": 203664146,
+    "section_id": 200624006,
+    "title": "Google Analytics and Help Center - Part 2: Measuring the effectiveness of search",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664146-Google-Analytics-and-Help-Center-Part-2-Measuring-the-effectiveness-of-search"
+  },
+  {
+    "author": "Jason Maynard",
+    "dita": "zug_ga_01_intro",
+    "id": 203664136,
+    "section_id": 200624006,
+    "title": "Google Analytics and Help Center - Part 1: Asking the right questions",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664136-Google-Analytics-and-Help-Center-Part-1-Asking-the-right-questions"
+  },
+  {
+    "author": "Erin Boyle",
+    "dita": null,
+    "id": 203663956,
+    "section_id": 200624006,
+    "title": "Recipe: Setting up basic change management (IT example)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663956-Recipe-Setting-up-basic-change-management-IT-example-"
+  },
+  {
+    "author": "Erin Boyle",
+    "dita": null,
+    "id": 203663966,
+    "section_id": 200624006,
+    "title": "Recipe: Setting up a change management process wizard (IT example)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663966-Recipe-Setting-up-a-change-management-process-wizard-IT-example-"
+  },
+  {
+    "author": "Erin Boyle",
+    "dita": null,
+    "id": 203663996,
+    "section_id": 200624006,
+    "title": "Recipe: Setting up a basic request form (IT example)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663996-Recipe-Setting-up-a-basic-request-form-IT-example-"
+  },
+  {
+    "author": "Steven Yan",
+    "dita": null,
+    "id": 203664046,
+    "section_id": 200624006,
+    "title": "User and Organization Fields Recipe: Internal IT Example",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664046-User-and-Organization-Fields-Recipe-Internal-IT-Example"
+  },
+  {
+    "author": "Erin Boyle",
+    "dita": null,
+    "id": 203664006,
+    "section_id": 200624006,
+    "title": "Recipe: Setting up a basic request form (Software example)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664006-Recipe-Setting-up-a-basic-request-form-Software-example-"
+  },
+  {
+    "author": "Steven Yan",
+    "dita": null,
+    "id": 203664036,
+    "section_id": 200624006,
+    "title": "User and Organization Fields Recipe: Software Support Example",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664036-User-and-Organization-Fields-Recipe-Software-Support-Example"
+  },
+  {
+    "author": "Steven Yan",
+    "dita": null,
+    "id": 203664026,
+    "section_id": 200624006,
+    "title": "User and Organization Fields Recipe: Retail Business Example",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664026-User-and-Organization-Fields-Recipe-Retail-Business-Example"
+  },
+  {
+    "author": "Steven Yan",
+    "dita": "zug_cookbook_customer_centric",
+    "id": 203664116,
+    "section_id": 200624006,
+    "title": "Cookbook for the customer-centric company",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664116-Cookbook-for-the-customer-centric-company"
+  },
+  {
+    "author": "Steven Yan",
+    "dita": "zug_cookbook_gather",
+    "id": 203664096,
+    "section_id": 200624006,
+    "title": "Recipe for the customer-centric company: Gather customer info for every support\n    request",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664096-Recipe-for-the-customer-centric-company-Gather-customer-info-for-every-support-request"
+  },
+  {
+    "author": "Steven Yan",
+    "dita": "zug_cookbook_meaningful",
+    "id": 203664106,
+    "section_id": 200624006,
+    "title": "Recipe for the customer-centric company: Create meaningful views of your customers",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664106-Recipe-for-the-customer-centric-company-Create-meaningful-views-of-your-customers"
+  },
+  {
+    "author": "Steven Yan",
+    "dita": "zug_cookbook_collect",
+    "id": 203664126,
+    "section_id": 200624006,
+    "title": "Recipe for the customer-centric company: Collect customer insights and act on them",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664126-Recipe-for-the-customer-centric-company-Collect-customer-insights-and-act-on-them"
+  },
+  {
+    "author": "Erin Boyle",
+    "dita": null,
+    "id": 203664016,
+    "section_id": 200624006,
+    "title": "Recipes from the Zendesk Community",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664016-Recipes-from-the-Zendesk-Community"
+  }
+]

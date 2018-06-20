@@ -1,0 +1,2648 @@
+[
+  {
+    "author": "Jessie Schutz", 
+    "id": 206043157, 
+    "section_id": 200623846, 
+    "title": "Share your expertise with our easy-to-use form!", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206043157"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203661856, 
+    "section_id": 200623846, 
+    "title": "Best practices docs", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661856"
+  }, 
+  {
+    "author": "Jessie Schutz", 
+    "id": 215831757, 
+    "section_id": 200623846, 
+    "title": "Happy Holidays from Zendesk!", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/215831757"
+  }, 
+  {
+    "author": "Jessica Marasco", 
+    "id": 212374637, 
+    "section_id": 200623846, 
+    "title": "About Zendesk plan types", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/212374637"
+  }, 
+  {
+    "author": "Joshua Frank", 
+    "id": 209285358, 
+    "section_id": 200623846, 
+    "title": "FAQs on Plan Changes Introduced in November 2015", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/209285358"
+  }, 
+  {
+    "author": "Alexandra Garfield", 
+    "id": 207302177, 
+    "section_id": 200623846, 
+    "title": "How to find help when you are on the Zendesk Essential plan", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/207302177"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203661846, 
+    "section_id": 200623846, 
+    "title": "End-user guide", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661846"
+  }, 
+  {
+    "author": "Amanda Kleha", 
+    "id": 203661796, 
+    "section_id": 200623846, 
+    "title": "The new Zendesk: FAQs", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661796"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203661816, 
+    "section_id": 200623846, 
+    "title": "How to preview and switch to the new version of Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661816"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203661886, 
+    "section_id": 200623846, 
+    "title": "Evaluating your widgets before moving to the new Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661886"
+  }, 
+  {
+    "author": "Mikkel Svane", 
+    "id": 203661736, 
+    "section_id": 200623846, 
+    "title": "Resolving issues when your credit card fails ", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661736"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203661936, 
+    "section_id": 200623846, 
+    "title": "\"Going Beyond Support with Customer Engagement\" Webinar Resources ", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661936"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203661926, 
+    "section_id": 200623846, 
+    "title": "\"Empowering Your Customers with Self-Service\" Webinar Resources", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661926"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203661916, 
+    "section_id": 200623846, 
+    "title": "\"Using Zendesk to Communicate Effectively with Your Customers\" Webinar Resources", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661916"
+  }, 
+  {
+    "author": "Ankit Garg", 
+    "id": 210178838, 
+    "section_id": 200623996, 
+    "title": "About Advanced Security: Data at Rest Encryption, Enhanced Disaster Recovery, and HIPAA Compliance (Enterprise Add-on)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/210178838"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 203663846, 
+    "section_id": 200623996, 
+    "title": "Split authentication methods for customers and agents", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663846"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203663866, 
+    "section_id": 200623996, 
+    "title": "Replacing your current SSL certificate", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663866"
+  }, 
+  {
+    "author": "Joe", 
+    "id": 204279616, 
+    "section_id": 200623996, 
+    "title": "Anatomy of a JWT request", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204279616"
+  }, 
+  {
+    "author": "Benjamin Evans", 
+    "id": 203663886, 
+    "section_id": 200623996, 
+    "title": "Setting up single sign-on using Active Directory with ADFS and SAML (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663886"
+  }, 
+  {
+    "author": "Benjamin Evans", 
+    "id": 203663896, 
+    "section_id": 200623996, 
+    "title": "Mapping attributes from Active Directory with ADFS and SAML (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663896"
+  }, 
+  {
+    "author": "Matt Sirianni", 
+    "id": 203663856, 
+    "section_id": 200623996, 
+    "title": "Configure Zendesk for your Active Directory/Microsoft environment", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663856"
+  }, 
+  {
+    "author": "Ankit Garg", 
+    "id": 209755408, 
+    "section_id": 200623996, 
+    "title": "Security for third party integrations", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/209755408"
+  }, 
+  {
+    "author": "Ankit Garg", 
+    "id": 205419737, 
+    "section_id": 200623996, 
+    "title": "Security Certification - ISO 27001:2013", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205419737"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 204579233, 
+    "section_id": 200623836, 
+    "title": "Multibrand resources (Professional Add-on and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204579233"
+  }, 
+  {
+    "author": "Nora Mullen", 
+    "id": 215137847, 
+    "section_id": 200623836, 
+    "title": "Optimizing Zendesk Voice quality", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/215137847"
+  }, 
+  {
+    "author": "Max McCal", 
+    "id": 206339578, 
+    "section_id": 200623836, 
+    "title": "Multibrand known issues", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206339578"
+  }, 
+  {
+    "author": "Max McCal", 
+    "id": 204382463, 
+    "section_id": 200623836, 
+    "title": "Using views to sort your branded tickets (Professional Add-on and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204382463"
+  }, 
+  {
+    "author": "Max McCal", 
+    "id": 204382443, 
+    "section_id": 200623836, 
+    "title": "Using the email template with multiple brands (Professional Add-on and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204382443"
+  }, 
+  {
+    "author": "Max McCal", 
+    "id": 204382423, 
+    "section_id": 200623836, 
+    "title": "Setting up business rules for multiple brands  (Professional Add-on and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204382423"
+  }, 
+  {
+    "author": "Matt Auer", 
+    "id": 204255543, 
+    "section_id": 200623836, 
+    "title": "Multibrand videos", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204255543"
+  }, 
+  {
+    "author": "Max McCal", 
+    "id": 204399403, 
+    "section_id": 200623836, 
+    "title": "Multibrand vs. hub and spoke: Why to migrate", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204399403"
+  }, 
+  {
+    "author": "Pierre Grenier", 
+    "id": 204280486, 
+    "section_id": 200623836, 
+    "title": "The road to Multibrand migration (for Hub & Spoke customers only)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204280486"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 205773327, 
+    "section_id": 200623946, 
+    "title": "Sending email from your Zendesk to another Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205773327"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203662186, 
+    "section_id": 200623866, 
+    "title": "Resetting default automations", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662186"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203761906, 
+    "section_id": 200623956, 
+    "title": "Language codes for Zendesk supported languages", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203761906"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203664446, 
+    "section_id": 200624016, 
+    "title": "Self-service best practices docs and tips", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664446"
+  }, 
+  {
+    "author": "Deepa Daniels", 
+    "id": 213151677, 
+    "section_id": 200624016, 
+    "title": "Upgrading to the new Help Center Community", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/213151677"
+  }, 
+  {
+    "author": "Deepa Daniels", 
+    "id": 211317328, 
+    "section_id": 200624016, 
+    "title": "About Help Center end-user search", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/211317328"
+  }, 
+  {
+    "author": "Mauro Codella", 
+    "id": 205753348, 
+    "section_id": 200624016, 
+    "title": "Using the Help Center templating language", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205753348"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 205586568, 
+    "section_id": 200624016, 
+    "title": "Managing Help Center community discussion topics (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205586568"
+  }, 
+  {
+    "author": "Deepa Daniels", 
+    "id": 206401358, 
+    "section_id": 200624016, 
+    "title": "About search engine optimization (SEO) in Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206401358"
+  }, 
+  {
+    "author": "Joe Kramer", 
+    "id": 203664496, 
+    "section_id": 200624016, 
+    "title": "Supported languages for Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664496"
+  }, 
+  {
+    "author": "Aimee Spanier", 
+    "id": 205511148, 
+    "section_id": 200624016, 
+    "title": "Using the Help Center mobile layout on devices", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205511148"
+  }, 
+  {
+    "author": "Evan Dalsted", 
+    "id": 204112776, 
+    "section_id": 200624016, 
+    "title": "Preparing a SSL certificate for upload to Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204112776"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203664436, 
+    "section_id": 200624016, 
+    "title": "Understanding labels if you migrated from Web portal", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664436"
+  }, 
+  {
+    "author": "Nora Mullen", 
+    "id": 216040137, 
+    "section_id": 203537318, 
+    "title": "Routing incoming calls to groups of agents", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/216040137"
+  }, 
+  {
+    "author": "Nora Mullen", 
+    "id": 214510868, 
+    "section_id": 203537318, 
+    "title": "Determining which agents can use Voice (Advanced Voice only)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/214510868"
+  }, 
+  {
+    "author": "Ian De Jesus", 
+    "id": 216565267, 
+    "section_id": 200623816, 
+    "title": "Setting up Zendesk for Trello Integration", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/216565267"
+  }, 
+  {
+    "author": "Ian De Jesus", 
+    "id": 214247188, 
+    "section_id": 200623816, 
+    "title": "Setting up  Zendesk for Hubspot integration", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/214247188"
+  }, 
+  {
+    "author": "Ian De Jesus", 
+    "id": 213691807, 
+    "section_id": 200623816, 
+    "title": "Setting up Zendesk for Microsoft Outlook Integration ", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/213691807"
+  }, 
+  {
+    "author": "Skip Moore", 
+    "id": 205301027, 
+    "section_id": 200623816, 
+    "title": "Sending ticket notifications to HipChat rooms", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205301027"
+  }, 
+  {
+    "author": "Eric Shen", 
+    "id": 204276956, 
+    "section_id": 200623816, 
+    "title": "Using the Zendesk Agent Notification App", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204276956"
+  }, 
+  {
+    "author": "Maxime", 
+    "id": 203660226, 
+    "section_id": 200623816, 
+    "title": "Updating a ticket when the status of a JIRA issue changes", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660226"
+  }, 
+  {
+    "author": "Eric Shen", 
+    "id": 203660156, 
+    "section_id": 200623816, 
+    "title": "Zendesk for Microsoft Dynamics CRM Part 1: Installing the Zendesk for Microsoft Dynamics CRM as a module in Microsoft Dynamics CRM", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660156"
+  }, 
+  {
+    "author": "Eric Shen", 
+    "id": 203660166, 
+    "section_id": 200623816, 
+    "title": "Zendesk for Microsoft Dynamics CRM Part 2: Configuring the Zendesk Web Service on your IIS Server", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660166"
+  }, 
+  {
+    "author": "Eric Shen", 
+    "id": 203660186, 
+    "section_id": 200623816, 
+    "title": "Zendesk for Microsoft Dynamics CRM Part 3: Setting up the Zendesk App and Ticket-to-Case", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660186"
+  }, 
+  {
+    "author": "Eric Shen", 
+    "id": 203660136, 
+    "section_id": 200623816, 
+    "title": "Zendesk for HootSuite", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660136"
+  }, 
+  {
+    "author": "Steven Yan", 
+    "id": 206158077, 
+    "section_id": 200623816, 
+    "title": "Example: Integrating the HTTP Target with Trello", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206158077"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 203660096, 
+    "section_id": 200623816, 
+    "title": "Salesforce FAQ and Known Issues", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660096"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 203660076, 
+    "section_id": 200623816, 
+    "title": "Salesforce: Adding ticket view to your Account, Contact, Lead, and Opportunity layouts", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660076"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 203660056, 
+    "section_id": 200623816, 
+    "title": "Salesforce: Creating custom links in Salesforce Zendesk Ticket", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660056"
+  }, 
+  {
+    "author": "Szymon Klimczak / LiveChatInc.com", 
+    "id": 203659806, 
+    "section_id": 200623816, 
+    "title": "LiveChat Integration", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659806"
+  }, 
+  {
+    "author": "Thomas Pedersen", 
+    "id": 203659786, 
+    "section_id": 200623816, 
+    "title": "FreshBooks widget (Zendesk Classic)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659786"
+  }, 
+  {
+    "author": "Eric Shen", 
+    "id": 203659976, 
+    "section_id": 200623816, 
+    "title": "Setting Up and Using Harvest for Zendesk (Zendesk Classic)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659976"
+  }, 
+  {
+    "author": "Anibal Cucco", 
+    "id": 203659796, 
+    "section_id": 200623816, 
+    "title": "Basecamp target", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659796"
+  }, 
+  {
+    "author": "Eric Shen", 
+    "id": 203659966, 
+    "section_id": 200623816, 
+    "title": "MailChimp Zendesk widget (Zendesk Classic)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659966"
+  }, 
+  {
+    "author": "Eric Shen", 
+    "id": 203659956, 
+    "section_id": 200623816, 
+    "title": "Zendesk and edocr Integration", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659956"
+  }, 
+  {
+    "author": "Eric Shen", 
+    "id": 203659906, 
+    "section_id": 200623816, 
+    "title": "Constant Contact", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659906"
+  }, 
+  {
+    "author": "Eric Shen", 
+    "id": 203659846, 
+    "section_id": 200623816, 
+    "title": "Installation Instructions For Ifbyphone Widget and Voicemail", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659846"
+  }, 
+  {
+    "author": "Jason Smale", 
+    "id": 203660046, 
+    "section_id": 200623816, 
+    "title": "Magento Integration: Installing the Zendesk extension for Magento", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660046"
+  }, 
+  {
+    "author": "Jason Smale", 
+    "id": 203660066, 
+    "section_id": 200623816, 
+    "title": "Magento Integration: Installing the Magento App for Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660066"
+  }, 
+  {
+    "author": "Eric Shen", 
+    "id": 203660106, 
+    "section_id": 200623816, 
+    "title": "Introducing TymeShift for Zendesk!", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660106"
+  }, 
+  {
+    "author": "Jason Smale", 
+    "id": 203660116, 
+    "section_id": 200623816, 
+    "title": "Integrating Shopify and Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660116"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 204890268, 
+    "section_id": 200623886, 
+    "title": "Creating integrations using the HTTP target", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204890268"
+  }, 
+  {
+    "author": "Elyse Kanagaratnam", 
+    "id": 203662496, 
+    "section_id": 200623886, 
+    "title": "Installing and using the Proactive Tickets app", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662496"
+  }, 
+  {
+    "author": "Benjamin Evans", 
+    "id": 204076066, 
+    "section_id": 200623886, 
+    "title": "Installing and Using the Out of Office App [BETA]", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204076066"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203662376, 
+    "section_id": 200623876, 
+    "title": "Insights resources (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662376"
+  }, 
+  {
+    "author": "Jessica Marasco", 
+    "id": 208225158, 
+    "section_id": 200623876, 
+    "title": "Insights recipes reference (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/208225158"
+  }, 
+  {
+    "author": "Jessica Marasco", 
+    "id": 208070657, 
+    "section_id": 200623876, 
+    "title": "SLA resources", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/208070657"
+  }, 
+  {
+    "author": "Aimee Spanier", 
+    "id": 205951808, 
+    "section_id": 200623876, 
+    "title": "Calculating first reply time", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205951808"
+  }, 
+  {
+    "author": "Mike Mortimer", 
+    "id": 204255256, 
+    "section_id": 200623876, 
+    "title": "Insights: Release notes and known issues for metrics and reports", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204255256"
+  }, 
+  {
+    "author": "Joseph Black", 
+    "id": 211968128, 
+    "section_id": 200623876, 
+    "title": "Insights: Difference between \"Organization\" and \"Ticket Organization\"", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/211968128"
+  }, 
+  {
+    "author": "Brent", 
+    "id": 204411593, 
+    "section_id": 200623876, 
+    "title": "Using the Backlog Dataset in Insights (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204411593"
+  }, 
+  {
+    "author": "Joseph Black", 
+    "id": 204402153, 
+    "section_id": 200623876, 
+    "title": "Reporting on Business Hours in Insights (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204402153"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203662336, 
+    "section_id": 200623876, 
+    "title": "Reporting on tags in Insights (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662336"
+  }, 
+  {
+    "author": "John Geschke", 
+    "id": 212874767, 
+    "section_id": 201013338, 
+    "title": "Addressing data privacy for Zendesk and Zopim in light of the recent European Court of Justice decisions regarding the EU-US Safe Harbor Framework", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/212874767"
+  }, 
+  {
+    "author": "Alexandra Garfield", 
+    "id": 207302257, 
+    "section_id": 201013338, 
+    "title": "Notice for end-users who accidentally reach Zendesk for support", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/207302257"
+  }, 
+  {
+    "author": "Ben Rohrs", 
+    "id": 205190758, 
+    "section_id": 201013338, 
+    "title": "Zendesk\u2019s Data Deletion Policy", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205190758"
+  }, 
+  {
+    "author": "Ben Rohrs", 
+    "id": 203657756, 
+    "section_id": 201013338, 
+    "title": "Ticket Archiving", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203657756"
+  }, 
+  {
+    "author": "Ben Rohrs", 
+    "id": 203657676, 
+    "section_id": 201013338, 
+    "title": "Regional Data Hosting Policy", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203657676"
+  }, 
+  {
+    "author": "Skip Moore", 
+    "id": 203660286, 
+    "section_id": 200623916, 
+    "title": "Show or hide tabs based on organization (Web portal)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660286"
+  }, 
+  {
+    "author": "Joe", 
+    "id": 203663056, 
+    "section_id": 200623916, 
+    "title": "Getting rid of the rounded corners", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663056"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203663126, 
+    "section_id": 200623916, 
+    "title": "Changing default text strings with JavaScript", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663126"
+  }, 
+  {
+    "author": "Max McCal", 
+    "id": 203660646, 
+    "section_id": 200623916, 
+    "title": "Adding custom buttons to your web portal home page", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660646"
+  }, 
+  {
+    "author": "Skip Moore", 
+    "id": 203660426, 
+    "section_id": 200623916, 
+    "title": "Creating conditional drop-down lists using JavaScript widgets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660426"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203662956, 
+    "section_id": 200623916, 
+    "title": "Setting the page width and removing the page border", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662956"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203662936, 
+    "section_id": 200623916, 
+    "title": "Replacing the header logo and title", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662936"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203662946, 
+    "section_id": 200623916, 
+    "title": "Customizing the page footer", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662946"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203663026, 
+    "section_id": 200623916, 
+    "title": "Customizing the top menu bar", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663026"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203662996, 
+    "section_id": 200623916, 
+    "title": "Changing the content area background color", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662996"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203662966, 
+    "section_id": 200623916, 
+    "title": "Changing the font settings of the main content area", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662966"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203663016, 
+    "section_id": 200623916, 
+    "title": "Formatting the forum content headings", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663016"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203662986, 
+    "section_id": 200623916, 
+    "title": "Customizing the tickets table in the Zendesk Classic agent interface", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662986"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203662976, 
+    "section_id": 200623916, 
+    "title": "Customizing the sidebar", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662976"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203663006, 
+    "section_id": 200623916, 
+    "title": "Customizing the alert message bar", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663006"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203663036, 
+    "section_id": 200623916, 
+    "title": "Source code for CSS customization examples", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663036"
+  }, 
+  {
+    "author": "Jessica Marasco", 
+    "id": 207187437, 
+    "section_id": 200624006, 
+    "title": "Best practices and recipes reference", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/207187437"
+  }, 
+  {
+    "author": "Neil Weldon", 
+    "id": 205962478, 
+    "section_id": 200624006, 
+    "title": "Insights Voice reporting recipe (Advanced Voice with Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205962478"
+  }, 
+  {
+    "author": "Irene Poltronieri", 
+    "id": 215551458, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Reporting on full resolution time", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/215551458"
+  }, 
+  {
+    "author": "Missy", 
+    "id": 215122987, 
+    "section_id": 200624006, 
+    "title": "Insights: One-touch tickets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/215122987"
+  }, 
+  {
+    "author": "Missy", 
+    "id": 215131487, 
+    "section_id": 200624006, 
+    "title": "Insights: Solved tickets by agent", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/215131487"
+  }, 
+  {
+    "author": "Ian LaPhilliph", 
+    "id": 212724337, 
+    "section_id": 200624006, 
+    "title": "Insights: Tickets by time of day created", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/212724337"
+  }, 
+  {
+    "author": "William Macken", 
+    "id": 212633717, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Work time between first reopen and final solve using Time Tracking ", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/212633717"
+  }, 
+  {
+    "author": "Ian LaPhilliph", 
+    "id": 212723557, 
+    "section_id": 200624006, 
+    "title": "Insights: Tickets by agent by channel", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/212723557"
+  }, 
+  {
+    "author": "Amy Dee", 
+    "id": 210040347, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Top problem tickets by unsolved incidents", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/210040347"
+  }, 
+  {
+    "author": "Dan B.", 
+    "id": 206136988, 
+    "section_id": 200624006, 
+    "title": "Best practices: Zendesk Voice Setup", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206136988"
+  }, 
+  {
+    "author": "Khoa Le", 
+    "id": 206306467, 
+    "section_id": 200624006, 
+    "title": "Time Tracking Recipe: Creating a billing report", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206306467"
+  }, 
+  {
+    "author": "Sarah Kay", 
+    "id": 206286387, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Reporting on duration of a text field", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206286387"
+  }, 
+  {
+    "author": "Aprill Allen", 
+    "id": 203664086, 
+    "section_id": 200624006, 
+    "title": "Best practices: Six things to think about before setting up community", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664086"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203664066, 
+    "section_id": 200624006, 
+    "title": "Best practices: Measuring and optimizing your self-service channels", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664066"
+  }, 
+  {
+    "author": "Aprill Allen", 
+    "id": 203663986, 
+    "section_id": 200624006, 
+    "title": "Best practices: Organizing content in your knowledge base", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663986"
+  }, 
+  {
+    "author": "Maxime", 
+    "id": 203663936, 
+    "section_id": 200624006, 
+    "title": "Best practices: Providing content in multiple languages (Web portal)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663936"
+  }, 
+  {
+    "author": "Toby Roger", 
+    "id": 203663926, 
+    "section_id": 200624006, 
+    "title": "Best practices: Using automations to create service level targets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663926"
+  }, 
+  {
+    "author": "Jillana Peterson", 
+    "id": 203664186, 
+    "section_id": 200624006, 
+    "title": "Recipe for Approval Process", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664186"
+  }, 
+  {
+    "author": "Joseph Black", 
+    "id": 204648968, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: How many tickets are assigned to my agents each day", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204648968"
+  }, 
+  {
+    "author": "Joseph Black", 
+    "id": 204097336, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Reviewing SLA performance in Insights", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204097336"
+  }, 
+  {
+    "author": "Hammad Naseem", 
+    "id": 205310467, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Reporting on created and solved tickets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205310467"
+  }, 
+  {
+    "author": "Desiree", 
+    "id": 203664276, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Reporting on what your tickets are about by channel", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664276"
+  }, 
+  {
+    "author": "Desiree", 
+    "id": 203664266, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Reporting on customer satisfaction by agent", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664266"
+  }, 
+  {
+    "author": "Desiree", 
+    "id": 203664216, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Are my support tickets being routed to the right group for the job?", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664216"
+  }, 
+  {
+    "author": "Desiree", 
+    "id": 203664206, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Are our support efforts being directed at our most valuable customers?", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664206"
+  }, 
+  {
+    "author": "Desiree", 
+    "id": 203664196, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: How many interactions do my agents have via tickets?", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664196"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203664316, 
+    "section_id": 200624006, 
+    "title": "Insights tag reporting: Showing which other tags are present with one specified tag (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664316"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203664296, 
+    "section_id": 200624006, 
+    "title": "Insights tag reporting: Reporting on Ticket Tag Isn't (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664296"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203664306, 
+    "section_id": 200624006, 
+    "title": "Insights tag reporting: Reporting on tickets with one or more tags (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664306"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 203664286, 
+    "section_id": 200624006, 
+    "title": "Insights tag reporting: Getting resolution times based on tags (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664286"
+  }, 
+  {
+    "author": "Brandon K.", 
+    "id": 203664256, 
+    "section_id": 200624006, 
+    "title": "Time Tracking recipe: Leaderboards, time logs, top customers, oh my!", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664256"
+  }, 
+  {
+    "author": "Brandon K.", 
+    "id": 203664226, 
+    "section_id": 200624006, 
+    "title": "Time Tracking recipe: The most costly support issues for your organization", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664226"
+  }, 
+  {
+    "author": "Brandon K.", 
+    "id": 203664246, 
+    "section_id": 200624006, 
+    "title": "Time Tracking recipe: A look inside your agents' day-to-day productivity", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664246"
+  }, 
+  {
+    "author": "Brandon K.", 
+    "id": 203664236, 
+    "section_id": 200624006, 
+    "title": "Time Tracking recipe: The metrics you need to be measuring", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664236"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 203663956, 
+    "section_id": 200624006, 
+    "title": "Recipe: Setting up basic change management (IT example)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663956"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 203663966, 
+    "section_id": 200624006, 
+    "title": "Recipe: Setting up a change management process wizard (IT example)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663966"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 203663996, 
+    "section_id": 200624006, 
+    "title": "Recipe: Setting up a basic request form (IT example)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663996"
+  }, 
+  {
+    "author": "Steven Yan", 
+    "id": 203664046, 
+    "section_id": 200624006, 
+    "title": "User and Organization Fields Recipe: Internal IT Example", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664046"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 203664006, 
+    "section_id": 200624006, 
+    "title": "Recipe: Setting up a basic request form (Software example)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664006"
+  }, 
+  {
+    "author": "Steven Yan", 
+    "id": 203664036, 
+    "section_id": 200624006, 
+    "title": "User and Organization Fields Recipe: Software Support Example", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664036"
+  }, 
+  {
+    "author": "Steven Yan", 
+    "id": 203664026, 
+    "section_id": 200624006, 
+    "title": "User and Organization Fields Recipe: Retail Business Example", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664026"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 203664016, 
+    "section_id": 200624006, 
+    "title": "Recipes from the Zendesk Community", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664016"
+  }, 
+  {
+    "author": "Bryan Castro", 
+    "id": 207034497, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Showing MoM change with headline reports", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/207034497"
+  }, 
+  {
+    "author": "Ray Light", 
+    "id": 206328108, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: First reply time heatmap", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206328108"
+  }, 
+  {
+    "author": "Holly Szkoropad", 
+    "id": 207033617, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Due date performance report", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/207033617"
+  }, 
+  {
+    "author": "Holly Szkoropad", 
+    "id": 207031407, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Showing percentage breakdown of any attribute", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/207031407"
+  }, 
+  {
+    "author": "Bryan Castro", 
+    "id": 206290288, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Using running totals", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206290288"
+  }, 
+  {
+    "author": "Holly Szkoropad", 
+    "id": 206996687, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Showing rank over time", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206996687"
+  }, 
+  {
+    "author": "Bryan Castro", 
+    "id": 206288998, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Tickets created by shift report", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206288998"
+  }, 
+  {
+    "author": "Holly Szkoropad", 
+    "id": 206288378, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Customer satisfaction bullet chart", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206288378"
+  }, 
+  {
+    "author": "Bryan Castro", 
+    "id": 206976657, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Creating reports using date facts", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206976657"
+  }, 
+  {
+    "author": "Holly Szkoropad", 
+    "id": 206265438, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Adding limits and goals into reports", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206265438"
+  }, 
+  {
+    "author": "Ray Light", 
+    "id": 206381328, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Ticket creation heatmap", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206381328"
+  }, 
+  {
+    "author": "Holly Szkoropad", 
+    "id": 207089837, 
+    "section_id": 200624006, 
+    "title": "Insights recipe: Time-over-time reporting", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/207089837"
+  }, 
+  {
+    "author": "Sam Chandler", 
+    "id": 206891587, 
+    "section_id": 200624006, 
+    "title": "Recipe: Utilizing the light agent role for a customer approval workflow", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206891587"
+  }, 
+  {
+    "author": "Robbert Hink", 
+    "id": 206430298, 
+    "section_id": 200623826, 
+    "title": "Assign follow-up to the original assignee or group", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206430298"
+  }, 
+  {
+    "author": "Jake Bantz", 
+    "id": 214400388, 
+    "section_id": 200623826, 
+    "title": "Adding images to the Humble Squid category boxes", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/214400388"
+  }, 
+  {
+    "author": "Tiffany Rockwell", 
+    "id": 215118307, 
+    "section_id": 200623826, 
+    "title": "Porting numbers into Zendesk Voice", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/215118307"
+  }, 
+  {
+    "author": "Alex Culligan", 
+    "id": 213680948, 
+    "section_id": 200623826, 
+    "title": "Notifying CC's of previous ticket comments", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/213680948"
+  }, 
+  {
+    "author": "Alex Culligan", 
+    "id": 215672297, 
+    "section_id": 200623826, 
+    "title": "Understanding the differences in SLA target hours", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/215672297"
+  }, 
+  {
+    "author": "Sarah Hagberg", 
+    "id": 209430457, 
+    "section_id": 200623826, 
+    "title": "Including 0 values in Insights reports", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/209430457"
+  }, 
+  {
+    "author": "Laura Hippert", 
+    "id": 215456047, 
+    "section_id": 200623826, 
+    "title": "Customizing status icons for Community posts", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/215456047"
+  }, 
+  {
+    "author": "Tod Brown", 
+    "id": 215457817, 
+    "section_id": 200623826, 
+    "title": "Managing your escalation queue", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/215457817"
+  }, 
+  {
+    "author": "Alex Culligan", 
+    "id": 214437407, 
+    "section_id": 200623826, 
+    "title": "Using a URL target to make a comment private", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/214437407"
+  }, 
+  {
+    "author": "Benjamin Goff", 
+    "id": 206233348, 
+    "section_id": 200623826, 
+    "title": "How to fix the UTF-8 error when bulk uploading users", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206233348"
+  }, 
+  {
+    "author": "Abel Martin Romero", 
+    "id": 213334227, 
+    "section_id": 200623826, 
+    "title": "Identify which Facebook page tickets come from", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/213334227"
+  }, 
+  {
+    "author": "Anna", 
+    "id": 212038847, 
+    "section_id": 200623826, 
+    "title": "Using the 'Resolution' field", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/212038847"
+  }, 
+  {
+    "author": "Abel Martin Romero", 
+    "id": 206354108, 
+    "section_id": 200623826, 
+    "title": "Multibrand - Using multiple JWT Single Sign-on URL's (Professional Add-on and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206354108"
+  }, 
+  {
+    "author": "Brittany", 
+    "id": 206233498, 
+    "section_id": 200623826, 
+    "title": "Reset all custom ticket field values", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206233498"
+  }, 
+  {
+    "author": "Ray Roth", 
+    "id": 206937427, 
+    "section_id": 200623826, 
+    "title": "Keeping track of a specific end-user's tickets within Zendesk for reporting or views", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206937427"
+  }, 
+  {
+    "author": "Andrey Sarapulov", 
+    "id": 205948148, 
+    "section_id": 200623826, 
+    "title": "Extracting an order number from your tickets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205948148"
+  }, 
+  {
+    "author": "Sarah Kay", 
+    "id": 205891418, 
+    "section_id": 200623826, 
+    "title": "Reporting on Average First Reply Time in Insights (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205891418"
+  }, 
+  {
+    "author": "Deepa Daniels", 
+    "id": 205846698, 
+    "section_id": 200623826, 
+    "title": "Creating a site map for your Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205846698"
+  }, 
+  {
+    "author": "Joe Kramer", 
+    "id": 205693448, 
+    "section_id": 200623826, 
+    "title": "Using business rules to send automated reminders to customers", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205693448"
+  }, 
+  {
+    "author": "Jakub Glodek", 
+    "id": 206293257, 
+    "section_id": 200623826, 
+    "title": "Using SurveyMonkey and Zapier to pull custom survey data into tickets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206293257"
+  }, 
+  {
+    "author": "Arnaud de Theux", 
+    "id": 205828207, 
+    "section_id": 200623826, 
+    "title": "Using Single sign-on (SSO) to customize your end-users' knowledge base, email templates, and ticket forms", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205828207"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 204934518, 
+    "section_id": 200623826, 
+    "title": "Versioning your SLA policies", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204934518"
+  }, 
+  {
+    "author": "Robbert Hink", 
+    "id": 205367047, 
+    "section_id": 200623826, 
+    "title": "Insights Reports - Duration between two or more ticket events in minutes", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205367047"
+  }, 
+  {
+    "author": "Sean Cusick", 
+    "id": 204657638, 
+    "section_id": 200623826, 
+    "title": "What does \"Detected as spam\" mean?", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204657638"
+  }, 
+  {
+    "author": "Aaron Hundt", 
+    "id": 205274167, 
+    "section_id": 200623826, 
+    "title": "Tracking Ticket Origination from Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205274167"
+  }, 
+  {
+    "author": "Robbert Hink", 
+    "id": 204579603, 
+    "section_id": 200623826, 
+    "title": "Hide ticket forms based on user's organization (Professional Add-on and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204579603"
+  }, 
+  {
+    "author": "Andrey Sarapulov", 
+    "id": 204579473, 
+    "section_id": 200623826, 
+    "title": "Add and remove individual CCs on a ticket using URL targets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204579473"
+  }, 
+  {
+    "author": "Bob Novak", 
+    "id": 204579223, 
+    "section_id": 200623826, 
+    "title": "Multibrand: Restricting agents to specific brands (Professional Add-on and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204579223"
+  }, 
+  {
+    "author": "Sean Cusick", 
+    "id": 204278266, 
+    "section_id": 200623826, 
+    "title": "Making your email notifications simpler and more meaningful", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204278266"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 204524283, 
+    "section_id": 200623826, 
+    "title": "Displaying a RSS feed in your Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204524283"
+  }, 
+  {
+    "author": "Matthew Armstrong", 
+    "id": 204172316, 
+    "section_id": 200623826, 
+    "title": "Auto-fill the Web Widget Contact Form", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204172316"
+  }, 
+  {
+    "author": "Sean Cusick", 
+    "id": 204141506, 
+    "section_id": 200623826, 
+    "title": "Common issues with email deliverability", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204141506"
+  }, 
+  {
+    "author": "Ed Pritchard", 
+    "id": 204410413, 
+    "section_id": 200623826, 
+    "title": "Generating a HAR file for troubleshooting", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204410413"
+  }, 
+  {
+    "author": "Jake Bantz", 
+    "id": 204112366, 
+    "section_id": 200623826, 
+    "title": "Troubleshooting common Help Center issues", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204112366"
+  }, 
+  {
+    "author": "Evan Dalsted", 
+    "id": 204098756, 
+    "section_id": 200623826, 
+    "title": "Configuring your Zendesk to reply from a single email address", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204098756"
+  }, 
+  {
+    "author": "Tiffany Rockwell", 
+    "id": 204075806, 
+    "section_id": 200623826, 
+    "title": "Securing sensitive customer attachments", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204075806"
+  }, 
+  {
+    "author": "Anna Rozentale", 
+    "id": 204237413, 
+    "section_id": 200623826, 
+    "title": "Zendesk Voice: Tips from Zendesk Support", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204237413"
+  }, 
+  {
+    "author": "Avi Warner", 
+    "id": 204234453, 
+    "section_id": 200623826, 
+    "title": "5 funky tricks for better one-touch resolution", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204234453"
+  }, 
+  {
+    "author": "Avi Warner", 
+    "id": 203948996, 
+    "section_id": 200623826, 
+    "title": "5 weird ways to lower first reply time", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203948996"
+  }, 
+  {
+    "author": "Avi Warner", 
+    "id": 204232443, 
+    "section_id": 200623826, 
+    "title": "5 crazy tips for higher customer satisfaction ratings that really work!", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204232443"
+  }, 
+  {
+    "author": "Tiffany Rockwell", 
+    "id": 203927716, 
+    "section_id": 200623826, 
+    "title": "Attachments in Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203927716"
+  }, 
+  {
+    "author": "Stephanie Zou", 
+    "id": 204196633, 
+    "section_id": 200623826, 
+    "title": "How Zendesk works for agents", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204196633"
+  }, 
+  {
+    "author": "Avi Warner", 
+    "id": 203837156, 
+    "section_id": 200623826, 
+    "title": "Support @Zendesk: The Trigger everyone needs", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203837156"
+  }, 
+  {
+    "author": "Avi Warner", 
+    "id": 204109423, 
+    "section_id": 200623826, 
+    "title": "Support @Zendesk: The 'About' Field", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204109423"
+  }, 
+  {
+    "author": "Bryant Plano", 
+    "id": 203986723, 
+    "section_id": 200623826, 
+    "title": "Zendesk for Android: Understanding notifications", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203986723"
+  }, 
+  {
+    "author": "Bryant Plano", 
+    "id": 203979063, 
+    "section_id": 200623826, 
+    "title": "Zendesk for iOS: Understanding notifications", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203979063"
+  }, 
+  {
+    "author": "Bryant Plano", 
+    "id": 203661456, 
+    "section_id": 200623826, 
+    "title": "Using dynamic content to translate your ticket fields (Professional and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661456"
+  }, 
+  {
+    "author": "Dr. J", 
+    "id": 203661436, 
+    "section_id": 200623826, 
+    "title": "Enhancing customer communication, comprehension, and retention with the use of media", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661436"
+  }, 
+  {
+    "author": "Adam L.", 
+    "id": 203661446, 
+    "section_id": 200623826, 
+    "title": "Tips for using HTML to customize your knowledge base in Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661446"
+  }, 
+  {
+    "author": "Arnaud de Theux", 
+    "id": 203661426, 
+    "section_id": 200623826, 
+    "title": "Change your Help Center design using Dynamic Content", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661426"
+  }, 
+  {
+    "author": "Krijn Faber", 
+    "id": 203661416, 
+    "section_id": 200623826, 
+    "title": "Set support address on new ticket creation through the mail API", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661416"
+  }, 
+  {
+    "author": "Krijn Faber", 
+    "id": 203661406, 
+    "section_id": 200623826, 
+    "title": "Google Apps for Business - Mail redirection to Zendesk - Best Practices", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661406"
+  }, 
+  {
+    "author": "Sandra Palm", 
+    "id": 203661396, 
+    "section_id": 200623826, 
+    "title": "Adding autocomplete to your Help Center search bar", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661396"
+  }, 
+  {
+    "author": "Jordan Wheelock", 
+    "id": 203661386, 
+    "section_id": 200623826, 
+    "title": "Changing your email template content fonts", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661386"
+  }, 
+  {
+    "author": "Evan Dalsted", 
+    "id": 203661366, 
+    "section_id": 200623826, 
+    "title": "Restrict Google From Indexing your Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661366"
+  }, 
+  {
+    "author": "Justin Helley", 
+    "id": 203661356, 
+    "section_id": 200623826, 
+    "title": "Providing targeted support with Zopim", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661356"
+  }, 
+  {
+    "author": "Jeremiah Currier", 
+    "id": 203661336, 
+    "section_id": 200623826, 
+    "title": "Customizing custom ticket field descriptions with HTML", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661336"
+  }, 
+  {
+    "author": "Joseph Black", 
+    "id": 203661346, 
+    "section_id": 200623826, 
+    "title": "Setting up an unformatted email template", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661346"
+  }, 
+  {
+    "author": "Sean Cusick", 
+    "id": 203661306, 
+    "section_id": 200623826, 
+    "title": "Using CCs effectively in Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661306"
+  }, 
+  {
+    "author": "Aurash Pourmand", 
+    "id": 203661316, 
+    "section_id": 200623826, 
+    "title": "Hide or show HTML based on user's role or group", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661316"
+  }, 
+  {
+    "author": "Dr. J", 
+    "id": 203661296, 
+    "section_id": 200623826, 
+    "title": "Personalize your communication with User and Organization Fields", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661296"
+  }, 
+  {
+    "author": "Bryant Plano", 
+    "id": 203661286, 
+    "section_id": 200623826, 
+    "title": "Crafting Better Customer Responses", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661286"
+  }, 
+  {
+    "author": "Jeremy", 
+    "id": 203661276, 
+    "section_id": 200623826, 
+    "title": "Migrating to JIRA v3: Creating a list of shared Zendesk tickets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661276"
+  }, 
+  {
+    "author": "Dr. J", 
+    "id": 203661266, 
+    "section_id": 200623826, 
+    "title": "Security, passwords, and an opportunity to have a more secure digital life.", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661266"
+  }, 
+  {
+    "author": "Andrey Sarapulov", 
+    "id": 203661256, 
+    "section_id": 200623826, 
+    "title": "Using multiple Feedback tabs on the same page", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661256"
+  }, 
+  {
+    "author": "Jeremiah Currier", 
+    "id": 203661246, 
+    "section_id": 200623826, 
+    "title": "Best Practices for Creating Views", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661246"
+  }, 
+  {
+    "author": "Sean Cusick", 
+    "id": 203661236, 
+    "section_id": 200623826, 
+    "title": "Take control of your Email channel!", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661236"
+  }, 
+  {
+    "author": "Daniel Pawluk", 
+    "id": 203661226, 
+    "section_id": 200623826, 
+    "title": "Adding Images to Humble Squid's Category Boxes", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661226"
+  }, 
+  {
+    "author": "Matt Sirianni", 
+    "id": 203661206, 
+    "section_id": 200623826, 
+    "title": "Using Liquid markup to reveal CCs in a notification email", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661206"
+  }, 
+  {
+    "author": "Teyler Kalin", 
+    "id": 203661196, 
+    "section_id": 200623826, 
+    "title": "Opening ports for Zendesk Voice", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661196"
+  }, 
+  {
+    "author": "Andrey Sarapulov", 
+    "id": 203661186, 
+    "section_id": 200623826, 
+    "title": "Integrating a step-by-step guide for your Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661186"
+  }, 
+  {
+    "author": "Andrey Sarapulov", 
+    "id": 203661176, 
+    "section_id": 200623826, 
+    "title": "Send out different notification messages using liquid", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661176"
+  }, 
+  {
+    "author": "Casem AbuLughod", 
+    "id": 203661156, 
+    "section_id": 200623826, 
+    "title": "Best practices for removing agents", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661156"
+  }, 
+  {
+    "author": "Daniel Pawluk", 
+    "id": 203661136, 
+    "section_id": 200623826, 
+    "title": "Adding a Syntax Highlighting Plugin (Snippet) to your Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661136"
+  }, 
+  {
+    "author": "Allison Goldthorpe", 
+    "id": 203661126, 
+    "section_id": 200623826, 
+    "title": "Leveraging User & Org Fields with Business Rules", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661126"
+  }, 
+  {
+    "author": "Mattias Ljung", 
+    "id": 203661116, 
+    "section_id": 200623826, 
+    "title": "Understanding backlog evolution", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661116"
+  }, 
+  {
+    "author": "Daniel Pawluk", 
+    "id": 203661106, 
+    "section_id": 200623826, 
+    "title": "Adding a lightbox (Fancybox) to your Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661106"
+  }, 
+  {
+    "author": "Bob Novak", 
+    "id": 203661086, 
+    "section_id": 200623826, 
+    "title": "Zendesk Voice Troubleshooting Tips", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661086"
+  }, 
+  {
+    "author": "Dr. J", 
+    "id": 203663426, 
+    "section_id": 200623826, 
+    "title": "Having the talk: Am I ready for a more advanced authentication option?", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663426"
+  }, 
+  {
+    "author": "Skip Moore", 
+    "id": 203661076, 
+    "section_id": 200623826, 
+    "title": "Hide and show My Activities and Submit a Request (Help Center)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661076"
+  }, 
+  {
+    "author": "Andrey Sarapulov", 
+    "id": 203661066, 
+    "section_id": 200623826, 
+    "title": "Adding classic widgets to the Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661066"
+  }, 
+  {
+    "author": "Joe", 
+    "id": 203661056, 
+    "section_id": 200623826, 
+    "title": "Custom Mobile CSS for Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661056"
+  }, 
+  {
+    "author": "Dr. J", 
+    "id": 203661046, 
+    "section_id": 200623826, 
+    "title": "How to add the Chat component to your Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661046"
+  }, 
+  {
+    "author": "Andrey Sarapulov", 
+    "id": 203661036, 
+    "section_id": 200623826, 
+    "title": "Integrating the image slider into Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661036"
+  }, 
+  {
+    "author": "Dr. J", 
+    "id": 203661026, 
+    "section_id": 200623826, 
+    "title": "How to disable or hide the Community Section from your Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661026"
+  }, 
+  {
+    "author": "Dr. J", 
+    "id": 203661016, 
+    "section_id": 200623826, 
+    "title": "How can I create an email only Help Desk with Help Center?", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661016"
+  }, 
+  {
+    "author": "Dr. J", 
+    "id": 203661006, 
+    "section_id": 200623826, 
+    "title": "How can I change the default sorting of my articles during Help Center Migration?", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661006"
+  }, 
+  {
+    "author": "Aurash Pourmand", 
+    "id": 203660996, 
+    "section_id": 200623826, 
+    "title": "Add the Konami Code to your Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660996"
+  }, 
+  {
+    "author": "Matt Daley", 
+    "id": 203660986, 
+    "section_id": 200623826, 
+    "title": "Supercharge your ticket solving productivity with keyboard shortcuts and a mouse on steroids", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660986"
+  }, 
+  {
+    "author": "Yaniv", 
+    "id": 203660976, 
+    "section_id": 200623826, 
+    "title": "Creating a secure environment in your Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660976"
+  }, 
+  {
+    "author": "Bob Novak", 
+    "id": 203660966, 
+    "section_id": 200623826, 
+    "title": "Formatting placeholders with Liquid markup", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660966"
+  }, 
+  {
+    "author": "Laura D.", 
+    "id": 203660956, 
+    "section_id": 200623826, 
+    "title": "Setting up your Zendesk to support a follow-the-sun model", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660956"
+  }, 
+  {
+    "author": "Steven Yan", 
+    "id": 203660946, 
+    "section_id": 200623826, 
+    "title": "Know your customers", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660946"
+  }, 
+  {
+    "author": "Eliot Dyson", 
+    "id": 203660936, 
+    "section_id": 200623826, 
+    "title": "Using your Voice: Highlighting multiple greetings and group routing", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660936"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 203660926, 
+    "section_id": 200623826, 
+    "title": "A guide to designing ticket forms", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660926"
+  }, 
+  {
+    "author": "Sean Cusick", 
+    "id": 203660916, 
+    "section_id": 200623826, 
+    "title": "Merging Tickets! The 2-for-1 approach to Customer Service", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660916"
+  }, 
+  {
+    "author": "Sean Cusick", 
+    "id": 203660896, 
+    "section_id": 200623826, 
+    "title": "Tip alert: Changing Bad satisfaction ratings to Good!", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660896"
+  }, 
+  {
+    "author": "Jeremiah Currier", 
+    "id": 203660886, 
+    "section_id": 200623826, 
+    "title": "Automation: Notify assignee if more than \"n\" hours since update from requester", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660886"
+  }, 
+  {
+    "author": "Jeremiah Currier", 
+    "id": 203660876, 
+    "section_id": 200623826, 
+    "title": "Queue management in Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660876"
+  }, 
+  {
+    "author": "Aurash Pourmand", 
+    "id": 203660866, 
+    "section_id": 200623826, 
+    "title": "Notifying External Email Addresses", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660866"
+  }, 
+  {
+    "author": "Jeremiah Currier", 
+    "id": 203660856, 
+    "section_id": 200623826, 
+    "title": "Automating the Creation of Google Calendar Events From \u201cTask\u201d Tickets Using a Zapier Trigger", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660856"
+  }, 
+  {
+    "author": "Adam", 
+    "id": 203660846, 
+    "section_id": 200623826, 
+    "title": "Zendesk Public IP addresses", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660846"
+  }, 
+  {
+    "author": "Lauren Fisher", 
+    "id": 203660826, 
+    "section_id": 200623826, 
+    "title": "Triggers Organized, Reassigning Tickets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660826"
+  }, 
+  {
+    "author": "Andrey Sarapulov", 
+    "id": 203660836, 
+    "section_id": 200623826, 
+    "title": "\u0418\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f \u0412\u0438\u0434\u0436\u0435\u0442\u0430 \u0434\u043b\u044f \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432 \u043e\u0442 \u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660836"
+  }, 
+  {
+    "author": "Erin Boyle", 
+    "id": 203660816, 
+    "section_id": 200623826, 
+    "title": "Customizing your customer satisfaction survey", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660816"
+  }, 
+  {
+    "author": "Adam L.", 
+    "id": 203660786, 
+    "section_id": 200623826, 
+    "title": "Getting more out of Zendesk's new Salesforce app (v3)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660786"
+  }, 
+  {
+    "author": "Brandon K.", 
+    "id": 203660766, 
+    "section_id": 200623826, 
+    "title": "Default triggers: your help desk\u2019s childhood best friend", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660766"
+  }, 
+  {
+    "author": "Elyse Kanagaratnam", 
+    "id": 203660756, 
+    "section_id": 200623826, 
+    "title": "Renaming your subdomain: the side effects", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660756"
+  }, 
+  {
+    "author": "Jake Holman", 
+    "id": 203660746, 
+    "section_id": 200623826, 
+    "title": "How due date automations work", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660746"
+  }, 
+  {
+    "author": "Elyse Kanagaratnam", 
+    "id": 203660736, 
+    "section_id": 200623826, 
+    "title": "Accelerate your ticket deflection efforts (Zendesk Classic)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660736"
+  }, 
+  {
+    "author": "Brandon K.", 
+    "id": 203660726, 
+    "section_id": 200623826, 
+    "title": "Know what your tickets are up to", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660726"
+  }, 
+  {
+    "author": "Brandon K.", 
+    "id": 203660716, 
+    "section_id": 200623826, 
+    "title": "Why do my Automations hate me?", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660716"
+  }, 
+  {
+    "author": "Toby Roger", 
+    "id": 203660706, 
+    "section_id": 200623826, 
+    "title": "Bootcamp Resources", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660706"
+  }, 
+  {
+    "author": "Adam", 
+    "id": 203660686, 
+    "section_id": 200623826, 
+    "title": "One click access for editing a user's profile!", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660686"
+  }, 
+  {
+    "author": "Pablo", 
+    "id": 203660676, 
+    "section_id": 200623826, 
+    "title": "A tip about updating your drop-down fields", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660676"
+  }, 
+  {
+    "author": "Adam L.", 
+    "id": 203660656, 
+    "section_id": 200623826, 
+    "title": "Advanced Customer Metrics with Google Analytics (Web Portal)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660656"
+  }, 
+  {
+    "author": "Anna Tsoy", 
+    "id": 203660666, 
+    "section_id": 200623826, 
+    "title": "How users interact with your knowledge base", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660666"
+  }, 
+  {
+    "author": "Avi Warner", 
+    "id": 203660636, 
+    "section_id": 200623826, 
+    "title": "Automatically tagging tickets from specific Users and Organizations", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660636"
+  }, 
+  {
+    "author": "Joe", 
+    "id": 203660626, 
+    "section_id": 200623826, 
+    "title": "The New Feedback Tab: an intro to CSS widgets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660626"
+  }, 
+  {
+    "author": "Adam", 
+    "id": 203660606, 
+    "section_id": 200623826, 
+    "title": "Configuring Office365 Hosted Exchange with Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660606"
+  }, 
+  {
+    "author": "Max McCal", 
+    "id": 203660586, 
+    "section_id": 200623826, 
+    "title": "The Call Center, Unplugged", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660586"
+  }, 
+  {
+    "author": "Adam", 
+    "id": 203660596, 
+    "section_id": 200623826, 
+    "title": "Dumping ticket export to a CSV (API tip)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660596"
+  }, 
+  {
+    "author": "Adam", 
+    "id": 203660566, 
+    "section_id": 200623826, 
+    "title": "Moving Your PopUp to a Tab", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660566"
+  }, 
+  {
+    "author": "Adam", 
+    "id": 203660556, 
+    "section_id": 200623826, 
+    "title": "Putting Your New Custom Form in a Popup", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660556"
+  }, 
+  {
+    "author": "Adam", 
+    "id": 203660576, 
+    "section_id": 200623826, 
+    "title": "Creating a Custom HTML Form for Ticket Submission", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660576"
+  }, 
+  {
+    "author": "Sara Menefee", 
+    "id": 203660546, 
+    "section_id": 200623826, 
+    "title": "Unraveling IP-based host mapping for Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660546"
+  }, 
+  {
+    "author": "Ben", 
+    "id": 203660536, 
+    "section_id": 200623826, 
+    "title": "Tracking Problem and Incident tickets with business rules", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660536"
+  }, 
+  {
+    "author": "Max McCal", 
+    "id": 203660506, 
+    "section_id": 200623826, 
+    "title": "Using Chrome Search to speed up your searches", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660506"
+  }, 
+  {
+    "author": "Adam", 
+    "id": 203660526, 
+    "section_id": 200623826, 
+    "title": "Pivotal Tracker and Zendesk Integration", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660526"
+  }, 
+  {
+    "author": "Adam", 
+    "id": 203660516, 
+    "section_id": 200623826, 
+    "title": "Using Python with the Zendesk API", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660516"
+  }, 
+  {
+    "author": "Adam", 
+    "id": 203660496, 
+    "section_id": 200623826, 
+    "title": "Migrating from JIRA 1.0 to 2.0", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660496"
+  }, 
+  {
+    "author": "Sean Kinney", 
+    "id": 203660486, 
+    "section_id": 200623826, 
+    "title": "Managing your tickets via email with the Mail API", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660486"
+  }, 
+  {
+    "author": "Avi Warner", 
+    "id": 203660476, 
+    "section_id": 200623826, 
+    "title": "Looking at satisfaction ratings with comments", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660476"
+  }, 
+  {
+    "author": "Sean Kinney", 
+    "id": 203660466, 
+    "section_id": 200623826, 
+    "title": "Using the Placeholders Autocomplete feature to make placeholder selection painless", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660466"
+  }, 
+  {
+    "author": "Susan", 
+    "id": 203660456, 
+    "section_id": 200623826, 
+    "title": "Copying other people on tickets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660456"
+  }, 
+  {
+    "author": "Susan", 
+    "id": 203660446, 
+    "section_id": 200623826, 
+    "title": "How to embed videos in your articles", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660446"
+  }, 
+  {
+    "author": "Max McCal", 
+    "id": 203660436, 
+    "section_id": 200623826, 
+    "title": "The \"No Category\" Category", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660436"
+  }, 
+  {
+    "author": "Anton de Young", 
+    "id": 203660416, 
+    "section_id": 200623826, 
+    "title": "Use topic suggestions to increase ticket deflection", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660416"
+  }, 
+  {
+    "author": "Jill Kaselitz", 
+    "id": 203660406, 
+    "section_id": 200623826, 
+    "title": "Helpful new features for your Zendesk", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660406"
+  }, 
+  {
+    "author": "Dave Dyson", 
+    "id": 203660396, 
+    "section_id": 200623826, 
+    "title": "Hiding parts of the Web portal from logged-out users", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660396"
+  }, 
+  {
+    "author": "Kelly Hoffer", 
+    "id": 203660386, 
+    "section_id": 200623826, 
+    "title": "What is the difference between a Solved ticket and a Closed ticket?", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660386"
+  }, 
+  {
+    "author": "Ted Barnum", 
+    "id": 203660376, 
+    "section_id": 200623826, 
+    "title": "Help Your Customers Keep Track of Their Support Tickets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660376"
+  }, 
+  {
+    "author": "Ted Barnum", 
+    "id": 203660356, 
+    "section_id": 200623826, 
+    "title": "Make All Ticket Comments Private By Default", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660356"
+  }, 
+  {
+    "author": "Ted Barnum", 
+    "id": 203660346, 
+    "section_id": 200623826, 
+    "title": "Escalating Your Tickets With Groups", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660346"
+  }, 
+  {
+    "author": "Ted Barnum", 
+    "id": 203660336, 
+    "section_id": 200623826, 
+    "title": "Build Custom Workflows With Tags", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660336"
+  }, 
+  {
+    "author": "Ted Barnum", 
+    "id": 203660326, 
+    "section_id": 200623826, 
+    "title": "Analyzing Macro Use With Tags", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660326"
+  }, 
+  {
+    "author": "Matthew Latkiewicz", 
+    "id": 203660306, 
+    "section_id": 200623826, 
+    "title": "Offer support in multiple time zones", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660306"
+  }, 
+  {
+    "author": "Matthew Latkiewicz", 
+    "id": 203660296, 
+    "section_id": 200623826, 
+    "title": "Use Problem and Incidents to Organize and Speed Up Your Support", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660296"
+  }, 
+  {
+    "author": "Matthew Latkiewicz", 
+    "id": 203660276, 
+    "section_id": 200623826, 
+    "title": "Use Automations to Send Alerts When a Ticket Needs a Reply", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660276"
+  }, 
+  {
+    "author": "Matthew Latkiewicz", 
+    "id": 203660266, 
+    "section_id": 200623826, 
+    "title": "Organize incoming tickets with multiple email addresses", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660266"
+  }, 
+  {
+    "author": "Matthew Latkiewicz", 
+    "id": 203660256, 
+    "section_id": 200623826, 
+    "title": "Open vs. pending tickets and why you should care", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660256"
+  }, 
+  {
+    "author": "Matthew Latkiewicz", 
+    "id": 203660246, 
+    "section_id": 200623826, 
+    "title": "Automations vs. Triggers - When To Use What", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660246"
+  }, 
+  {
+    "author": "Justin Helley", 
+    "id": 204277806, 
+    "section_id": 200623826, 
+    "title": "Multibranding Zopim (Professional Add-on and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204277806"
+  }, 
+  {
+    "author": "Arthur Mori", 
+    "id": 204278146, 
+    "section_id": 200623826, 
+    "title": "Showing Help Center article time in 12-hour format", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204278146"
+  }, 
+  {
+    "author": "Jake Bantz", 
+    "id": 206977397, 
+    "section_id": 200623826, 
+    "title": "Multibrand - Display the appropriate forms on the correct Help Center (Professional Add-on and Enterprise)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206977397"
+  }, 
+  {
+    "author": "Aimee Spanier", 
+    "id": 213249668, 
+    "section_id": 200758357, 
+    "title": "Switching from Hub and Spoke to Multibrand", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/213249668"
+  }, 
+  {
+    "author": "Pierre Grenier", 
+    "id": 205490577, 
+    "section_id": 200758357, 
+    "title": "Steps for Multibrand migration (START HERE)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205490577"
+  }, 
+  {
+    "author": "Pierre Grenier", 
+    "id": 204840838, 
+    "section_id": 200758357, 
+    "title": "How to migrate Mobile SDK to your Multibrand instance", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204840838"
+  }, 
+  {
+    "author": "Pierre Grenier", 
+    "id": 204825548, 
+    "section_id": 200758357, 
+    "title": "Customer preparation for pre and post Multibrand migration", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204825548"
+  }, 
+  {
+    "author": "Pierre Grenier", 
+    "id": 204806708, 
+    "section_id": 200758357, 
+    "title": "Migrating subdomains, Host map URLs, and SSL certificates", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204806708"
+  }, 
+  {
+    "author": "Aimee Spanier", 
+    "id": 213435987, 
+    "section_id": 200625646, 
+    "title": "Viewing keyboard shortcuts", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/213435987"
+  }, 
+  {
+    "author": "Aimee Spanier", 
+    "id": 212530318, 
+    "section_id": 200625646, 
+    "title": "Updating and solving tickets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/212530318"
+  }, 
+  {
+    "author": "Jennifer Rowe", 
+    "id": 212623648, 
+    "section_id": 200625646, 
+    "title": "Accessing your views of tickets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/212623648"
+  }, 
+  {
+    "author": "Aimee Spanier", 
+    "id": 213519318, 
+    "section_id": 200625646, 
+    "title": "Adding comments to tickets", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/213519318"
+  }, 
+  {
+    "author": "Dr. J", 
+    "id": 203691166, 
+    "section_id": 200625646, 
+    "title": "Working with audio attachments", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691166"
+  }, 
+  {
+    "author": "Jake Holman", 
+    "id": 204278476, 
+    "section_id": 200625646, 
+    "title": "Quicktab for Chrome", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204278476"
+  }, 
+  {
+    "author": "Angelica Coleman", 
+    "id": 207090577, 
+    "section_id": 201141038, 
+    "title": "Part 1: Welcome to the Zendesk Platform", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/207090577"
+  }, 
+  {
+    "author": "Angelica Coleman", 
+    "id": 206401908, 
+    "section_id": 201141038, 
+    "title": "Part 2: Reading JSON, installing cURL, and completing your developer setup", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206401908"
+  }, 
+  {
+    "author": "Angelica Coleman", 
+    "id": 206402298, 
+    "section_id": 201141038, 
+    "title": "Part 3: Using Zendesk APIs", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206402298"
+  }, 
+  {
+    "author": "Angelica Coleman", 
+    "id": 207106057, 
+    "section_id": 201141038, 
+    "title": "Part 4: Let's build an app!", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/207106057"
+  }, 
+  {
+    "author": "Jeremiah Currier", 
+    "id": 203691326, 
+    "section_id": 201141038, 
+    "title": "Developer diary: Building a Zendesk app (Part 1)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691326"
+  }, 
+  {
+    "author": "Jeremiah Currier", 
+    "id": 203691366, 
+    "section_id": 201141038, 
+    "title": "Developer diary: Building a Zendesk App (Part 2)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691366"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 206522987, 
+    "section_id": 200626376, 
+    "title": "Zendesk REST API basics", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206522987"
+  }, 
+  {
+    "author": "Adam L.", 
+    "id": 203691346, 
+    "section_id": 200626376, 
+    "title": "Common tasks performed with the Zendesk API", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691346"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203691436, 
+    "section_id": 200626376, 
+    "title": "Installing and using cURL", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691436"
+  }, 
+  {
+    "author": "Adam", 
+    "id": 203691216, 
+    "section_id": 200626376, 
+    "title": "Zendesk REST API tutorial - PHP edition", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691216"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 205364368, 
+    "section_id": 200626376, 
+    "title": "Zendesk REST API tutorial: Searching with the Zendesk API", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205364368"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 204371903, 
+    "section_id": 200626376, 
+    "title": "Zendesk REST API tutorial: Backing up your knowledge base with Python", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204371903"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 204395003, 
+    "section_id": 200626376, 
+    "title": "Zendesk REST API tutorial: Backing up your knowledge base with Perl", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204395003"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 206340488, 
+    "section_id": 200626376, 
+    "title": "Zendesk REST API tutorial: Listing the followers of a KB section", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206340488"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 209003547, 
+    "section_id": 200626376, 
+    "title": "Zendesk REST API tutorial: Building a custom ticket form", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/209003547"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 204210446, 
+    "section_id": 200626376, 
+    "title": "Zendesk REST API tutorial: Building an OAuth web app", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204210446"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 211713848, 
+    "section_id": 200626376, 
+    "title": "Getting large data sets with the Zendesk API and Python", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/211713848"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 212227138, 
+    "section_id": 200626376, 
+    "title": "Writing large data sets to Excel with Python and pandas", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/212227138"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 212521277, 
+    "section_id": 200626376, 
+    "title": "Getting large data sets with the Zendesk API and Perl", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/212521277"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 212356448, 
+    "section_id": 200626376, 
+    "title": "Writing large data sets to Excel with Perl", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/212356448"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 206155718, 
+    "section_id": 200626376, 
+    "title": "Importing users with the Zendesk API", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206155718"
+  }, 
+  {
+    "author": "Jeremiah Currier", 
+    "id": 203691336, 
+    "section_id": 200626376, 
+    "title": "Best practices for avoiding rate limiting", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691336"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 204232743, 
+    "section_id": 200626376, 
+    "title": "Paginating through lists", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204232743"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 207086687, 
+    "section_id": 200626376, 
+    "title": "Sideloading related records", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/207086687"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 206287378, 
+    "section_id": 200626376, 
+    "title": "Adding KB search to your website with AJAX", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206287378"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 205815128, 
+    "section_id": 200626376, 
+    "title": "Changing the author of a Help Center article", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205815128"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 207227357, 
+    "section_id": 200626376, 
+    "title": "Adding tags to tickets without overwriting existing tags", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/207227357"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 206375497, 
+    "section_id": 200626376, 
+    "title": "Using the API with 2-factor authentication enabled", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206375497"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203691406, 
+    "section_id": 200626376, 
+    "title": "Automating your first localization handoff (Help Center)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691406"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203691396, 
+    "section_id": 200626376, 
+    "title": "Automating your first localization handoff (Web portal)", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691396"
+  }, 
+  {
+    "author": "Sean Kinney", 
+    "id": 203691386, 
+    "section_id": 200626376, 
+    "title": "Requesting a global OAuth client for a Zendesk integration", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691386"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 204578883, 
+    "section_id": 200625656, 
+    "title": "Do's and don'ts for app developers", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204578883"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 205225558, 
+    "section_id": 200625656, 
+    "title": "Adding OAuth - Part 1: Setting up an integration", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205225558"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 206028477, 
+    "section_id": 200625656, 
+    "title": "Adding OAuth - Part 2: Changing how requests are authenticated", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206028477"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 206028467, 
+    "section_id": 200625656, 
+    "title": "Adding OAuth - Part 3: Managing the authorization flow", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206028467"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203691446, 
+    "section_id": 200625656, 
+    "title": "Zendesk Apps tutorial - Displaying data", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691446"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203691456, 
+    "section_id": 200625656, 
+    "title": "Zendesk Apps tutorial - Accessing external data", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691456"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203691466, 
+    "section_id": 200625656, 
+    "title": "Zendesk Apps tutorial - Getting data from agents", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691466"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203903346, 
+    "section_id": 200625656, 
+    "title": "Zendesk Apps tutorial - Sending data to a server", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203903346"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203691376, 
+    "section_id": 200625656, 
+    "title": "Zendesk app tools - Known issues ", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691376"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203691416, 
+    "section_id": 200625656, 
+    "title": "Updating your apps to Zendesk Apps framework v1.0", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203691416"
+  }, 
+  {
+    "author": "Bryant Plano", 
+    "id": 206569687, 
+    "section_id": 200776597, 
+    "title": "Mobile SDK for Android tutorial - Part 1: Getting Started", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/206569687"
+  }, 
+  {
+    "author": "Bryant Plano", 
+    "id": 205830148, 
+    "section_id": 200776597, 
+    "title": "Mobile SDK for Android tutorial - Part 2: Adding Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205830148"
+  }, 
+  {
+    "author": "Bryant Plano", 
+    "id": 205830568, 
+    "section_id": 200776597, 
+    "title": "Mobile SDK for Android tutorial - Part 3: Adding requests and app rating", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205830568"
+  }, 
+  {
+    "author": "Bryant Plano", 
+    "id": 205500817, 
+    "section_id": 200776597, 
+    "title": "Mobile SDK for iOS tutorial - Part 1: Getting started", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205500817"
+  }, 
+  {
+    "author": "Bryant Plano", 
+    "id": 204835858, 
+    "section_id": 200776597, 
+    "title": "Mobile SDK for iOS tutorial - Part 2: Adding Help Center", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/204835858"
+  }, 
+  {
+    "author": "Bryant Plano", 
+    "id": 205501907, 
+    "section_id": 200776597, 
+    "title": "Mobile SDK for iOS tutorial - Part 3: Adding requests and app rating", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205501907"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203924743, 
+    "section_id": 200608963, 
+    "title": "Zendesk REST API reference", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203924743"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203694446, 
+    "section_id": 200608963, 
+    "title": "Help Center API reference", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203694446"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 203694466, 
+    "section_id": 200608963, 
+    "title": "Zendesk Apps framework reference", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/203694466"
+  }, 
+  {
+    "author": "Charles Nadeau", 
+    "id": 205587157, 
+    "section_id": 200608963, 
+    "title": "Zendesk Mobile SDK reference", 
+    "url": "https://support.zendesk.com/hc/en-us/articles/205587157"
+  }
+]

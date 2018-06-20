@@ -1,0 +1,415 @@
+[
+  {
+    "author": "Jessica Marasco",
+    "id": 218339297,
+    "section_id": 203948637,
+    "title": "Introduction",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218339297"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217701028,
+    "section_id": 203948637,
+    "title": "Lesson 1: Connecting to data",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217701028"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218146007,
+    "section_id": 203948637,
+    "title": "Lesson 2: Building queries and analysis",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218146007"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218170897,
+    "section_id": 203948637,
+    "title": "Lesson 3: Creating and sharing dashboards",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218170897"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218339087,
+    "section_id": 203948637,
+    "title": "Lesson 4: Changing account settings",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218339087"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217604948,
+    "section_id": 203948647,
+    "title": "Introducing Bime",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217604948"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218134607,
+    "section_id": 203948647,
+    "title": "Working with data sources",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218134607"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218170777,
+    "section_id": 203948647,
+    "title": "Creating and customizing queries",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218170777"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217725838,
+    "section_id": 203948647,
+    "title": "Calculating queries",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217725838"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217747998,
+    "section_id": 203948647,
+    "title": "Building and publishing dynamic dashboards",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217747998"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218074607,
+    "section_id": 203804207,
+    "title": "Connecting to Youtube",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218074607"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218050057,
+    "section_id": 203804207,
+    "title": "Connecting to Twitter",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218050057"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217578868,
+    "section_id": 203804207,
+    "title": "About RDBMS connectors",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217578868"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217874708,
+    "section_id": 203804207,
+    "title": "About big data store connectors",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217874708"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217555648,
+    "section_id": 203804207,
+    "title": "Connecting to Google Analytics",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217555648"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218046207,
+    "section_id": 203804207,
+    "title": "Connecting to Salesforce",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218046207"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217525798,
+    "section_id": 203804207,
+    "title": "Connecting to Facebook",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217525798"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217874208,
+    "section_id": 203841648,
+    "title": "Using the Bime scheduler",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217874208"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218000607,
+    "section_id": 203841648,
+    "title": "Using BimeDB",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218000607"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217183808,
+    "section_id": 203804167,
+    "title": "Changing the measure aggregator",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217183808"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217555808,
+    "section_id": 203804167,
+    "title": "About Google Analytics' special features",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217555808"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217558728,
+    "section_id": 203804167,
+    "title": "Creating joins with the Query blender",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217558728"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217695677,
+    "section_id": 203804167,
+    "title": "Setting attribute permissions",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217695677"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217183628,
+    "section_id": 203804237,
+    "title": "Visualization types reference",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217183628"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217625928,
+    "section_id": 203804237,
+    "title": "Sorting results",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217625928"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218406707,
+    "section_id": 203804177,
+    "title": "Calculation types reference",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218406707"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218025747,
+    "section_id": 203804177,
+    "title": "Standard calculated measures and attributes",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218025747"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217778218,
+    "section_id": 203804177,
+    "title": "Setting result manipulation order",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217778218"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217778078,
+    "section_id": 203804177,
+    "title": "Hiding rows and columns",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217778078"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217740197,
+    "section_id": 203804177,
+    "title": "Organizing values by groups and sets",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217740197"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217378708,
+    "section_id": 203804177,
+    "title": "Creating result path calculations",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217378708"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217743928,
+    "section_id": 203804177,
+    "title": "Adding fixed calculated measures",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217743928"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217556768,
+    "section_id": 203804177,
+    "title": "Adding a basket attribute",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217556768"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217514208,
+    "section_id": 203804177,
+    "title": "Creating global variables",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217514208"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217611128,
+    "section_id": 203804177,
+    "title": "Using measure filters",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217611128"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218073897,
+    "section_id": 203804177,
+    "title": "Benchmarking your results",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218073897"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217582188,
+    "section_id": 203804177,
+    "title": "Adding totals",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217582188"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217578708,
+    "section_id": 203804177,
+    "title": "Using forecasting to predict results",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217578708"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217377048,
+    "section_id": 203804177,
+    "title": "Using result measure calculations",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217377048"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217705777,
+    "section_id": 203804177,
+    "title": "Creating a top/bottom filter",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217705777"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217704327,
+    "section_id": 203804177,
+    "title": "Using time and date calculated measures",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217704327"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217875558,
+    "section_id": 203804217,
+    "title": "Formula writing rules reference",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217875558"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217437008,
+    "section_id": 203804217,
+    "title": "Writing date formulas",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217437008"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218338157,
+    "section_id": 203804217,
+    "title": "Writing simple numeric formulas",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218338157"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218364187,
+    "section_id": 203804217,
+    "title": "Writing advanced numeric formulas",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218364187"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217784248,
+    "section_id": 203804217,
+    "title": "Writing text formulas",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217784248"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217845898,
+    "section_id": 203804217,
+    "title": "Writing logical formulas",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217845898"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218265677,
+    "section_id": 203804217,
+    "title": "Adding attributes to formulas",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218265677"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217205458,
+    "section_id": 203804187,
+    "title": "Customizing your dashboard",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217205458"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218241087,
+    "section_id": 203804187,
+    "title": "Setting widgets as slides",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218241087"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217442748,
+    "section_id": 203804187,
+    "title": "Adding dashboard interactions",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217442748"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217695467,
+    "section_id": 203841628,
+    "title": "Creating and managing named groups and named users",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217695467"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217624918,
+    "section_id": 203841628,
+    "title": "Sharing dashboards through email",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217624918"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217442838,
+    "section_id": 203841628,
+    "title": "Disabling data interaction options",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217442838"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218241317,
+    "section_id": 203901417,
+    "title": "Viewing widgets as slides",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218241317"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 218166767,
+    "section_id": 203901417,
+    "title": "Using the dashboard portal",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218166767"
+  },
+  {
+    "author": "Jessica Marasco",
+    "id": 217206318,
+    "section_id": 203901417,
+    "title": "Adding comments to dashboards",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217206318"
+  },
+  {
+    "author": "Philippa Booth",
+    "id": 218333007,
+    "section_id": 203901397,
+    "title": "Measuring the impact of images in tweets",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218333007"
+  },
+  {
+    "author": "Andrew Forbes",
+    "id": 218324387,
+    "section_id": 203901397,
+    "title": "Adding alerts in Slack, FlowDock, and Yammer",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218324387"
+  }
+]

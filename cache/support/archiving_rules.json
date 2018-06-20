@@ -1,0 +1,22 @@
+{
+  "announcements": {
+    "archive_id": 200625586, 
+    "exclude_list": [],
+    "exclude_label": "do_not_archive",
+    "months": -6, 
+    "section_id": 200623776
+  },
+    "release_notes": {
+    "archive_id": 200625596,
+    "exclude_list": [],
+    "exclude_label": "do_not_archive",
+    "months": -6,
+    "section_id": 200623796
+  },
+  "comments": {
+    "before_date": "2015-07-01T07:00:01Z",
+    "exclude_list": [],
+    "exclude_label": "",
+    "months": 0
+  }
+}

@@ -1,0 +1,802 @@
+[
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-30T20:27:33Z",
+    "dita": "zug_zopim_GS_agents",
+    "id": 218425247,
+    "section_id": 203382008,
+    "source_locale": "en-us",
+    "title": "Getting started for agents",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218425247-Getting-started-for-agents"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:12:43Z",
+    "dita": "zug_zopim_GS_admins",
+    "id": 212679087,
+    "section_id": 203382008,
+    "source_locale": "en-us",
+    "title": "Getting started for admins",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679087-Getting-started-for-admins"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-30T20:30:45Z",
+    "dita": null,
+    "id": 218425317,
+    "section_id": 204023197,
+    "source_locale": "en-us",
+    "title": "Introduction",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218425317-Introduction"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-30T20:33:38Z",
+    "dita": null,
+    "id": 218425367,
+    "section_id": 204023197,
+    "source_locale": "en-us",
+    "title": "Step 1: Align chat goals with business objectives",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218425367-Step-1-Align-chat-goals-with-business-objectives"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-30T20:35:05Z",
+    "dita": null,
+    "id": 217915918,
+    "section_id": 204023197,
+    "source_locale": "en-us",
+    "title": "Step 2: Manage customer experience and chat volume",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217915918-Step-2-Manage-customer-experience-and-chat-volume"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-30T20:36:34Z",
+    "dita": null,
+    "id": 218425477,
+    "section_id": 204023197,
+    "source_locale": "en-us",
+    "title": "Step 3: Determine your staffing requirements",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218425477-Step-3-Determine-your-staffing-requirements"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-30T20:37:56Z",
+    "dita": null,
+    "id": 218425517,
+    "section_id": 204023197,
+    "source_locale": "en-us",
+    "title": "Step 4: Train your agents",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218425517-Step-4-Train-your-agents"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-30T20:39:19Z",
+    "dita": null,
+    "id": 217915998,
+    "section_id": 204023197,
+    "source_locale": "en-us",
+    "title": "Step 5: Build a chat workflow",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217915998-Step-5-Build-a-chat-workflow"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-30T20:40:22Z",
+    "dita": null,
+    "id": 217916008,
+    "section_id": 204023197,
+    "source_locale": "en-us",
+    "title": "Step 6: Monitor success metrics and improve chat deployment",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217916008-Step-6-Monitor-success-metrics-and-improve-chat-deployment"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-07-17T17:06:00Z",
+    "dita": null,
+    "id": 115010347727,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Routing chats based on agent skills",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115010347727-Routing-chats-based-on-agent-skills"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-07-12T23:57:10Z",
+    "dita": null,
+    "id": 115010398048,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Creating custom roles and assigning users",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115010398048-Creating-custom-roles-and-assigning-users"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-04-25T17:01:33Z",
+    "dita": null,
+    "id": 218953857,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Setting the language on the chat widget",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218953857-Setting-the-language-on-the-chat-widget"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-05-24T15:23:23Z",
+    "dita": null,
+    "id": 219848967,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Configuring widget security settings",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/219848967-Configuring-widget-security-settings"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:17:38Z",
+    "dita": "zug_zopim_create_account",
+    "id": 212679237,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Creating a Zendesk Chat account",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679237-Creating-a-Zendesk-Chat-account"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-07-17T20:21:56Z",
+    "dita": null,
+    "id": 115010355747,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "About Zendesk Chat plan types",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115010355747-About-Zendesk-Chat-plan-types"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-07-25T04:33:30Z",
+    "dita": null,
+    "id": 115010754368,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Managing your installed apps in Zendesk Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115010754368-Managing-your-installed-apps-in-Zendesk-Chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-07-26T19:06:50Z",
+    "dita": "zug_zendesk_in_zopim",
+    "id": 223414387,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Setting up Zendesk Support in Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/223414387-Setting-up-Zendesk-Support-in-Chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:20:33Z",
+    "dita": "zug_zopim_adding_widget",
+    "id": 212679527,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Adding Zendesk Chat to your website",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679527-Adding-Zendesk-Chat-to-your-website"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:22:04Z",
+    "dita": "zug_zopim_agents_depts",
+    "id": 212015708,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Creating agents and departments",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212015708-Creating-agents-and-departments"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:27:41Z",
+    "dita": "zug_zopim_roles",
+    "id": 212679597,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Understanding default roles in Zendesk Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679597-Understanding-default-roles-in-Zendesk-Chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:26:54Z",
+    "dita": null,
+    "id": 212679577,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Customizing the chat widget",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679577-Customizing-the-chat-widget"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-23T23:05:28Z",
+    "dita": null,
+    "id": 217802018,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Customizing the widget for mobile devices",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217802018-Customizing-the-widget-for-mobile-devices"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:30:10Z",
+    "dita": null,
+    "id": 212015968,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Zendesk Chat triggers conditions and actions reference",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212015968-Zendesk-Chat-triggers-conditions-and-actions-reference"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:29:22Z",
+    "dita": null,
+    "id": 212679627,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Working with triggers",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679627-Working-with-triggers"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-29T20:19:46Z",
+    "dita": "zug_zopim_viewing_analyzing_tags",
+    "id": 217897448,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Viewing and analyzing tag data",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217897448-Viewing-and-analyzing-tag-data"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:33:26Z",
+    "dita": null,
+    "id": 212015988,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Setting up the Pre-Chat form",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212015988-Setting-up-the-Pre-Chat-form"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-22T20:56:37Z",
+    "dita": null,
+    "id": 218264107,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Checking your connection status for troubleshooting",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218264107-Checking-your-connection-status-for-troubleshooting"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-22T20:18:27Z",
+    "dita": "zug_zopim_chat_routing",
+    "id": 217777918,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Setting up chat routing",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217777918-Setting-up-chat-routing"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:34:32Z",
+    "dita": null,
+    "id": 212016008,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Managing file sending options",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016008-Managing-file-sending-options"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:41:04Z",
+    "dita": null,
+    "id": 212016168,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Creating a schedule with operating hours (Professional and Enterprise)",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016168-Creating-a-schedule-with-operating-hours-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:39:20Z",
+    "dita": null,
+    "id": 212679837,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Using IP Access Restriction to limit dashboard access (Enterprise)",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679837-Using-IP-Access-Restriction-to-limit-dashboard-access-Enterprise-"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:38:10Z",
+    "dita": "zug_zopim_unbranding_widget",
+    "id": 212679827,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Unbranding the Zendesk Chat widget",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679827-Unbranding-the-Zendesk-Chat-widget"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-28T21:08:12Z",
+    "dita": null,
+    "id": 218376247,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Chat-Support integration v2 FAQs",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218376247-Chat-Support-integration-v2-FAQs"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:45:36Z",
+    "dita": "zug_zopim_chatting",
+    "id": 212679937,
+    "section_id": 202544268,
+    "source_locale": "en-us",
+    "title": "Using Zendesk Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679937-Using-Zendesk-Chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:48:50Z",
+    "dita": "zag_zopim_update_profile",
+    "id": 212016478,
+    "section_id": 202544268,
+    "source_locale": "en-us",
+    "title": "Editing your personal settings in Zendesk Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016478-Editing-your-personal-settings-in-Zendesk-Chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:46:43Z",
+    "dita": "zag_zopim_onlinestatus",
+    "id": 212016418,
+    "section_id": 202544268,
+    "source_locale": "en-us",
+    "title": "Setting your availability status",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016418-Setting-your-availability-status"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:49:57Z",
+    "dita": null,
+    "id": 212016488,
+    "section_id": 202544268,
+    "source_locale": "en-us",
+    "title": "Inserting common phrases with shortcuts",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016488-Inserting-common-phrases-with-shortcuts"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:54:17Z",
+    "dita": "zag_zopim_keyboard_shortcuts",
+    "id": 212680107,
+    "section_id": 202544268,
+    "source_locale": "en-us",
+    "title": "Navigating the dashboard with keyboard shortcuts",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680107-Navigating-the-dashboard-with-keyboard-shortcuts"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:52:31Z",
+    "dita": null,
+    "id": 212016538,
+    "section_id": 202544268,
+    "source_locale": "en-us",
+    "title": "Sending files in a chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016538-Sending-files-in-a-chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:57:54Z",
+    "dita": null,
+    "id": 212016638,
+    "section_id": 202544268,
+    "source_locale": "en-us",
+    "title": "Banning visitors",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016638-Banning-visitors"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:03:46Z",
+    "dita": null,
+    "id": 212016688,
+    "section_id": 202544408,
+    "source_locale": "en-us",
+    "title": "Browsing past chats in History",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016688-Browsing-past-chats-in-History"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:03:03Z",
+    "dita": null,
+    "id": 212016678,
+    "section_id": 202544408,
+    "source_locale": "en-us",
+    "title": "Browsing your site's visitors",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016678-Browsing-your-site-s-visitors"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:06:28Z",
+    "dita": "zug_zopim_monitor",
+    "id": 212016728,
+    "section_id": 202544408,
+    "source_locale": "en-us",
+    "title": "Monitoring real-time chat metrics",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016728-Monitoring-real-time-chat-metrics"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-22T21:37:41Z",
+    "dita": null,
+    "id": 217784088,
+    "section_id": 202544408,
+    "source_locale": "en-us",
+    "title": "Using the Weekly Analytics report (Professional and Enterprise)",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217784088-Using-the-Weekly-Analytics-report-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:04:54Z",
+    "dita": "zug_zopim_analytics",
+    "id": 212016698,
+    "section_id": 202544408,
+    "source_locale": "en-us",
+    "title": "Monitoring chat activity with Analytics",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016698-Monitoring-chat-activity-with-Analytics"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:08:39Z",
+    "dita": null,
+    "id": 212016748,
+    "section_id": 202544408,
+    "source_locale": "en-us",
+    "title": "Analytics CSV glossary (Professional and Enterprise)",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016748-Analytics-CSV-glossary-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Abhiroop Basu",
+    "created_at": "2016-04-26T22:22:49Z",
+    "dita": null,
+    "id": 218988657,
+    "section_id": 202558558,
+    "source_locale": "en-us",
+    "title": "Tracking goals and conversions with Google Analytics",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218988657-Tracking-goals-and-conversions-with-Google-Analytics"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:41:53Z",
+    "dita": null,
+    "id": 212679857,
+    "section_id": 202558558,
+    "source_locale": "en-us",
+    "title": "Setting up shortcuts and departments to optimize agent efficiency",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679857-Setting-up-shortcuts-and-departments-to-optimize-agent-efficiency"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:31:46Z",
+    "dita": null,
+    "id": 212679647,
+    "section_id": 202558558,
+    "source_locale": "en-us",
+    "title": "Targeting key visitors with proactive chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679647-Targeting-key-visitors-with-proactive-chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:32:35Z",
+    "dita": null,
+    "id": 212679657,
+    "section_id": 202558558,
+    "source_locale": "en-us",
+    "title": "Automatically route chats to departments",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679657-Automatically-route-chats-to-departments"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:43:11Z",
+    "dita": null,
+    "id": 212016318,
+    "section_id": 202558558,
+    "source_locale": "en-us",
+    "title": "Setting up Zendesk Chat for complex business needs",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016318-Setting-up-Zendesk-Chat-for-complex-business-needs"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T21:58:54Z",
+    "dita": "zag_zopim_chatetiquette",
+    "id": 212016658,
+    "section_id": 202558558,
+    "source_locale": "en-us",
+    "title": "Best practices for chat etiquette",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016658-Best-practices-for-chat-etiquette"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:20:37Z",
+    "dita": null,
+    "id": 212680477,
+    "section_id": 202527497,
+    "source_locale": "en-us",
+    "title": "Hiding the chat widget via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680477-Hiding-the-chat-widget-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:15:56Z",
+    "dita": null,
+    "id": 212016818,
+    "section_id": 202527497,
+    "source_locale": "en-us",
+    "title": "Displaying custom image statuses via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016818-Displaying-custom-image-statuses-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:19:01Z",
+    "dita": null,
+    "id": 212680437,
+    "section_id": 202527497,
+    "source_locale": "en-us",
+    "title": "Changing the widget according to status via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680437-Changing-the-widget-according-to-status-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:17:35Z",
+    "dita": null,
+    "id": 212680337,
+    "section_id": 202527497,
+    "source_locale": "en-us",
+    "title": "Displaying or hiding the chat bubble based on status via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680337-Displaying-or-hiding-the-chat-bubble-based-on-status-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:14:28Z",
+    "dita": null,
+    "id": 212680297,
+    "section_id": 202527497,
+    "source_locale": "en-us",
+    "title": "Making the widget pop up after a certain amount of time via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680297-Making-the-widget-pop-up-after-a-certain-amount-of-time-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:12:24Z",
+    "dita": null,
+    "id": 212680287,
+    "section_id": 202527497,
+    "source_locale": "en-us",
+    "title": "Changing the widget language via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680287-Changing-the-widget-language-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:19:51Z",
+    "dita": null,
+    "id": 212017088,
+    "section_id": 202527497,
+    "source_locale": "en-us",
+    "title": "Hiding the widget on mobile devices via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212017088-Hiding-the-widget-on-mobile-devices-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:15:06Z",
+    "dita": null,
+    "id": 212016788,
+    "section_id": 202527497,
+    "source_locale": "en-us",
+    "title": "Identifying visitors via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016788-Identifying-visitors-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:13:11Z",
+    "dita": null,
+    "id": 212016768,
+    "section_id": 202527497,
+    "source_locale": "en-us",
+    "title": "Tagging visitors using mobile devices via API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016768-Tagging-visitors-using-mobile-devices-via-API"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:47:21Z",
+    "dita": null,
+    "id": 212020688,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for WordPress",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212020688-Installing-Zopim-for-WordPress"
+  },
+  {
+    "author": "Candie Baring",
+    "created_at": "2015-10-15T22:38:50Z",
+    "dita": null,
+    "id": 212017238,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for Wix",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212017238-Installing-Zopim-for-Wix"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-03-22T21:26:40Z",
+    "dita": null,
+    "id": 217783888,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing eEdge for Zopim",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217783888-Installing-eEdge-for-Zopim"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:42:21Z",
+    "dita": null,
+    "id": 212681617,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for Shopify",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212681617-Installing-Zopim-for-Shopify"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:41:23Z",
+    "dita": null,
+    "id": 212681067,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for Google Sites",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212681067-Installing-Zopim-for-Google-Sites"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:37:57Z",
+    "dita": null,
+    "id": 212680747,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for Drupal",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680747-Installing-Zopim-for-Drupal"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:30:23Z",
+    "dita": null,
+    "id": 212680737,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Integrating with JIRA",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680737-Integrating-with-JIRA"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:28:59Z",
+    "dita": null,
+    "id": 212680727,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Integrating with UserVoice",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212680727-Integrating-with-UserVoice"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:46:33Z",
+    "dita": null,
+    "id": 212020408,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for Magento",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212020408-Installing-Zopim-for-Magento"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:45:53Z",
+    "dita": null,
+    "id": 212019968,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for Prestashop",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212019968-Installing-Zopim-for-Prestashop"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:45:08Z",
+    "dita": null,
+    "id": 212019468,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for Blogger.com",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212019468-Installing-Zopim-for-Blogger-com"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:43:43Z",
+    "dita": null,
+    "id": 212018708,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for BigCommerce",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212018708-Installing-Zopim-for-BigCommerce"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:43:00Z",
+    "dita": null,
+    "id": 212018328,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for Joomla",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212018328-Installing-Zopim-for-Joomla"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:40:44Z",
+    "dita": null,
+    "id": 212017268,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for Weebly",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212017268-Installing-Zopim-for-Weebly"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:39:48Z",
+    "dita": null,
+    "id": 212017248,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for Market Leader Business Suite",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212017248-Installing-Zopim-for-Market-Leader-Business-Suite"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:36:31Z",
+    "dita": null,
+    "id": 212017218,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for MyBB",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212017218-Installing-Zopim-for-MyBB"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:33:45Z",
+    "dita": null,
+    "id": 212017178,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zopim for Webs.com",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212017178-Installing-Zopim-for-Webs-com"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:32:17Z",
+    "dita": null,
+    "id": 212017168,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Integrating with Highrise",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212017168-Integrating-with-Highrise"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-10-15T22:29:44Z",
+    "dita": null,
+    "id": 212017158,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Integrating with Batchbook",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212017158-Integrating-with-Batchbook"
+  }
+]

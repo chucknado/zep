@@ -1,0 +1,218 @@
+[
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_Rest_connector",
+    "id": 222967167,
+    "section_id": 203804207,
+    "title": "Creating a new REST connection",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/222967167-Creating-a-new-REST-connection"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_computer_files",
+    "id": 216768768,
+    "section_id": 203804207,
+    "title": "Connecting to files\n    on\n    your computer",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/216768768-Connecting-to-files-on-your-computer"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_Onlinefiles",
+    "id": 216768748,
+    "section_id": 203804207,
+    "title": "Connecting to files from online sources",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/216768748-Connecting-to-files-from-online-sources"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "BIME_joins",
+    "id": 220345648,
+    "section_id": 203841648,
+    "title": "About joins",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/220345648-About-joins"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_SQLdesigner",
+    "id": 220572587,
+    "section_id": 203841648,
+    "title": "Selecting multiple tables from a database connection ",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/220572587-Selecting-multiple-tables-from-a-database-connection-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_adding_data",
+    "id": 216564888,
+    "section_id": 203804167,
+    "title": "Adding metrics and\n    attributes",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/216564888-Adding-metrics-and-attributes"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_attributepermissions",
+    "id": 217695677,
+    "section_id": 203804167,
+    "title": "Setting attribute permissions",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217695677-Setting-attribute-permissions"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_QueryDates",
+    "id": 216561558,
+    "section_id": 203804167,
+    "title": "Adding and editing dates ",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/216561558-Adding-and-editing-dates-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_queries_geolocation",
+    "id": 216965168,
+    "section_id": 203804237,
+    "title": "Viewing results by\n    location",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/216965168-Viewing-results-by-location"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_queries_ToT",
+    "id": 217517207,
+    "section_id": 203804237,
+    "title": "Comparing    trends    over time ",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217517207-Comparing-trends-over-time-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_queries_multimeasure",
+    "id": 217026168,
+    "section_id": 203804237,
+    "title": "Using metrics as axes",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217026168-Using-metrics-as-axes"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_queries_measures",
+    "id": 217026268,
+    "section_id": 203804237,
+    "title": "Comparing metrics",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217026268-Comparing-metrics"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_queries_category",
+    "id": 217027918,
+    "section_id": 203804237,
+    "title": "Comparing\n    categories",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217027918-Comparing-categories"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_queries_grids",
+    "id": 217028698,
+    "section_id": 203804237,
+    "title": "Customizing\n    tables",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217028698-Customizing-tables"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_queries_workflow",
+    "id": 217033978,
+    "section_id": 203804237,
+    "title": "Displaying workflow",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217033978-Displaying-workflow"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_datatips",
+    "id": 222030427,
+    "section_id": 203804237,
+    "title": "Adding datatips to your query",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/222030427-Adding-datatips-to-your-query"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_fiscalyear",
+    "id": 222704748,
+    "section_id": 203804237,
+    "title": "Modifying your calendar using fiscal attributes",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/222704748-Modifying-your-calendar-using-fiscal-attributes"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_basketattributes",
+    "id": 217556768,
+    "section_id": 203804177,
+    "title": "Dividing results into numeric ranges",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217556768-Dividing-results-into-numeric-ranges"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_topbottomfilter",
+    "id": 217705777,
+    "section_id": 203804177,
+    "title": "Creating a top/bottom filter",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217705777-Creating-a-top-bottom-filter"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_formulas_dates",
+    "id": 217437008,
+    "section_id": 203804217,
+    "title": "Using dates in functions",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217437008-Using-dates-in-functions"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_formula_text",
+    "id": 217784248,
+    "section_id": 203804217,
+    "title": "Performing calculations on text",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217784248-Performing-calculations-on-text"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_trigonmetry_functions",
+    "id": 218364187,
+    "section_id": 203804217,
+    "title": "Creating advanced mathematical calculations",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218364187-Creating-advanced-mathematical-calculations"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_numeric_formulas",
+    "id": 218338157,
+    "section_id": 203804217,
+    "title": "Performing simple mathematical calculations",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/218338157-Performing-simple-mathematical-calculations"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_formulas_other",
+    "id": 222576347,
+    "section_id": 203804217,
+    "title": "Using functions to retrieve outside data",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/222576347-Using-functions-to-retrieve-outside-data"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_copyingwidgets",
+    "id": 220552347,
+    "section_id": 203804187,
+    "title": "Copying widgets and tabs across different locations",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/220552347-Copying-widgets-and-tabs-across-different-locations"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_studiousers",
+    "id": 217989978,
+    "section_id": 203841628,
+    "title": "Creating editors and setting permissions",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217989978-Creating-editors-and-setting-permissions"
+  },
+  {
+    "author": "Jessica Marasco",
+    "dita": "Bime_creatingnamedusers",
+    "id": 217695467,
+    "section_id": 203841628,
+    "title": "Creating and managing viewers and viewer groups",
+    "url": "https://bime.zendesk.com/hc/en-us/articles/217695467-Creating-and-managing-viewers-and-viewer-groups"
+  }
+]

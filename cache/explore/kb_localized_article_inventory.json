@@ -1,0 +1,422 @@
+[
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-02-07T16:49:17Z",
+    "dita": "Explore_gsg_introduction",
+    "id": 115002591127,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started with Zendesk Explore",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115002591127-Getting-started-with-Zendesk-Explore"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-22T17:49:33Z",
+    "dita": "Explore_gsg_pre-built_dashboards",
+    "id": 115009447768,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started with your Zendesk pre-built dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009447768-Getting-started-with-your-Zendesk-pre-built-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-22T17:50:42Z",
+    "dita": "Explore_gsg_about_queries",
+    "id": 115009285947,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started with queries",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009285947-Getting-started-with-queries"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-22T17:52:07Z",
+    "dita": "Explore_gsg_creating_queries",
+    "id": 115009285987,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started creating custom queries",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009285987-Getting-started-creating-custom-queries"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-22T17:53:19Z",
+    "dita": "Explore_gsg_modifying_queries",
+    "id": 115009447968,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started modifying queries",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009447968-Getting-started-modifying-queries"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-22T17:54:16Z",
+    "dita": "Explore_gsg_creating_dashboards",
+    "id": 115009286027,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started with dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009286027-Getting-started-with-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-04-17T16:28:03Z",
+    "dita": "Explore_user_roles",
+    "id": 115006034248,
+    "section_id": 115002135828,
+    "source_locale": "en-us",
+    "title": "Understanding Explore user roles",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115006034248-Understanding-Explore-user-roles"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T22:36:20Z",
+    "dita": null,
+    "id": 236024267,
+    "section_id": 115003092327,
+    "source_locale": "en-us",
+    "title": "Adding users to Explore",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/236024267-Adding-users-to-Explore"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-25T18:59:33Z",
+    "dita": null,
+    "id": 115002071928,
+    "section_id": 115003092327,
+    "source_locale": "en-us",
+    "title": "Duplicating pre-built and shared dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115002071928-Duplicating-pre-built-and-shared-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-02-03T00:17:00Z",
+    "dita": "Explore_support_connections",
+    "id": 115002483968,
+    "section_id": 207383427,
+    "source_locale": "en-us",
+    "title": "Importing your Zendesk data into Explore",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115002483968-Importing-your-Zendesk-data-into-Explore"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-04T18:41:40Z",
+    "dita": null,
+    "id": 115000769487,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Creating a new query",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000769487-Creating-a-new-query"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T00:23:24Z",
+    "dita": null,
+    "id": 235975467,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Adding metrics and attributes to your query",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/235975467-Adding-metrics-and-attributes-to-your-query"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T00:27:21Z",
+    "dita": "Explore_adding_dates",
+    "id": 235975527,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Editing dates and date ranges",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/235975527-Editing-dates-and-date-ranges"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T00:21:51Z",
+    "dita": "Explore_metric_aggregators",
+    "id": 235975427,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Changing metric aggregators",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/235975427-Changing-metric-aggregators"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-03-30T21:44:59Z",
+    "dita": "Explore_default_aggregator",
+    "id": 115005268848,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Setting a metric's default and visible aggregators",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115005268848-Setting-a-metric-s-default-and-visible-aggregators"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T00:17:53Z",
+    "dita": "Explore_attribute_permissions",
+    "id": 235975187,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Setting attribute permissions",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/235975187-Setting-attribute-permissions"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-05T00:01:04Z",
+    "dita": null,
+    "id": 115000831368,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Saving your query",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000831368-Saving-your-query"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-05T00:02:58Z",
+    "dita": null,
+    "id": 115000831408,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Sharing queries from the Queries library",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000831408-Sharing-queries-from-the-Queries-library"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-13T21:04:15Z",
+    "dita": null,
+    "id": 115001386308,
+    "section_id": 207335528,
+    "source_locale": "en-us",
+    "title": "Customizing queries",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115001386308-Customizing-queries"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T16:50:07Z",
+    "dita": "Explore_rename_elements",
+    "id": 235943948,
+    "section_id": 207335528,
+    "source_locale": "en-us",
+    "title": "Editing metric and attribute names",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/235943948-Editing-metric-and-attribute-names"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T16:35:25Z",
+    "dita": "Explore_result_formatting",
+    "id": 236004007,
+    "section_id": 207335528,
+    "source_locale": "en-us",
+    "title": "Changing your result format",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/236004007-Changing-your-result-format"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T19:17:23Z",
+    "dita": "Explore_date_time_calculations",
+    "id": 235951128,
+    "section_id": 207347648,
+    "source_locale": "en-us",
+    "title": "Adding time and date calculated metrics",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/235951128-Adding-time-and-date-calculated-metrics"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T19:12:45Z",
+    "dita": "Explore_top_bottom",
+    "id": 236011967,
+    "section_id": 207347648,
+    "source_locale": "en-us",
+    "title": "Creating a top/bottom filter",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/236011967-Creating-a-top-bottom-filter"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T18:59:01Z",
+    "dita": "Explore_result_measure",
+    "id": 236011267,
+    "section_id": 207347648,
+    "source_locale": "en-us",
+    "title": "Performing calculations on manipulated results",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/236011267-Performing-calculations-on-manipulated-results"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T18:54:10Z",
+    "dita": "Explore_result_path",
+    "id": 236010927,
+    "section_id": 207347648,
+    "source_locale": "en-us",
+    "title": "Performing calculations without calculated metrics",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/236010927-Performing-calculations-without-calculated-metrics"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T18:43:18Z",
+    "dita": null,
+    "id": 235948948,
+    "section_id": 207347648,
+    "source_locale": "en-us",
+    "title": "Creating basic calculated metrics and attributes",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/235948948-Creating-basic-calculated-metrics-and-attributes"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T18:31:59Z",
+    "dita": "Explore_totals",
+    "id": 236010127,
+    "section_id": 207347648,
+    "source_locale": "en-us",
+    "title": "Adding totals",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/236010127-Adding-totals"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T18:25:49Z",
+    "dita": "Explore_metric_filter",
+    "id": 236009807,
+    "section_id": 207347648,
+    "source_locale": "en-us",
+    "title": "Selecting the metric result range",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/236009807-Selecting-the-metric-result-range"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T18:19:54Z",
+    "dita": "Explore_hide_results",
+    "id": 235947668,
+    "section_id": 207347648,
+    "source_locale": "en-us",
+    "title": "Hiding rows and columns",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/235947668-Hiding-rows-and-columns"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T18:15:22Z",
+    "dita": "Explore_result_manipulations",
+    "id": 236009067,
+    "section_id": 207347648,
+    "source_locale": "en-us",
+    "title": "Setting the order for your result manipulations",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/236009067-Setting-the-order-for-your-result-manipulations"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T19:57:37Z",
+    "dita": "Explore_navigating_formula",
+    "id": 235954848,
+    "section_id": 207350068,
+    "source_locale": "en-us",
+    "title": "Navigating the Formula window",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/235954848-Navigating-the-Formula-window"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-05T00:12:03Z",
+    "dita": null,
+    "id": 115000831868,
+    "section_id": 207352488,
+    "source_locale": "en-us",
+    "title": "Adding a new dashboard",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000831868-Adding-a-new-dashboard"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-03-15T16:52:50Z",
+    "dita": "Explore_dashboard_add_queries",
+    "id": 115004390067,
+    "section_id": 207352488,
+    "source_locale": "en-us",
+    "title": "Adding a query to your dashboard",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115004390067-Adding-a-query-to-your-dashboard"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-09T21:58:17Z",
+    "dita": null,
+    "id": 115000962247,
+    "section_id": 207352488,
+    "source_locale": "en-us",
+    "title": "Adding and arranging dashboard widgets",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000962247-Adding-and-arranging-dashboard-widgets"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T22:23:17Z",
+    "dita": null,
+    "id": 236023647,
+    "section_id": 207352488,
+    "source_locale": "en-us",
+    "title": "Customizing your dashboard",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/236023647-Customizing-your-dashboard"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T22:17:48Z",
+    "dita": null,
+    "id": 236023527,
+    "section_id": 207352488,
+    "source_locale": "en-us",
+    "title": "Adding dashboard interactivity",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/236023527-Adding-dashboard-interactivity"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-09T21:53:47Z",
+    "dita": null,
+    "id": 115000998408,
+    "section_id": 207352728,
+    "source_locale": "en-us",
+    "title": "Sharing dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000998408-Sharing-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T22:40:54Z",
+    "dita": "Explore_email_delivery",
+    "id": 236024367,
+    "section_id": 207352728,
+    "source_locale": "en-us",
+    "title": "Sharing dashboards through email",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/236024367-Sharing-dashboards-through-email"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-12-06T22:48:36Z",
+    "dita": null,
+    "id": 235963008,
+    "section_id": 207352728,
+    "source_locale": "en-us",
+    "title": "Turning off dashboard and query interactivity",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/235963008-Turning-off-dashboard-and-query-interactivity"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-04-03T16:04:36Z",
+    "dita": "Explore_precanned",
+    "id": 115005204787,
+    "section_id": 207365527,
+    "source_locale": "en-us",
+    "title": "Overview of Explore's pre-built dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115005204787-Overview-of-Explore-s-pre-built-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-26T15:40:52Z",
+    "dita": "Explore_customer_satisfaction_dashboard",
+    "id": 115009415747,
+    "section_id": 207365527,
+    "source_locale": "en-us",
+    "title": "Viewing your customer satisfaction in Explore",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009415747-Viewing-your-customer-satisfaction-in-Explore"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-23T18:21:55Z",
+    "dita": null,
+    "id": 115001814927,
+    "section_id": 115003094868,
+    "source_locale": "en-us",
+    "title": "Interacting with dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115001814927-Interacting-with-dashboards"
+  }
+]

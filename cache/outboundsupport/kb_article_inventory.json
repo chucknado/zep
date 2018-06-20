@@ -1,0 +1,362 @@
+[
+  {
+    "author": "Aaron Cottrell",
+    "created_at": "2017-08-23T02:42:07Z",
+    "dita": null,
+    "id": 115011943868,
+    "section_id": 115002771007,
+    "source_locale": "en-us",
+    "title": "Migrating from Connect Early Access to Outbound",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115011943868-Migrating-from-Connect-Early-Access-to-Outbound"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T17:33:31Z",
+    "dita": null,
+    "id": 115010762987,
+    "section_id": 115002771007,
+    "source_locale": "en-us",
+    "title": "Getting started with Outbound by Zendesk",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010762987-Getting-started-with-Outbound-by-Zendesk"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-10T17:50:31Z",
+    "dita": null,
+    "id": 115010146767,
+    "section_id": 115002737728,
+    "source_locale": "en-us",
+    "title": "Creating a broadcast campaign",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010146767-Creating-a-broadcast-campaign"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-10T17:50:56Z",
+    "dita": null,
+    "id": 115010146807,
+    "section_id": 115002737728,
+    "source_locale": "en-us",
+    "title": "Creating a trigger-based campaign",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010146807-Creating-a-trigger-based-campaign"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-24T20:32:48Z",
+    "dita": null,
+    "id": 115010739248,
+    "section_id": 115002737728,
+    "source_locale": "en-us",
+    "title": "Using and allocating campaign variants",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010739248-Using-and-allocating-campaign-variants"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-24T20:08:13Z",
+    "dita": null,
+    "id": 115010738588,
+    "section_id": 115002737728,
+    "source_locale": "en-us",
+    "title": "Using campaign frequency caps",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010738588-Using-campaign-frequency-caps"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-24T19:34:55Z",
+    "dita": null,
+    "id": 115010736828,
+    "section_id": 115002737728,
+    "source_locale": "en-us",
+    "title": "Allowing users to unsubscribe from campaigns",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010736828-Allowing-users-to-unsubscribe-from-campaigns"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T17:56:03Z",
+    "dita": null,
+    "id": 115010777887,
+    "section_id": 115002737728,
+    "source_locale": "en-us",
+    "title": "Testing campaigns",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010777887-Testing-campaigns"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-24T20:18:10Z",
+    "dita": null,
+    "id": 115010571647,
+    "section_id": 115002737728,
+    "source_locale": "en-us",
+    "title": "Understanding trigger-based campaign results (reporting)",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010571647-Understanding-trigger-based-campaign-results-reporting-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-24T20:30:32Z",
+    "dita": null,
+    "id": 115010739168,
+    "section_id": 115002737728,
+    "source_locale": "en-us",
+    "title": "Understanding unsubscribes",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010739168-Understanding-unsubscribes"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T23:22:00Z",
+    "dita": null,
+    "id": 115010785067,
+    "section_id": 115002737728,
+    "source_locale": "en-us",
+    "title": "Using a custom calculated send time",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010785067-Using-a-custom-calculated-send-time"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T18:28:57Z",
+    "dita": null,
+    "id": 115010943628,
+    "section_id": 115002737728,
+    "source_locale": "en-us",
+    "title": "Using a development environment for testing",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010943628-Using-a-development-environment-for-testing"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-29T23:40:06Z",
+    "dita": null,
+    "id": 115011035728,
+    "section_id": 115002770767,
+    "source_locale": "en-us",
+    "title": "Understanding Outbound events",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115011035728-Understanding-Outbound-events"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-10T17:53:15Z",
+    "dita": null,
+    "id": 115010314268,
+    "section_id": 115002770767,
+    "source_locale": "en-us",
+    "title": "Working with events",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010314268-Working-with-events"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-10T17:52:58Z",
+    "dita": null,
+    "id": 115010314228,
+    "section_id": 115002770767,
+    "source_locale": "en-us",
+    "title": "Using event filters",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010314228-Using-event-filters"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T02:03:27Z",
+    "dita": null,
+    "id": 115010692727,
+    "section_id": 115002770767,
+    "source_locale": "en-us",
+    "title": "Configuring goal events",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010692727-Configuring-goal-events"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-24T18:59:16Z",
+    "dita": null,
+    "id": 115010568227,
+    "section_id": 115002770767,
+    "source_locale": "en-us",
+    "title": "Using event filters to refine your campaign",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010568227-Using-event-filters-to-refine-your-campaign"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-24T18:35:41Z",
+    "dita": null,
+    "id": 115010567327,
+    "section_id": 115002770767,
+    "source_locale": "en-us",
+    "title": "Adding a delay to your campaign's triggering event",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010567327-Adding-a-delay-to-your-campaign-s-triggering-event"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T23:09:14Z",
+    "dita": null,
+    "id": 115010949448,
+    "section_id": 115002737608,
+    "source_locale": "en-us",
+    "title": "Understanding user search and user journey",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010949448-Understanding-user-search-and-user-journey"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T18:42:13Z",
+    "dita": null,
+    "id": 115010944088,
+    "section_id": 115002737608,
+    "source_locale": "en-us",
+    "title": "Understanding user attributes",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010944088-Understanding-user-attributes"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T18:32:47Z",
+    "dita": null,
+    "id": 115010778607,
+    "section_id": 115002737608,
+    "source_locale": "en-us",
+    "title": "Importing users",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010778607-Importing-users"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T01:55:29Z",
+    "dita": null,
+    "id": 115010861828,
+    "section_id": 115002737668,
+    "source_locale": "en-us",
+    "title": "Working with channels",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010861828-Working-with-channels"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-29T00:01:28Z",
+    "dita": null,
+    "id": 115010786767,
+    "section_id": 115002737668,
+    "source_locale": "en-us",
+    "title": " Using the Webhook channel",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010786767--Using-the-Webhook-channel"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T23:53:27Z",
+    "dita": null,
+    "id": 115010951148,
+    "section_id": 115002737668,
+    "source_locale": "en-us",
+    "title": " Using the SMS channel",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010951148--Using-the-SMS-channel"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T23:51:13Z",
+    "dita": null,
+    "id": 115010786327,
+    "section_id": 115002737668,
+    "source_locale": "en-us",
+    "title": " Using the in-website push channel",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010786327--Using-the-in-website-push-channel"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-10T17:57:24Z",
+    "dita": null,
+    "id": 115010147047,
+    "section_id": 115002737668,
+    "source_locale": "en-us",
+    "title": "Using the mobile push channel",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010147047-Using-the-mobile-push-channel"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-10T17:55:18Z",
+    "dita": null,
+    "id": 115010314308,
+    "section_id": 115002737668,
+    "source_locale": "en-us",
+    "title": "Using the email channel",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010314308-Using-the-email-channel"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T18:21:56Z",
+    "dita": null,
+    "id": 115010778307,
+    "section_id": 115002737668,
+    "source_locale": "en-us",
+    "title": "Building an email template",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010778307-Building-an-email-template"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T17:14:28Z",
+    "dita": null,
+    "id": 115010914668,
+    "section_id": 115002737668,
+    "source_locale": "en-us",
+    "title": "Using the email editor",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010914668-Using-the-email-editor"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T23:39:11Z",
+    "dita": null,
+    "id": 115010950408,
+    "section_id": 115002770987,
+    "source_locale": "en-us",
+    "title": "Setting up Apple Push Notification Service (iOS)",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010950408-Setting-up-Apple-Push-Notification-Service-iOS-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T23:38:11Z",
+    "dita": null,
+    "id": 115010785847,
+    "section_id": 115002770987,
+    "source_locale": "en-us",
+    "title": "Setting up Firebase Cloud Messaging (Android)",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010785847-Setting-up-Firebase-Cloud-Messaging-Android-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T23:32:48Z",
+    "dita": null,
+    "id": 115010950308,
+    "section_id": 115002770987,
+    "source_locale": "en-us",
+    "title": " Setting up Twilio for SMS text messaging",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010950308--Setting-up-Twilio-for-SMS-text-messaging"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T23:30:52Z",
+    "dita": null,
+    "id": 115010785827,
+    "section_id": 115002770987,
+    "source_locale": "en-us",
+    "title": "Setting up MailGun for email messaging",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010785827-Setting-up-MailGun-for-email-messaging"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T23:28:03Z",
+    "dita": null,
+    "id": 115010785167,
+    "section_id": 115002770987,
+    "source_locale": "en-us",
+    "title": " Setting up Mandrill for email messaging",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010785167--Setting-up-Mandrill-for-email-messaging"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T23:26:56Z",
+    "dita": null,
+    "id": 115010949648,
+    "section_id": 115002770987,
+    "source_locale": "en-us",
+    "title": "Setting up Google Cloud Messaging (Android)",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010949648-Setting-up-Google-Cloud-Messaging-Android-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-28T23:25:48Z",
+    "dita": null,
+    "id": 115010785107,
+    "section_id": 115002770987,
+    "source_locale": "en-us",
+    "title": "Setting up SendGrid for email messaging",
+    "url": "https://outboundsupport.zendesk.com/hc/en-us/articles/115010785107-Setting-up-SendGrid-for-email-messaging"
+  }
+]

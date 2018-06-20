@@ -1,0 +1,282 @@
+[
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-11-02T16:48:42Z",
+    "dita": null,
+    "id": 115014361467,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Providing multiple language chat support with the Dynamic Content app",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115014361467-Providing-multiple-language-chat-support-with-the-Dynamic-Content-app"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-07-25T04:33:30Z",
+    "dita": null,
+    "id": 115010754368,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Managing your installed apps in Zendesk Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115010754368-Managing-your-installed-apps-in-Zendesk-Chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-07-17T20:21:56Z",
+    "dita": null,
+    "id": 115010355747,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "About Zendesk Chat plan types",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115010355747-About-Zendesk-Chat-plan-types"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-07-17T17:06:00Z",
+    "dita": null,
+    "id": 115010347727,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Routing chats based on agent skills",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115010347727-Routing-chats-based-on-agent-skills"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-07-12T23:57:10Z",
+    "dita": null,
+    "id": 115010398048,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Creating custom roles and assigning users",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115010398048-Creating-custom-roles-and-assigning-users"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-05-16T18:29:21Z",
+    "dita": null,
+    "id": 115007241487,
+    "section_id": 202526947,
+    "source_locale": "en-us",
+    "title": "Measuring business goals with conversion tracking",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115007241487-Measuring-business-goals-with-conversion-tracking"
+  },
+  {
+    "author": "Ramin Shokrizadeh",
+    "created_at": "2017-05-08T14:16:19Z",
+    "dita": null,
+    "id": 115006895588,
+    "section_id": 202544268,
+    "source_locale": "en-us",
+    "title": "Exporting Chat Conversion Tracking data",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115006895588-Exporting-Chat-Conversion-Tracking-data"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-04-14T19:51:34Z",
+    "dita": "zug_message_gettingstarted",
+    "id": 115005959708,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Getting started with Message",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115005959708-Getting-started-with-Message"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-11-14T23:20:11Z",
+    "dita": "zug_message_browser",
+    "id": 115015202888,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Managing browser notifications for Message",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115015202888-Managing-browser-notifications-for-Message"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-05-04T01:01:31Z",
+    "dita": "zug_message_channels",
+    "id": 115006756208,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Adding and managing channels and profiles",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115006756208-Adding-and-managing-channels-and-profiles"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-04-14T19:53:37Z",
+    "dita": "zug_message_analytics",
+    "id": 115005789467,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Analyzing Message activity",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115005789467-Analyzing-Message-activity"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-28T20:48:42Z",
+    "dita": "zug_message_autorespond",
+    "id": 115004917587,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Setting up Auto Responders",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115004917587-Setting-up-Auto-Responders"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-27T23:33:50Z",
+    "dita": "zug_message_macroshortcuts",
+    "id": 115005057128,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Using conversation shortcuts in Message",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115005057128-Using-conversation-shortcuts-in-Message"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-22T23:17:24Z",
+    "dita": "zug_message_agents",
+    "id": 115004849808,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Adding and managing agents in Message",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115004849808-Adding-and-managing-agents-in-Message"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-22T21:34:59Z",
+    "dita": "zug_message_operatinghours",
+    "id": 115004679487,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Setting up operating hours",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115004679487-Setting-up-operating-hours"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-08T07:17:51Z",
+    "dita": "zug_message_bot_handover",
+    "id": 115003978247,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Setting up bot handover",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115003978247-Setting-up-bot-handover"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-08T07:15:22Z",
+    "dita": "zug_message_assigning",
+    "id": 115003977207,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Assigning conversations",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115003977207-Assigning-conversations"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-08T06:22:38Z",
+    "dita": "zug_message_list",
+    "id": 115004094588,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Viewing and filtering conversations",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115004094588-Viewing-and-filtering-conversations"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-08T05:50:25Z",
+    "dita": "zug_message_serving",
+    "id": 115004093828,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Serving conversations",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115004093828-Serving-conversations"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-08T05:42:49Z",
+    "dita": "zug_message_shortcuts",
+    "id": 115003975247,
+    "section_id": 115001249728,
+    "source_locale": "en-us",
+    "title": "Navigating the dashboard with keyboard shortcuts",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115003975247-Navigating-the-dashboard-with-keyboard-shortcuts"
+  },
+  {
+    "author": "Ramin Shokrizadeh",
+    "created_at": "2017-09-12T13:49:47Z",
+    "dita": null,
+    "id": 115012553768,
+    "section_id": 206164867,
+    "source_locale": "en-us",
+    "title": "Changes to the 'Serve incoming request' button behaviour",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115012553768-Changes-to-the-Serve-incoming-request-button-behaviour"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-09-22T22:49:02Z",
+    "dita": null,
+    "id": 115012701347,
+    "section_id": 115003438347,
+    "source_locale": "en-us",
+    "title": "Use the Zendesk Chat API",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115012701347-Use-the-Zendesk-Chat-API"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-09-22T22:47:37Z",
+    "dita": null,
+    "id": 115012701327,
+    "section_id": 115003438347,
+    "source_locale": "en-us",
+    "title": "Extend Zendesk Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115012701327-Extend-Zendesk-Chat"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-09-22T22:46:13Z",
+    "dita": null,
+    "id": 115012701307,
+    "section_id": 115003438347,
+    "source_locale": "en-us",
+    "title": "Embed Zendesk Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115012701307-Embed-Zendesk-Chat"
+  },
+  {
+    "author": "Joel Javier",
+    "created_at": "2017-07-20T01:50:58Z",
+    "dita": null,
+    "id": 115010601148,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Installing Zendesk Chat for Jimdo",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115010601148-Installing-Zendesk-Chat-for-Jimdo"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-03T07:49:48Z",
+    "dita": null,
+    "id": 115003757407,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Setting up Salesforce integration in Zendesk Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115003757407-Setting-up-Salesforce-integration-in-Zendesk-Chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-03T07:48:14Z",
+    "dita": null,
+    "id": 115003873308,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Setting up ZohoCRM integration in Zendesk Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115003873308-Setting-up-ZohoCRM-integration-in-Zendesk-Chat"
+  },
+  {
+    "author": "Abhiroop Basu",
+    "created_at": "2017-03-03T07:46:23Z",
+    "dita": null,
+    "id": 115003757187,
+    "section_id": 202544568,
+    "source_locale": "en-us",
+    "title": "Using Google Analytics with Zendesk Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/115003757187-Using-Google-Analytics-with-Zendesk-Chat"
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "author": "Mayra Pacheco",
+    "created_at": "2017-09-29T20:25:23Z",
+    "dita": null,
+    "id": 115012937927,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "About the system font stack",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012937927-About-the-system-font-stack"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-06-06T23:13:54Z",
+    "dita": null,
+    "id": 115008194707,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Enabling email notifications for service incidents",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115008194707-Enabling-email-notifications-for-service-incidents"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-05-16T22:48:15Z",
+    "dita": null,
+    "id": 115007414748,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Security and sign-in resources",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115007414748-Security-and-sign-in-resources"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-05-08T15:58:44Z",
+    "dita": "zug_sso_down",
+    "id": 115006925348,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Accessing your Zendesk account when your SSO service is down",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115006925348-Accessing-your-Zendesk-account-when-your-SSO-service-is-down"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-05-19T22:34:07Z",
+    "dita": null,
+    "id": 115007490787,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Bulk importing organizations",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115007490787-Bulk-importing-organizations"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-01-28T00:00:34Z",
+    "dita": null,
+    "id": 115002202248,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Removing or replacing an agent",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002202248-Removing-or-replacing-an-agent"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-11-28T22:59:05Z",
+    "dita": null,
+    "id": 115015526268,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Changing your ticket ID starting number",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015526268-Changing-your-ticket-ID-starting-number"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-08-25T21:23:55Z",
+    "dita": "zug_ticket_customize_form",
+    "id": 115012037228,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Options for letting end users submit tickets with forms",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012037228-Options-for-letting-end-users-submit-tickets-with-forms"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-05-24T22:47:23Z",
+    "dita": "zug_ticket_fields_managing",
+    "id": 115007688207,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Managing ticket fields",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115007688207-Managing-ticket-fields"
+  },
+  {
+    "author": "Max McCal",
+    "created_at": "2017-04-07T22:35:36Z",
+    "dita": null,
+    "id": 115005419907,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "About the brand limit",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115005419907-About-the-brand-limit"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-03-02T22:32:57Z",
+    "dita": "zug_private_ticket_enabling",
+    "id": 115003676907,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Enabling and disabling private ticket creation",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115003676907-Enabling-and-disabling-private-ticket-creation"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-02-23T20:03:52Z",
+    "dita": null,
+    "id": 115003358367,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Enabling tickets to be reassigned back to an agent's group",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115003358367-Enabling-tickets-to-be-reassigned-back-to-an-agent-s-group"
+  },
+  {
+    "author": "Max McCal",
+    "created_at": "2017-01-27T16:58:17Z",
+    "dita": null,
+    "id": 115002182648,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Adjusting your business rules to handle private tickets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002182648-Adjusting-your-business-rules-to-handle-private-tickets"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-03-21T16:00:59Z",
+    "dita": null,
+    "id": 115004744348,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Web Widget resources",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004744348-Web-Widget-resources"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-06-28T17:41:28Z",
+    "dita": "zug_widget_adding_custom_tags",
+    "id": 115009724228,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Adding custom tags to Web Widget tickets from specific pages",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009724228-Adding-custom-tags-to-Web-Widget-tickets-from-specific-pages"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-06-28T00:17:34Z",
+    "dita": "zug_widget_configuring_components",
+    "id": 115009692388,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Configuring the components in your Web Widget",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009692388-Configuring-the-components-in-your-Web-Widget"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-06-28T00:14:25Z",
+    "dita": "zug_widget_adding_to_HC",
+    "id": 115009522787,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Adding the Web Widget to your website or Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009522787-Adding-the-Web-Widget-to-your-website-or-Help-Center"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-06-27T22:00:00Z",
+    "dita": "zug_widget_removing",
+    "id": 115009518247,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Removing the Web Widget from your website or Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009518247-Removing-the-Web-Widget-from-your-website-or-Help-Center"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-03-28T01:12:24Z",
+    "dita": "zug_widget_ticket_forms",
+    "id": 115004884827,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Using custom ticket fields and ticket forms with the Web Widget",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004884827-Using-custom-ticket-fields-and-ticket-forms-with-the-Web-Widget"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-02-06T23:20:14Z",
+    "dita": "zug_api_dashboard",
+    "id": 115002555167,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Using the API dashboard",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002555167-Using-the-API-dashboard"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-11-14T19:36:48Z",
+    "dita": null,
+    "id": 115015197788,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Customizing the delimiter text in emails ",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015197788-Customizing-the-delimiter-text-in-emails-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-11-14T19:32:00Z",
+    "dita": null,
+    "id": 115015116407,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Adding or removing ticket links in emails",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015116407-Adding-or-removing-ticket-links-in-emails"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-11-14T19:15:21Z",
+    "dita": null,
+    "id": 115015116187,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Showing user profile photos in HTML emails",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015116187-Showing-user-profile-photos-in-HTML-emails"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-06-30T21:25:40Z",
+    "dita": null,
+    "id": 115009660327,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Setting up suspended ticket notifications",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009660327-Setting-up-suspended-ticket-notifications"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-06-30T21:12:17Z",
+    "dita": null,
+    "id": 115009659807,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Causes for ticket suspension",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009659807-Causes-for-ticket-suspension"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-06-30T21:06:10Z",
+    "dita": null,
+    "id": 115009659567,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Guidelines for reviewing suspended tickets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009659567-Guidelines-for-reviewing-suspended-tickets"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-03-09T00:05:19Z",
+    "dita": null,
+    "id": 115004252728,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Disabling rich content in incoming emails",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004252728-Disabling-rich-content-in-incoming-emails"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-12-08T19:51:48Z",
+    "dita": null,
+    "id": 115015758148,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Using Liquid markup to customize the formatting and placement of text in comments and email notifications",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015758148-Using-Liquid-markup-to-customize-the-formatting-and-placement-of-text-in-comments-and-email-notifications"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-12-08T19:39:34Z",
+    "dita": null,
+    "id": 115015757868,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Modifying a notification trigger to return a response based on business hours",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015757868-Modifying-a-notification-trigger-to-return-a-response-based-on-business-hours"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-12-08T19:37:03Z",
+    "dita": null,
+    "id": 115015675307,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Using Liquid markup to support multiple languages in automations, macros, and triggers (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015675307-Using-Liquid-markup-to-support-multiple-languages-in-automations-macros-and-triggers-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-12-04T18:03:41Z",
+    "dita": null,
+    "id": 115015611687,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Managing triggers",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015611687-Managing-triggers"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-12-04T18:01:46Z",
+    "dita": null,
+    "id": 115015611667,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Automation conditions and actions reference",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015611667-Automation-conditions-and-actions-reference"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-12-04T17:59:05Z",
+    "dita": null,
+    "id": 115015611647,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Trigger conditions and actions reference",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015611647-Trigger-conditions-and-actions-reference"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-12-04T17:39:55Z",
+    "dita": null,
+    "id": 115015696088,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Reordering and sorting triggers",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015696088-Reordering-and-sorting-triggers"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-10-10T22:18:42Z",
+    "dita": null,
+    "id": 115013208747,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Adding drill in to your Insights reports",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115013208747-Adding-drill-in-to-your-Insights-reports"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-12-12T17:40:37Z",
+    "dita": null,
+    "id": 115015790028,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Automations best practices and recipes reference",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015790028-Automations-best-practices-and-recipes-reference"
+  },
+  {
+    "author": "William Macken",
+    "created_at": "2017-10-23T21:03:51Z",
+    "dita": null,
+    "id": 115013702527,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Insights Recipe: Inbound Calls by Wait Time",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115013702527-Insights-Recipe-Inbound-Calls-by-Wait-Time"
+  },
+  {
+    "author": "Dennis Lynn",
+    "created_at": "2017-08-14T13:26:49Z",
+    "dita": null,
+    "id": 115011712868,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Insights: Troubleshooting custom metrics for the Ticket Events data model",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011712868-Insights-Troubleshooting-custom-metrics-for-the-Ticket-Events-data-model"
+  },
+  {
+    "author": "Chiaki Oka",
+    "created_at": "2017-08-01T02:32:51Z",
+    "dita": null,
+    "id": 115010929007,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Best practices for deleting groups",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115010929007-Best-practices-for-deleting-groups"
+  },
+  {
+    "author": "Eve",
+    "created_at": "2017-05-11T18:00:48Z",
+    "dita": null,
+    "id": 115007071727,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Reporting on macros using tags in Insights",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115007071727-Reporting-on-macros-using-tags-in-Insights"
+  },
+  {
+    "author": "Amy Dee",
+    "created_at": "2017-03-10T22:11:33Z",
+    "dita": null,
+    "id": 115004378388,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Insights recipe: Filtering for follow-up tickets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004378388-Insights-recipe-Filtering-for-follow-up-tickets"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-09-11T21:38:43Z",
+    "dita": null,
+    "id": 115012366447,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Salesforce integration resources",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012366447-Salesforce-integration-resources"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2017-12-20T01:57:40Z",
+    "dita": null,
+    "id": 115015822607,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Restricting access to projects in your JIRA integration",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015822607-Restricting-access-to-projects-in-your-JIRA-integration"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2017-10-05T21:30:36Z",
+    "dita": null,
+    "id": 115013117847,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Uninstalling Zendesk for Salesforce",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115013117847-Uninstalling-Zendesk-for-Salesforce"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2017-10-05T21:20:28Z",
+    "dita": null,
+    "id": 115013117607,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Salesforce phone number validation in Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115013117607-Salesforce-phone-number-validation-in-Zendesk-Support"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2017-08-22T01:55:03Z",
+    "dita": null,
+    "id": 115011728567,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Using multiple organizations feature in the Salesforce integration",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011728567-Using-multiple-organizations-feature-in-the-Salesforce-integration"
+  },
+  {
+    "author": "Steven Yan",
+    "created_at": "2017-08-03T18:29:19Z",
+    "dita": null,
+    "id": 115011298868,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Example: Integrating the HTTP Target with Slack",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011298868-Example-Integrating-the-HTTP-Target-with-Slack"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2017-03-16T03:50:36Z",
+    "dita": null,
+    "id": 115004559528,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Salesforce: Using the Zendesk Support Bulk Sync feature",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004559528-Salesforce-Using-the-Zendesk-Support-Bulk-Sync-feature"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2017-03-09T01:35:57Z",
+    "dita": null,
+    "id": 115004257108,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Using the JIRA field syncing feature",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004257108-Using-the-JIRA-field-syncing-feature"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2017-03-03T01:37:40Z",
+    "dita": null,
+    "id": 115003689807,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Configuring JIRA Cloud WebHook for field sync ",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115003689807-Configuring-JIRA-Cloud-WebHook-for-field-sync-"
+  },
+  {
+    "author": "Ian Christopher B. de Jesus",
+    "created_at": "2017-02-20T06:47:33Z",
+    "dita": null,
+    "id": 115003096327,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Setting up the Microsoft Teams - Zendesk Support Integration",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115003096327-Setting-up-the-Microsoft-Teams-Zendesk-Support-Integration"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-09-22T21:36:22Z",
+    "dita": null,
+    "id": 115012700367,
+    "section_id": 115003437128,
+    "source_locale": "en-us",
+    "title": "Use the Zendesk Support API",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012700367-Use-the-Zendesk-Support-API"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-09-22T21:42:45Z",
+    "dita": null,
+    "id": 115012865748,
+    "section_id": 115003437128,
+    "source_locale": "en-us",
+    "title": "Extend Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012865748-Extend-Zendesk-Support"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-09-22T21:49:22Z",
+    "dita": null,
+    "id": 115012700587,
+    "section_id": 115003437128,
+    "source_locale": "en-us",
+    "title": "Embed Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012700587-Embed-Zendesk-Support"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-09-22T22:14:36Z",
+    "dita": null,
+    "id": 115012700947,
+    "section_id": 115003437128,
+    "source_locale": "en-us",
+    "title": "Develop for Zendesk Guide",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012700947-Develop-for-Zendesk-Guide"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-09-22T22:17:44Z",
+    "dita": null,
+    "id": 115012700987,
+    "section_id": 115003437128,
+    "source_locale": "en-us",
+    "title": "Develop for Zendesk Talk",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012700987-Develop-for-Zendesk-Talk"
+  },
+  {
+    "author": "Benjamin Goff",
+    "created_at": "2017-12-19T17:20:53Z",
+    "dita": null,
+    "id": 115015885708,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "About conditions with deleted values in automations",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015885708-About-conditions-with-deleted-values-in-automations"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-11-13T17:17:56Z",
+    "dita": null,
+    "id": 115015036968,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Publishing and syncing copies of articles in Help Center with the API",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015036968-Publishing-and-syncing-copies-of-articles-in-Help-Center-with-the-API"
+  },
+  {
+    "author": "Christopher Hanson",
+    "created_at": "2017-11-10T19:52:13Z",
+    "dita": null,
+    "id": 115014946108,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Sending holiday notifications using triggers",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115014946108-Sending-holiday-notifications-using-triggers"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-10-10T16:21:46Z",
+    "dita": null,
+    "id": 115013199107,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Publishing copies of articles in Help Center with iframes",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115013199107-Publishing-copies-of-articles-in-Help-Center-with-iframes"
+  },
+  {
+    "author": "Jake Bantz",
+    "created_at": "2017-08-03T16:19:33Z",
+    "dita": null,
+    "id": 115011134947,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Selectively hiding Help Center components using Curlybars",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011134947-Selectively-hiding-Help-Center-components-using-Curlybars"
+  },
+  {
+    "author": "Dylan Dimico",
+    "created_at": "2017-05-31T18:43:37Z",
+    "dita": null,
+    "id": 115008105088,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Changing bad satisfaction ratings to good",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115008105088-Changing-bad-satisfaction-ratings-to-good"
+  },
+  {
+    "author": "Ryan Winkler",
+    "created_at": "2017-05-30T18:07:29Z",
+    "dita": null,
+    "id": 115008043848,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Make your emails stand out by adding a sender avatar",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115008043848-Make-your-emails-stand-out-by-adding-a-sender-avatar"
+  },
+  {
+    "author": "Eve",
+    "created_at": "2017-05-10T16:23:59Z",
+    "dita": null,
+    "id": 115006939827,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Adding a note to a Help Center article",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115006939827-Adding-a-note-to-a-Help-Center-article"
+  },
+  {
+    "author": "Christopher Hanson",
+    "created_at": "2017-05-10T13:26:56Z",
+    "dita": null,
+    "id": 115006932567,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Automatically assigning a follow-up ticket using triggers",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115006932567-Automatically-assigning-a-follow-up-ticket-using-triggers"
+  },
+  {
+    "author": "Ryan Winkler",
+    "created_at": "2017-04-19T14:53:24Z",
+    "dita": null,
+    "id": 115006129848,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Using Google Groups as a support address",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115006129848-Using-Google-Groups-as-a-support-address"
+  },
+  {
+    "author": "Jake Bantz",
+    "created_at": "2017-02-13T21:01:07Z",
+    "dita": null,
+    "id": 115002923788,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Exposing anchor links in Help Center article and community comments",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002923788-Exposing-anchor-links-in-Help-Center-article-and-community-comments"
+  },
+  {
+    "author": "Michael Lanius",
+    "created_at": "2017-01-05T04:38:21Z",
+    "dita": null,
+    "id": 115000836668,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "ZAF v2 - How to resize your top bar app using the popover API",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115000836668-ZAF-v2-How-to-resize-your-top-bar-app-using-the-popover-API"
+  },
+  {
+    "author": "Michael Lanius",
+    "created_at": "2017-01-03T23:28:53Z",
+    "dita": null,
+    "id": 115000784708,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Using custom jQuery to update the text of your Help Center's Search button",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115000784708-Using-custom-jQuery-to-update-the-text-of-your-Help-Center-s-Search-button"
+  },
+  {
+    "author": "Joseph Black",
+    "created_at": "2017-01-02T18:34:11Z",
+    "dita": null,
+    "id": 115000716748,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Understanding the calls dataset in Insights",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115000716748-Understanding-the-calls-dataset-in-Insights"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-08-25T19:11:04Z",
+    "dita": "zag_update_picture_name",
+    "id": 115011883807,
+    "section_id": 200625646,
+    "source_locale": "en-us",
+    "title": "Updating your name and profile picture",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011883807-Updating-your-name-and-profile-picture"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-08-25T19:10:53Z",
+    "dita": "zag_change_password",
+    "id": 115012031988,
+    "section_id": 200625646,
+    "source_locale": "en-us",
+    "title": "Changing your password",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012031988-Changing-your-password"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-04-27T17:17:06Z",
+    "dita": "zag_comments_adding_users",
+    "id": 115006259407,
+    "section_id": 200625646,
+    "source_locale": "en-us",
+    "title": "Adding other agents or end-users to a ticket",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115006259407-Adding-other-agents-or-end-users-to-a-ticket"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-04-25T20:33:29Z",
+    "dita": "zag_comments_public_to_private",
+    "id": 115006354868,
+    "section_id": 200625646,
+    "source_locale": "en-us",
+    "title": "Changing a ticket comment from public to private",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115006354868-Changing-a-ticket-comment-from-public-to-private"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-04-25T20:32:52Z",
+    "dita": "zag_comments_adding_tables",
+    "id": 115006175067,
+    "section_id": 200625646,
+    "source_locale": "en-us",
+    "title": "Adding tables to ticket comments",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115006175067-Adding-tables-to-ticket-comments"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-04-25T20:32:25Z",
+    "dita": "zag_comments_adding_attachments",
+    "id": 115006175047,
+    "section_id": 200625646,
+    "source_locale": "en-us",
+    "title": "Adding attachments to ticket comments",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115006175047-Adding-attachments-to-ticket-comments"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-01-12T23:43:35Z",
+    "dita": "zag_macros_building_statements",
+    "id": 115001308707,
+    "section_id": 200625646,
+    "source_locale": "en-us",
+    "title": "Building macro action statements",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115001308707-Building-macro-action-statements"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-01-12T23:23:23Z",
+    "dita": null,
+    "id": 115001355648,
+    "section_id": 200625646,
+    "source_locale": "en-us",
+    "title": "Rich text formatting options reference",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115001355648-Rich-text-formatting-options-reference"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-01-11T23:43:42Z",
+    "dita": "zag_creating_macros",
+    "id": 115001236988,
+    "section_id": 200625646,
+    "source_locale": "en-us",
+    "title": "Creating macros for tickets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115001236988-Creating-macros-for-tickets"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-03-31T23:38:18Z",
+    "dita": "zug_hc_plans_about",
+    "id": 115005153727,
+    "section_id": 115003047208,
+    "source_locale": "en-us",
+    "title": "About the Zendesk Guide plan types",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115005153727-About-the-Zendesk-Guide-plan-types"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-01-18T19:15:12Z",
+    "dita": null,
+    "id": 115001505447,
+    "section_id": 115003047208,
+    "source_locale": "en-us",
+    "title": "Browsers supported by Help Center and Guide",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115001505447-Browsers-supported-by-Help-Center-and-Guide"
+  },
+  {
+    "author": "Skip Moore",
+    "created_at": "2017-11-03T18:51:44Z",
+    "dita": null,
+    "id": 115014608608,
+    "section_id": 206667367,
+    "source_locale": "en-us",
+    "title": "Migrating existing content to Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115014608608-Migrating-existing-content-to-Help-Center"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-01-18T19:55:51Z",
+    "dita": null,
+    "id": 115001556628,
+    "section_id": 206667367,
+    "source_locale": "en-us",
+    "title": "Restricting Help Center access to signed-in end-users",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115001556628-Restricting-Help-Center-access-to-signed-in-end-users"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-08-30T16:29:37Z",
+    "dita": "zug_hc_name_change",
+    "id": 115012012847,
+    "section_id": 206667367,
+    "source_locale": "en-us",
+    "title": "Changing the name of your Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012012847-Changing-the-name-of-your-Help-Center"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-01-11T22:31:14Z",
+    "dita": "zug_hc_anonymous_voting",
+    "id": 115001189707,
+    "section_id": 206667367,
+    "source_locale": "en-us",
+    "title": "Enabling users to vote on articles without signing in",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115001189707-Enabling-users-to-vote-on-articles-without-signing-in"
+  },
+  {
+    "author": "Ryan McGrew",
+    "created_at": "2017-07-20T23:28:13Z",
+    "dita": null,
+    "id": 115010634068,
+    "section_id": 206667367,
+    "source_locale": "en-us",
+    "title": "Using Google Tag Manager with your Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115010634068-Using-Google-Tag-Manager-with-your-Help-Center"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-01-17T18:52:27Z",
+    "dita": "zug_hc_deactivate",
+    "id": 115001440027,
+    "section_id": 206667367,
+    "source_locale": "en-us",
+    "title": "Deactivating your Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115001440027-Deactivating-your-Help-Center"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-09-01T19:30:52Z",
+    "dita": "zug_hc_themes_managing",
+    "id": 115012258168,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Managing your Help Center themes",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012258168-Managing-your-Help-Center-themes"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-12-06T20:38:02Z",
+    "dita": null,
+    "id": 115015641027,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Accessing your Help Center themes",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015641027-Accessing-your-Help-Center-themes"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-11-08T23:46:54Z",
+    "dita": "zug_hc_themes_preview",
+    "id": 115014797387,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Previewing your Help Center theme",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115014797387-Previewing-your-Help-Center-theme"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-09-18T21:33:53Z",
+    "dita": "zug_hc_themes_standard_vs_custom",
+    "id": 115012553167,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "About the standard theme and custom themes in Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012553167-About-the-standard-theme-and-custom-themes-in-Help-Center"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-08-30T17:59:19Z",
+    "dita": null,
+    "id": 115012184908,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Branding your Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012184908-Branding-your-Help-Center"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-12-06T20:26:37Z",
+    "dita": null,
+    "id": 115015640767,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Editing your Help Center theme",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015640767-Editing-your-Help-Center-theme"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-11-01T22:30:18Z",
+    "dita": "zug_hc_themes_add_new",
+    "id": 115014417408,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Adding a Help Center theme to Guide",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115014417408-Adding-a-Help-Center-theme-to-Guide"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-11-01T21:28:46Z",
+    "dita": "zug_hc_theme_limits",
+    "id": 115014408008,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Guide theming limits",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115014408008-Guide-theming-limits"
+  },
+  {
+    "author": "Ryan McGrew",
+    "created_at": "2017-11-09T17:22:41Z",
+    "dita": null,
+    "id": 115014810447,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Working on a theme locally (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115014810447-Working-on-a-theme-locally-Guide-Professional-"
+  },
+  {
+    "author": "Ryan McGrew",
+    "created_at": "2017-09-27T13:34:28Z",
+    "dita": null,
+    "id": 115012793547,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Using local theme preview (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012793547-Using-local-theme-preview-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-09-20T20:41:27Z",
+    "dita": "zug_hc_theme_import_export",
+    "id": 115012794168,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Importing and exporting your theme and manifest file (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012794168-Importing-and-exporting-your-theme-and-manifest-file-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-12-06T20:47:05Z",
+    "dita": null,
+    "id": 115015722628,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Editing the code for your live Help Center theme (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015722628-Editing-the-code-for-your-live-Help-Center-theme-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-09-06T23:10:57Z",
+    "dita": "zug_hc_themes_assets",
+    "id": 115012399428,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Using your own theme assets for Help Center (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012399428-Using-your-own-theme-assets-for-Help-Center-Guide-Professional-"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-09-18T17:54:41Z",
+    "dita": null,
+    "id": 115012547687,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Customizing the Settings panel (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012547687-Customizing-the-Settings-panel-Guide-Professional-"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-12-19T21:24:05Z",
+    "dita": null,
+    "id": 115015895948,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Allowing unsafe HTML in Help Center pages",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015895948-Allowing-unsafe-HTML-in-Help-Center-pages"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-12-12T22:14:31Z",
+    "dita": null,
+    "id": 115015795848,
+    "section_id": 206670747,
+    "source_locale": "en-us",
+    "title": "Hiding the Powered by Zendesk logo (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015795848-Hiding-the-Powered-by-Zendesk-logo-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-08-08T22:50:29Z",
+    "dita": null,
+    "id": 115011259027,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Viewing article revisions and history (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011259027-Viewing-article-revisions-and-history-Guide-Professional-"
+  },
+  {
+    "author": "Danielle Jensen",
+    "created_at": "2017-07-27T13:06:46Z",
+    "dita": null,
+    "id": 115010841568,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Keyboard shortcuts for formatting knowledge base articles",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115010841568-Keyboard-shortcuts-for-formatting-knowledge-base-articles"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-06-21T18:28:53Z",
+    "dita": "zug_hc_user_segments_edit",
+    "id": 115009234387,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Editing user segments (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009234387-Editing-user-segments-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-06-21T18:16:31Z",
+    "dita": "zug_hc_user_segments_delete",
+    "id": 115009233787,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Deleting user segments (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009233787-Deleting-user-segments-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-06-21T17:35:52Z",
+    "dita": "zug_hc_user_segments_view",
+    "id": 115009390588,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Viewing user segments and where they are applied (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009390588-Viewing-user-segments-and-where-they-are-applied-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-05-24T21:56:40Z",
+    "dita": "zug_hc_user_segments_create",
+    "id": 115007686307,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Creating user segments to restrict Help Center viewing access (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115007686307-Creating-user-segments-to-restrict-Help-Center-viewing-access-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-07-19T22:28:59Z",
+    "dita": null,
+    "id": 115010596788,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Using labels on your Help Center articles (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115010596788-Using-labels-on-your-Help-Center-articles-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-06-20T23:34:45Z",
+    "dita": "zug_hc_kb_articles_images",
+    "id": 115009342388,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Inserting images in articles",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009342388-Inserting-images-in-articles"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-04-03T20:45:15Z",
+    "dita": "zug_hc_kb_articles_video",
+    "id": 115005220167,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Inserting videos in articles",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115005220167-Inserting-videos-in-articles"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-03-20T18:02:30Z",
+    "dita": null,
+    "id": 115004698288,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Viewing events in History view (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004698288-Viewing-events-in-History-view-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-02-15T18:01:06Z",
+    "dita": null,
+    "id": 115002916607,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Help Center article editor toolbar reference",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002916607-Help-Center-article-editor-toolbar-reference"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-02-03T00:38:02Z",
+    "dita": null,
+    "id": 115002382627,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Disabling comments for an article",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002382627-Disabling-comments-for-an-article"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-02-03T00:36:58Z",
+    "dita": null,
+    "id": 115002484368,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Promoting an article to the top of the section",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002484368-Promoting-an-article-to-the-top-of-the-section"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-02-03T00:35:52Z",
+    "dita": null,
+    "id": 115002484348,
+    "section_id": 206658728,
+    "source_locale": "en-us",
+    "title": "Changing the author for an article",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002484348-Changing-the-author-for-an-article"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-02-14T22:58:03Z",
+    "dita": null,
+    "id": 115002997048,
+    "section_id": 206667407,
+    "source_locale": "en-us",
+    "title": "Submitting and tracking support requests in Help Center (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002997048-Submitting-and-tracking-support-requests-in-Help-Center-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-03-01T23:12:39Z",
+    "dita": "zug_kc_installing",
+    "id": 115003628547,
+    "section_id": 205175168,
+    "source_locale": "en-us",
+    "title": "Installing the Knowledge Capture app (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115003628547-Installing-the-Knowledge-Capture-app-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-08-23T22:31:09Z",
+    "dita": "zug_kc_workflows_bp",
+    "id": 115011968988,
+    "section_id": 205175168,
+    "source_locale": "en-us",
+    "title": "Workflows for created and flagged articles using the Knowledge Capture app (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011968988-Workflows-for-created-and-flagged-articles-using-the-Knowledge-Capture-app-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-09-18T16:33:31Z",
+    "dita": null,
+    "id": 115012706488,
+    "section_id": 205175168,
+    "source_locale": "en-us",
+    "title": "Opening the Knowledge Capture app (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012706488-Opening-the-Knowledge-Capture-app-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-02-24T00:21:07Z",
+    "dita": "zug_kc_searching_linking",
+    "id": 115003373367,
+    "section_id": 205175168,
+    "source_locale": "en-us",
+    "title": "Searching and linking articles using the Knowledge Capture app (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115003373367-Searching-and-linking-articles-using-the-Knowledge-Capture-app-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-09-15T23:36:48Z",
+    "dita": null,
+    "id": 115012508367,
+    "section_id": 205175168,
+    "source_locale": "en-us",
+    "title": "Adding feedback to flag articles with the Knowledge Capture app (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012508367-Adding-feedback-to-flag-articles-with-the-Knowledge-Capture-app-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-09-15T23:38:02Z",
+    "dita": null,
+    "id": 115012508387,
+    "section_id": 205175168,
+    "source_locale": "en-us",
+    "title": "Creating articles with the Knowledge Capture app (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012508387-Creating-articles-with-the-Knowledge-Capture-app-Guide-Professional-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-02-02T21:30:59Z",
+    "dita": "zug_kc_templates",
+    "id": 115002374987,
+    "section_id": 205175168,
+    "source_locale": "en-us",
+    "title": "Creating templates for the Knowledge Capture app (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002374987-Creating-templates-for-the-Knowledge-Capture-app-Guide-Professional-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-03-27T23:06:24Z",
+    "dita": "zug_kc_dashboards",
+    "id": 115004881807,
+    "section_id": 205175168,
+    "source_locale": "en-us",
+    "title": "Analyzing your Knowledge Capture activity (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004881807-Analyzing-your-Knowledge-Capture-activity-Guide-Professional-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-03-17T15:52:35Z",
+    "dita": null,
+    "id": 115004477547,
+    "section_id": 115003047348,
+    "source_locale": "en-us",
+    "title": "Understanding Answer Bot (for administrators)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004477547-Understanding-Answer-Bot-for-administrators-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-07-07T19:00:37Z",
+    "dita": null,
+    "id": 115010243928,
+    "section_id": 115003047348,
+    "source_locale": "en-us",
+    "title": "Working with Answer Bot (for agents)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115010243928-Working-with-Answer-Bot-for-agents-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-03-17T15:53:19Z",
+    "dita": null,
+    "id": 115004477627,
+    "section_id": 115003047348,
+    "source_locale": "en-us",
+    "title": "Enabling and setting up Answer Bot",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004477627-Enabling-and-setting-up-Answer-Bot"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-08-15T20:27:10Z",
+    "dita": "zug_answer_bot_insights",
+    "id": 115011598407,
+    "section_id": 115003047348,
+    "source_locale": "en-us",
+    "title": "Analyzing your Answer Bot Activity",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011598407-Analyzing-your-Answer-Bot-Activity"
+  },
+  {
+    "author": "Mike Mortimer",
+    "created_at": "2017-08-07T04:31:40Z",
+    "dita": null,
+    "id": 115011212107,
+    "section_id": 115003047348,
+    "source_locale": "en-us",
+    "title": "Troubleshooting: Answer Bot isn't suggesting articles",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011212107-Troubleshooting-Answer-Bot-isn-t-suggesting-articles"
+  },
+  {
+    "author": "Mike Mortimer",
+    "created_at": "2017-03-17T16:04:28Z",
+    "dita": null,
+    "id": 115004478267,
+    "section_id": 115003047348,
+    "source_locale": "en-us",
+    "title": "Best Practices: Six steps to success with your Answer Bot",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004478267-Best-Practices-Six-steps-to-success-with-your-Answer-Bot"
+  },
+  {
+    "author": "Mike Mortimer",
+    "created_at": "2017-08-07T03:52:12Z",
+    "dita": null,
+    "id": 115011210367,
+    "section_id": 115003047348,
+    "source_locale": "en-us",
+    "title": "Best practices: Setting up Answer Bot triggers, views, and workflows",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011210367-Best-practices-Setting-up-Answer-Bot-triggers-views-and-workflows"
+  },
+  {
+    "author": "Mike Mortimer",
+    "created_at": "2017-09-14T03:16:18Z",
+    "dita": null,
+    "id": 115012444447,
+    "section_id": 115003047348,
+    "source_locale": "en-us",
+    "title": "Best Practice: Using labels with Answer Bot",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012444447-Best-Practice-Using-labels-with-Answer-Bot"
+  },
+  {
+    "author": "Eve",
+    "created_at": "2017-08-07T23:26:16Z",
+    "dita": null,
+    "id": 115011229087,
+    "section_id": 115003047348,
+    "source_locale": "en-us",
+    "title": "Best practices: Answer Bot customer service for agents",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011229087-Best-practices-Answer-Bot-customer-service-for-agents"
+  },
+  {
+    "author": "Mike Mortimer",
+    "created_at": "2017-08-07T05:24:09Z",
+    "dita": null,
+    "id": 115011212647,
+    "section_id": 115003047348,
+    "source_locale": "en-us",
+    "title": "Best practices: Training Answer Bot to find the right articles more easily",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011212647-Best-practices-Training-Answer-Bot-to-find-the-right-articles-more-easily"
+  },
+  {
+    "author": "Mike Mortimer",
+    "created_at": "2017-08-08T05:26:54Z",
+    "dita": null,
+    "id": 115011385168,
+    "section_id": 115003047348,
+    "source_locale": "en-us",
+    "title": "Best practices for developers: Bulk updating article labels for Answer Bot",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011385168-Best-practices-for-developers-Bulk-updating-article-labels-for-Answer-Bot"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-06-29T00:03:40Z",
+    "dita": null,
+    "id": 115009739208,
+    "section_id": 115002896708,
+    "source_locale": "en-us",
+    "title": "Getting Started with Zendesk Guide: Best practices for self-service",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009739208-Getting-Started-with-Zendesk-Guide-Best-practices-for-self-service"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-06-29T00:20:04Z",
+    "dita": null,
+    "id": 115009570767,
+    "section_id": 206664647,
+    "source_locale": "en-us",
+    "title": "Getting Started with Zendesk Talk: Best practices for phone support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009570767-Getting-Started-with-Zendesk-Talk-Best-practices-for-phone-support"
+  },
+  {
+    "author": "Brian Beck",
+    "created_at": "2017-11-09T18:25:52Z",
+    "dita": null,
+    "id": 115014811807,
+    "section_id": 206664647,
+    "source_locale": "en-us",
+    "title": "Special number requirements for Germany and Italy",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115014811807-Special-number-requirements-for-Germany-and-Italy"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-09-05T17:00:53Z",
+    "dita": null,
+    "id": 115012350368,
+    "section_id": 206664647,
+    "source_locale": "en-us",
+    "title": "About Zendesk Talk plan types",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012350368-About-Zendesk-Talk-plan-types"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-08-23T17:23:30Z",
+    "dita": null,
+    "id": 115011809867,
+    "section_id": 206664647,
+    "source_locale": "en-us",
+    "title": "About the Talk Usage SLA",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011809867-About-the-Talk-Usage-SLA"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-07-11T14:31:39Z",
+    "dita": "zug_talk_voicemail_config",
+    "id": 115010343228,
+    "section_id": 206664647,
+    "source_locale": "en-us",
+    "title": "Configuring voicemail options",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115010343228-Configuring-voicemail-options"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-06-28T11:14:54Z",
+    "dita": "zug_talk_outbound_id",
+    "id": 115009534127,
+    "section_id": 206664647,
+    "source_locale": "en-us",
+    "title": "Standardizing your outbound caller ID",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009534127-Standardizing-your-outbound-caller-ID"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-05-18T17:51:45Z",
+    "dita": null,
+    "id": 115007405487,
+    "section_id": 206664647,
+    "source_locale": "en-us",
+    "title": "Zendesk Talk number availability and address requirements",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115007405487-Zendesk-Talk-number-availability-and-address-requirements"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-07T08:57:05Z",
+    "dita": "zug_talk_callback",
+    "id": 115004049908,
+    "section_id": 206664647,
+    "source_locale": "en-us",
+    "title": "Allowing customers to request a callback (Talk Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004049908-Allowing-customers-to-request-a-callback-Talk-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-12-05T18:30:57Z",
+    "dita": null,
+    "id": 115015626027,
+    "section_id": 206664707,
+    "source_locale": "en-us",
+    "title": "Managing individual number settings",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115015626027-Managing-individual-number-settings"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-03-07T08:44:06Z",
+    "dita": null,
+    "id": 115003934787,
+    "section_id": 206664707,
+    "source_locale": "en-us",
+    "title": "Monitoring calls with the Live calls dashboard (Talk Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115003934787-Monitoring-calls-with-the-Live-calls-dashboard-Talk-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Brian Beck",
+    "created_at": "2017-08-23T16:14:22Z",
+    "dita": null,
+    "id": 115011807107,
+    "section_id": 206656548,
+    "source_locale": "en-us",
+    "title": "About the Talk Enterprise Monthly Diagnostics Check",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115011807107-About-the-Talk-Enterprise-Monthly-Diagnostics-Check"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-11-08T17:15:02Z",
+    "dita": null,
+    "id": 115014790947,
+    "section_id": 115003867528,
+    "source_locale": "en-us",
+    "title": "Analyzing Zendesk Talk activity with Explore dashbaords",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115014790947-Analyzing-Zendesk-Talk-activity-with-Explore-dashbaords"
+  }
+]

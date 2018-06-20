@@ -1,0 +1,322 @@
+[
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-02-07T16:49:17Z",
+    "dita": "Explore_gsg_introduction",
+    "id": 115002591127,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started with Zendesk Explore",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115002591127-Getting-started-with-Zendesk-Explore"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-22T17:49:33Z",
+    "dita": "Explore_gsg_pre-built_dashboards",
+    "id": 115009447768,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started with your Zendesk pre-built dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009447768-Getting-started-with-your-Zendesk-pre-built-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-22T17:50:42Z",
+    "dita": "Explore_gsg_about_queries",
+    "id": 115009285947,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started with queries",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009285947-Getting-started-with-queries"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-22T17:52:07Z",
+    "dita": "Explore_gsg_creating_queries",
+    "id": 115009285987,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started creating custom queries",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009285987-Getting-started-creating-custom-queries"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-22T17:53:19Z",
+    "dita": "Explore_gsg_modifying_queries",
+    "id": 115009447968,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started modifying queries",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009447968-Getting-started-modifying-queries"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-22T17:54:16Z",
+    "dita": "Explore_gsg_creating_dashboards",
+    "id": 115009286027,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Getting started with dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009286027-Getting-started-with-dashboards"
+  },
+  {
+    "author": "Ana Castrillon",
+    "created_at": "2017-02-16T18:17:15Z",
+    "dita": null,
+    "id": 115002971087,
+    "section_id": 115000878787,
+    "source_locale": "en-us",
+    "title": "Zendesk Explore Early Access Program checklist",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115002971087-Zendesk-Explore-Early-Access-Program-checklist"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-05-15T20:28:34Z",
+    "dita": null,
+    "id": 115007358348,
+    "section_id": 115002135828,
+    "source_locale": "en-us",
+    "title": "Introduction to the Zendesk Explore interface",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115007358348-Introduction-to-the-Zendesk-Explore-interface"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-05-15T17:41:54Z",
+    "dita": null,
+    "id": 115007349988,
+    "section_id": 115002135828,
+    "source_locale": "en-us",
+    "title": "Zendesk Explore glossary",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115007349988-Zendesk-Explore-glossary"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-04-17T16:28:03Z",
+    "dita": "Explore_user_roles",
+    "id": 115006034248,
+    "section_id": 115002135828,
+    "source_locale": "en-us",
+    "title": "Understanding Explore user roles",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115006034248-Understanding-Explore-user-roles"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-07-11T21:06:23Z",
+    "dita": null,
+    "id": 115010189747,
+    "section_id": 115003092327,
+    "source_locale": "en-us",
+    "title": "Setting editor and admin permissions",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115010189747-Setting-editor-and-admin-permissions"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-25T18:59:33Z",
+    "dita": null,
+    "id": 115002071928,
+    "section_id": 115003092327,
+    "source_locale": "en-us",
+    "title": "Duplicating pre-built and shared dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115002071928-Duplicating-pre-built-and-shared-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-02-03T00:17:00Z",
+    "dita": "Explore_support_connections",
+    "id": 115002483968,
+    "section_id": 207383427,
+    "source_locale": "en-us",
+    "title": "Importing your Zendesk data into Explore",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115002483968-Importing-your-Zendesk-data-into-Explore"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-03-29T20:24:59Z",
+    "dita": null,
+    "id": 115005152108,
+    "section_id": 207383427,
+    "source_locale": "en-us",
+    "title": "Zendesk Explore metric and attribute reference",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115005152108-Zendesk-Explore-metric-and-attribute-reference"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-04T18:41:40Z",
+    "dita": null,
+    "id": 115000769487,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Creating a new query",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000769487-Creating-a-new-query"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-03-30T21:44:59Z",
+    "dita": "Explore_default_aggregator",
+    "id": 115005268848,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Setting a metric's default and visible aggregators",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115005268848-Setting-a-metric-s-default-and-visible-aggregators"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-05T00:01:04Z",
+    "dita": null,
+    "id": 115000831368,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Saving your query",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000831368-Saving-your-query"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-05T00:02:58Z",
+    "dita": null,
+    "id": 115000831408,
+    "section_id": 207347787,
+    "source_locale": "en-us",
+    "title": "Sharing queries from the Queries library",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000831408-Sharing-queries-from-the-Queries-library"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-04T22:19:38Z",
+    "dita": null,
+    "id": 115000827928,
+    "section_id": 207335528,
+    "source_locale": "en-us",
+    "title": "Visualization types reference",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000827928-Visualization-types-reference"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-13T21:04:15Z",
+    "dita": null,
+    "id": 115001386308,
+    "section_id": 207335528,
+    "source_locale": "en-us",
+    "title": "Customizing queries",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115001386308-Customizing-queries"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-05T00:12:03Z",
+    "dita": null,
+    "id": 115000831868,
+    "section_id": 207352488,
+    "source_locale": "en-us",
+    "title": "Adding a new dashboard",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000831868-Adding-a-new-dashboard"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-03-15T16:52:50Z",
+    "dita": "Explore_dashboard_add_queries",
+    "id": 115004390067,
+    "section_id": 207352488,
+    "source_locale": "en-us",
+    "title": "Adding a query to your dashboard",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115004390067-Adding-a-query-to-your-dashboard"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-09T21:58:17Z",
+    "dita": null,
+    "id": 115000962247,
+    "section_id": 207352488,
+    "source_locale": "en-us",
+    "title": "Adding and arranging dashboard widgets",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000962247-Adding-and-arranging-dashboard-widgets"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-09T21:53:47Z",
+    "dita": null,
+    "id": 115000998408,
+    "section_id": 207352728,
+    "source_locale": "en-us",
+    "title": "Sharing dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115000998408-Sharing-dashboards"
+  },
+  {
+    "author": "Andrew Forbes",
+    "created_at": "2017-07-20T20:26:53Z",
+    "dita": null,
+    "id": 115010463007,
+    "section_id": 115003335208,
+    "source_locale": "en-us",
+    "title": "Recipe: Creating advanced groups",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115010463007-Recipe-Creating-advanced-groups"
+  },
+  {
+    "author": "Andrew Forbes",
+    "created_at": "2017-05-11T18:06:48Z",
+    "dita": null,
+    "id": 115007072587,
+    "section_id": 115003335208,
+    "source_locale": "en-us",
+    "title": "Recipe: Creating weekly date buckets in Explore",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115007072587-Recipe-Creating-weekly-date-buckets-in-Explore"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-05-11T23:21:56Z",
+    "dita": null,
+    "id": 115007250368,
+    "section_id": 115003335208,
+    "source_locale": "en-us",
+    "title": "Recipe: Measure growth between time periods",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115007250368-Recipe-Measure-growth-between-time-periods"
+  },
+  {
+    "author": "Sarah Hale",
+    "created_at": "2017-09-21T20:50:39Z",
+    "dita": null,
+    "id": 115012657707,
+    "section_id": 115003335208,
+    "source_locale": "en-us",
+    "title": "Recipe: Percentage of tickets created weekly",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115012657707-Recipe-Percentage-of-tickets-created-weekly"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-10-17T22:38:01Z",
+    "dita": null,
+    "id": 115013613507,
+    "section_id": 207365527,
+    "source_locale": "en-us",
+    "title": "Analyzing call activity with Talk pre-built dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115013613507-Analyzing-call-activity-with-Talk-pre-built-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-04-03T16:04:36Z",
+    "dita": "Explore_precanned",
+    "id": 115005204787,
+    "section_id": 207365527,
+    "source_locale": "en-us",
+    "title": "Overview of Explore's pre-built dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115005204787-Overview-of-Explore-s-pre-built-dashboards"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-06-26T15:40:52Z",
+    "dita": "Explore_customer_satisfaction_dashboard",
+    "id": 115009415747,
+    "section_id": 207365527,
+    "source_locale": "en-us",
+    "title": "Viewing your customer satisfaction in Explore",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115009415747-Viewing-your-customer-satisfaction-in-Explore"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-01-23T18:21:55Z",
+    "dita": null,
+    "id": 115001814927,
+    "section_id": 115003094868,
+    "source_locale": "en-us",
+    "title": "Interacting with dashboards",
+    "url": "https://explore.zendesk.com/hc/en-us/articles/115001814927-Interacting-with-dashboards"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "announcements": {
+    "archive_id": 0,
+    "exclude_list": [],
+    "exclude_label": "do_not_archive",
+    "months": -6, 
+    "section_id": 230041727
+  }, 
+  "api_updates": {
+    "archive_id": 203803937, 
+    "exclude_list": [],
+    "exclude_label": "do_not_archive",
+    "months": -12, 
+    "section_id": 200623806
+  }, 
+  "release_notes": {
+    "archive_id": 115000097267,
+    "exclude_list": [],
+    "exclude_label": "do_not_archive",
+    "months": -12,
+    "section_id": 206223668
+  }
+}

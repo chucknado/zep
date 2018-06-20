@@ -1,0 +1,178 @@
+[
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 219848967,
+    "section_id": 202526947,
+    "title": "Configuring widget security settings",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/219848967-Configuring-widget-security-settings"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 218953857,
+    "section_id": 202526947,
+    "title": "Setting the language on the chat widget",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218953857-Setting-the-language-on-the-chat-widget"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212679577,
+    "section_id": 202526947,
+    "title": "Customizing the chat widget",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679577-Customizing-the-chat-widget"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 217802018,
+    "section_id": 202526947,
+    "title": "Customizing the widget for mobile devices",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217802018-Customizing-the-widget-for-mobile-devices"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212015968,
+    "section_id": 202526947,
+    "title": "Zendesk Chat triggers conditions and actions reference",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212015968-Zendesk-Chat-triggers-conditions-and-actions-reference"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212679627,
+    "section_id": 202526947,
+    "title": "Working with triggers",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679627-Working-with-triggers"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212015988,
+    "section_id": 202526947,
+    "title": "Setting up the Pre-Chat form",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212015988-Setting-up-the-Pre-Chat-form"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 218264107,
+    "section_id": 202526947,
+    "title": "Checking your connection status for troubleshooting ",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218264107-Checking-your-connection-status-for-troubleshooting-"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016008,
+    "section_id": 202526947,
+    "title": "Managing file sending options",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016008-Managing-file-sending-options"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016168,
+    "section_id": 202526947,
+    "title": "Creating a schedule with operating hours (Advanced and Premium)",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016168-Creating-a-schedule-with-operating-hours-Advanced-and-Premium-"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212679837,
+    "section_id": 202526947,
+    "title": "Using IP Access Restriction to limit dashboard access (Premium)",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212679837-Using-IP-Access-Restriction-to-limit-dashboard-access-Premium-"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 218376247,
+    "section_id": 202526947,
+    "title": "Zopim-Zendesk integration v2 FAQs",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/218376247-Zopim-Zendesk-integration-v2-FAQs"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016688,
+    "section_id": 202544408,
+    "title": "Browsing past chats in History",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016688-Browsing-past-chats-in-History"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016678,
+    "section_id": 202544408,
+    "title": "Browsing your site's visitors",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016678-Browsing-your-site-s-visitors"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": "zug_zopim_monitor",
+    "id": 212016728,
+    "section_id": 202544408,
+    "title": "Monitoring real-time chat metrics",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016728-Monitoring-real-time-chat-metrics"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 217784088,
+    "section_id": 202544408,
+    "title": "Using the Weekly Analytics report (Advanced and Premium)",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/217784088-Using-the-Weekly-Analytics-report-Advanced-and-Premium-"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": "zug_zopim_analytics",
+    "id": 212016698,
+    "section_id": 202544408,
+    "title": "Monitoring chat activity with Analytics",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016698-Monitoring-chat-activity-with-Analytics"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016748,
+    "section_id": 202544408,
+    "title": "Analytics CSV glossary (Advanced and Premium)",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016748-Analytics-CSV-glossary-Advanced-and-Premium-"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": "zag_zopim_update_profile",
+    "id": 212016478,
+    "section_id": 202544268,
+    "title": "Editing your personal settings in Zendesk Chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016478-Editing-your-personal-settings-in-Zendesk-Chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016488,
+    "section_id": 202544268,
+    "title": "Inserting common phrases with shortcuts",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016488-Inserting-common-phrases-with-shortcuts"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016538,
+    "section_id": 202544268,
+    "title": "Sending files in a chat",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016538-Sending-files-in-a-chat"
+  },
+  {
+    "author": "Nora Mullen",
+    "dita": null,
+    "id": 212016638,
+    "section_id": 202544268,
+    "title": "Banning visitors",
+    "url": "https://chat.zendesk.com/hc/en-us/articles/212016638-Banning-visitors"
+  }
+]

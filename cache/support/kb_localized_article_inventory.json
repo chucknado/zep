@@ -1,0 +1,2462 @@
+[
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2016-06-23T20:23:44Z",
+    "dita": "zug_sys_status",
+    "id": 221466747,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "About the System Status page",
+    "url": "https://support.zendesk.com/hc/en-us/articles/221466747-About-the-System-Status-page"
+  },
+  {
+    "author": "Dana Singh",
+    "created_at": "2016-05-13T08:05:34Z",
+    "dita": null,
+    "id": 218995728,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Billing FAQ ",
+    "url": "https://support.zendesk.com/hc/en-us/articles/218995728-Billing-FAQ-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2015-10-09T20:45:51Z",
+    "dita": "zug_patagoniaplannames",
+    "id": 212374637,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "About Zendesk Support plan\n    types",
+    "url": "https://support.zendesk.com/hc/en-us/articles/212374637-About-Zendesk-Support-plan-types"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-02-29T18:55:50Z",
+    "dita": "zug_about_addons",
+    "id": 217547487,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "About add-ons (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/217547487-About-add-ons-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-07-22T21:48:22Z",
+    "dita": "zug_adding_agent_seats",
+    "id": 223326068,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Adding agent seats to your subscription",
+    "url": "https://support.zendesk.com/hc/en-us/articles/223326068-Adding-agent-seats-to-your-subscription"
+  },
+  {
+    "author": "Joshua Frank",
+    "created_at": "2015-09-15T04:43:25Z",
+    "dita": null,
+    "id": 209285358,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "FAQs on Plan Changes Introduced in November 2015",
+    "url": "https://support.zendesk.com/hc/en-us/articles/209285358-FAQs-on-Plan-Changes-Introduced-in-November-2015"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2014-03-05T00:59:27Z",
+    "dita": "zug_plus_enterprise_resources",
+    "id": 203661946,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Professional and Enterprise resources",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661946-Professional-and-Enterprise-resources"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-02T00:17:06Z",
+    "dita": "zug_glossary_new",
+    "id": 203661746,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Zendesk glossary",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661746-Zendesk-glossary"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-07-12T21:01:47Z",
+    "dita": null,
+    "id": 203661856,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Best practices docs",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661856-Best-practices-docs"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2012-05-30T21:16:55Z",
+    "dita": "zug_sysreqs",
+    "id": 203661786,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Zendesk Support system requirements",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661786-Zendesk-Support-system-requirements"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-01-08T18:36:58Z",
+    "dita": "gsg_core_basics",
+    "id": 203663536,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Core concepts for Getting Started with Zendesk",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663536-Core-concepts-for-Getting-Started-with-Zendesk"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-07T00:14:55Z",
+    "dita": "zug_streamline",
+    "id": 203661756,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Streamlining your support workflow",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661756-Streamlining-your-support-workflow"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-04-11T23:28:10Z",
+    "dita": "zug_admin_home",
+    "id": 203661836,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Using the Admin home page",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661836-Using-the-Admin-home-page"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2014-03-26T23:29:06Z",
+    "dita": "zug_favicon",
+    "id": 203661956,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Adding a custom favicon to your Zendesk",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661956-Adding-a-custom-favicon-to-your-Zendesk"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2014-11-19T21:00:42Z",
+    "dita": "zug_customize_agent_ui",
+    "id": 203950436,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Branding the agent interface",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203950436-Branding-the-agent-interface"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-01-07T17:13:09Z",
+    "dita": "zug_sandbox",
+    "id": 203661826,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Testing changes in your\n    sandbox\n    (Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661826-Testing-changes-in-your-sandbox-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2012-11-21T00:18:49Z",
+    "dita": "zug_e_audit_log",
+    "id": 203663196,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Viewing the Audit log for changes (Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663196-Viewing-the-Audit-log-for-changes-Enterprise-"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2014-01-31T19:24:49Z",
+    "dita": "zug_technical_architecture",
+    "id": 203661906,
+    "section_id": 200623846,
+    "source_locale": "en-us",
+    "title": "Zendesk Support scalability and performance: Technical architecture",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661906-Zendesk-Support-scalability-and-performance-Technical-architecture"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-11-18T18:55:15Z",
+    "dita": "zug_security_bp",
+    "id": 203663716,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Security best practices",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663716-Security-best-practices"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-05-08T15:58:44Z",
+    "dita": "zug_sso_down",
+    "id": 115006925348,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Accessing your Zendesk account when your SSO service is down",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115006925348-Accessing-your-Zendesk-account-when-your-SSO-service-is-down"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2013-02-14T16:55:19Z",
+    "dita": "zug_open_helpdesk",
+    "id": 203663756,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Enabling anyone to submit tickets in Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663756-Enabling-anyone-to-submit-tickets-in-Zendesk-Support"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2013-03-01T19:05:53Z",
+    "dita": "zug_restricted_helpdesk",
+    "id": 203663796,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Permitting only users with approved email addresses to submit tickets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663796-Permitting-only-users-with-approved-email-addresses-to-submit-tickets"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2013-02-14T16:54:49Z",
+    "dita": "zug_closed_helpdesk",
+    "id": 203663746,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Permitting only added users to submit tickets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663746-Permitting-only-added-users-to-submit-tickets"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2013-02-14T17:03:37Z",
+    "dita": "zug_signingin",
+    "id": 203663776,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Configuring how end-users access and sign in to Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663776-Configuring-how-end-users-access-and-sign-in-to-Zendesk-Support"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2014-10-27T17:57:23Z",
+    "dita": "zug_2fa",
+    "id": 203824246,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Managing 2-factor authentication",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203824246-Managing-2-factor-authentication"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-02-12T23:16:06Z",
+    "dita": "zug_pwd_security",
+    "id": 203663736,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Setting the password security level (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663736-Setting-the-password-security-level-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2013-03-11T17:16:36Z",
+    "dita": "zug_enduser_settings",
+    "id": 203663806,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Managing end-user settings",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663806-Managing-end-user-settings"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2013-02-27T21:47:36Z",
+    "dita": "zug_verify_user",
+    "id": 203663786,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Verifying a user's email address",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663786-Verifying-a-user-s-email-address"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-02-05T18:15:57Z",
+    "dita": "zug_ssl",
+    "id": 203663726,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Understanding how changing the Help Center subdomain affects SSL",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663726-Understanding-how-changing-the-Help-Center-subdomain-affects-SSL"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2014-04-09T18:57:29Z",
+    "dita": null,
+    "id": 203663866,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Replacing your current SSL certificate",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663866-Replacing-your-current-SSL-certificate"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-07-21T17:18:38Z",
+    "dita": "zug_e_ip_restrictions",
+    "id": 203663706,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Restricting access to your Zendesk using IP restrictions\n        (Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663706-Restricting-access-to-your-Zendesk-using-IP-restrictions-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2013-04-29T21:44:06Z",
+    "dita": "zug_sso_about",
+    "id": 203663826,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Single sign-on (SSO) options in Zendesk",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663826-Single-sign-on-SSO-options-in-Zendesk"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-04-26T23:12:37Z",
+    "dita": "zug_sso_jwt",
+    "id": 203663816,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Setting up single sign-on with JWT (JSON Web Token)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663816-Setting-up-single-sign-on-with-JWT-JSON-Web-Token-"
+  },
+  {
+    "author": "Ben Rohrs",
+    "created_at": "2011-03-31T15:12:17Z",
+    "dita": "zug_saml",
+    "id": 203663676,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Using SAML for single sign-on (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663676-Using-SAML-for-single-sign-on-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Eric Shen",
+    "created_at": "2011-06-13T23:28:42Z",
+    "dita": "okta",
+    "id": 203663696,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Setting up SAML single sign-on with Okta (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663696-Setting-up-SAML-single-sign-on-with-Okta-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2013-02-14T16:56:27Z",
+    "dita": "zug_social_login",
+    "id": 203663766,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Enabling social and business single sign-on (SSO)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663766-Enabling-social-and-business-single-sign-on-SSO-"
+  },
+  {
+    "author": "Matt Sirianni",
+    "created_at": "2013-10-03T22:46:13Z",
+    "dita": null,
+    "id": 203663856,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Configure Zendesk for your Active Directory/Microsoft environment",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663856-Configure-Zendesk-for-your-Active-Directory-Microsoft-environment"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2016-04-07T18:08:49Z",
+    "dita": "zug_pci_credit_card_field",
+    "id": 218032598,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Adding a PCI-compliant credit card field (Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/218032598-Adding-a-PCI-compliant-credit-card-field-Enterprise-"
+  },
+  {
+    "author": "Ankit Garg",
+    "created_at": "2015-09-22T16:59:31Z",
+    "dita": null,
+    "id": 210178838,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Advanced Security: Data at Rest Encryption, Enhanced Disaster Recovery, and HIPAA Compliance (Enterprise Add-on)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/210178838-Advanced-Security-Data-at-Rest-Encryption-Enhanced-Disaster-Recovery-and-HIPAA-Compliance-Enterprise-Add-on-"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-06-27T23:04:28Z",
+    "dita": "zug_oauth",
+    "id": 203663836,
+    "section_id": 200623996,
+    "source_locale": "en-us",
+    "title": "Using OAuth authentication with your application",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663836-Using-OAuth-authentication-with-your-application"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-07-09T17:29:46Z",
+    "dita": "zug_users_custom_fields",
+    "id": 203662066,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Adding custom fields to users",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662066-Adding-custom-fields-to-users"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-21T20:32:46Z",
+    "dita": "zug_groups",
+    "id": 203661966,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Creating, managing, and using groups",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661966-Creating-managing-and-using-groups"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-06-16T18:52:28Z",
+    "dita": "zug_user_tagging",
+    "id": 203662006,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Adding tags to users and organizations",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662006-Adding-tags-to-users-and-organizations"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-01-28T00:00:34Z",
+    "dita": null,
+    "id": 115002202248,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Removing or replacing an agent",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002202248-Removing-or-replacing-an-agent"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-22T22:16:36Z",
+    "dita": "zug_organizations",
+    "id": 203661976,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Creating, managing, and using organizations",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661976-Creating-managing-and-using-organizations"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-29T21:29:25Z",
+    "dita": "zug_bulk_import",
+    "id": 203661996,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Bulk importing users ",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661996-Bulk-importing-users-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2017-05-19T22:34:07Z",
+    "dita": null,
+    "id": 115007490787,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Bulk importing organizations",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115007490787-Bulk-importing-organizations"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2011-09-07T15:37:44Z",
+    "dita": "zug_lightagents",
+    "id": 203662036,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Understanding and\n    setting light agent permissions\n    (Professional Add-on and\n    Enterprise\n    Add-on)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662036-Understanding-and-setting-light-agent-permissions-Professional-Add-on-and-Enterprise-Add-on-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-03-12T23:17:40Z",
+    "dita": "zug_users_managing",
+    "id": 203662056,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Managing users",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662056-Managing-users"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-29T17:54:47Z",
+    "dita": "zug_users",
+    "id": 203661986,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Adding agents and administrators",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661986-Adding-agents-and-administrators"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-07-09T17:30:32Z",
+    "dita": "zug_orgs_custom_fields",
+    "id": 203662076,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Adding custom fields to organizations",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662076-Adding-custom-fields-to-organizations"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-07-25T21:01:01Z",
+    "dita": "zug_e_custom_roles",
+    "id": 203662026,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Creating\n        custom\n        roles and assigning\n        agents (Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662026-Creating-custom-roles-and-assigning-agents-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-07-20T22:30:33Z",
+    "dita": "zug_e_agent_display",
+    "id": 203662016,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Adding an agent alias (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662016-Adding-an-agent-alias-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2012-08-22T16:37:42Z",
+    "dita": "zug_user_assume",
+    "id": 203662046,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Assuming end-users",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662046-Assuming-end-users"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-26T18:14:39Z",
+    "dita": "zug_people",
+    "id": 203661776,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "Understanding Zendesk Support user roles",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661776-Understanding-Zendesk-Support-user-roles"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-22T18:20:03Z",
+    "dita": "zug_about_orgs_groups",
+    "id": 203661766,
+    "section_id": 200623856,
+    "source_locale": "en-us",
+    "title": "About organizations and groups",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661766-About-organizations-and-groups"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-03-02T22:32:57Z",
+    "dita": "zug_private_ticket_enabling",
+    "id": 115003676907,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Enabling private ticket creation",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115003676907-Enabling-private-ticket-creation"
+  },
+  {
+    "author": "Rebecca",
+    "created_at": "2016-09-15T14:36:42Z",
+    "dita": null,
+    "id": 227331747,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "About the inborn system ticket rules",
+    "url": "https://support.zendesk.com/hc/en-us/articles/227331747-About-the-inborn-system-ticket-rules"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2016-08-10T23:00:25Z",
+    "dita": "zag_tickets_recover_deleted",
+    "id": 224908967,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Viewing and recovering deleted tickets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/224908967-Viewing-and-recovering-deleted-tickets"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-05-24T22:47:23Z",
+    "dita": "zug_ticket_fields_managing",
+    "id": 115007688207,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Managing ticket fields",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115007688207-Managing-ticket-fields"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2016-02-29T23:19:31Z",
+    "dita": null,
+    "id": 217078128,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Creating and applying branded ticket forms",
+    "url": "https://support.zendesk.com/hc/en-us/articles/217078128-Creating-and-applying-branded-ticket-forms"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2015-03-16T20:38:34Z",
+    "dita": null,
+    "id": 204579233,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Multibrand resources (Professional Add-on and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204579233-Multibrand-resources-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-08-25T21:23:55Z",
+    "dita": "zug_ticket_customize_form",
+    "id": 115012037228,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Options for letting end users submit tickets with forms",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115012037228-Options-for-letting-end-users-submit-tickets-with-forms"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2017-02-23T20:03:52Z",
+    "dita": null,
+    "id": 115003358367,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Enabling tickets to be reassigned back to an agent's group",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115003358367-Enabling-tickets-to-be-reassigned-back-to-an-agent-s-group"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2012-01-03T21:25:25Z",
+    "dita": "zag_tickets_about_ticket_fields",
+    "id": 203661506,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "About ticket fields",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661506-About-ticket-fields"
+  },
+  {
+    "author": "Ben Rohrs",
+    "created_at": "2013-11-08T19:38:50Z",
+    "dita": null,
+    "id": 203657756,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "About ticket archiving",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203657756-About-ticket-archiving"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-07-16T16:40:34Z",
+    "dita": "zug_custom_field_types",
+    "id": 203661866,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "About custom field types",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661866-About-custom-field-types"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2016-04-07T18:00:58Z",
+    "dita": "zug_ticket_fields_busi_rules",
+    "id": 218032348,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Using custom ticket fields in business rules and views",
+    "url": "https://support.zendesk.com/hc/en-us/articles/218032348-Using-custom-ticket-fields-in-business-rules-and-views"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-10-27T17:59:50Z",
+    "dita": "zug_ticket_fields",
+    "id": 203661496,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Adding custom\n    fields to your tickets and\n    support\n    request\n    forms",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661496-Adding-custom-fields-to-your-tickets-and-support-request-forms"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-07-17T22:13:50Z",
+    "dita": "zug_dropdown_list-organizing",
+    "id": 203661876,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Organizing drop-down list options",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661876-Organizing-drop-down-list-options"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2012-11-05T22:21:31Z",
+    "dita": "zug_about_onhold",
+    "id": 203661576,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Adding the On-hold ticket status to Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661576-Adding-the-On-hold-ticket-status-to-Zendesk-Support"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-02-04T00:32:27Z",
+    "dita": "zug_attachments",
+    "id": 204265396,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Enabling\n    attachments in tickets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204265396-Enabling-attachments-in-tickets"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-11-11T19:48:05Z",
+    "dita": "zug_tickets_autoassign_on_solve",
+    "id": 203661656,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Enabling auto-assign for agents on ticket solve",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661656-Enabling-auto-assign-for-agents-on-ticket-solve"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-08-26T15:58:12Z",
+    "dita": "zug_emoji_enabling",
+    "id": 203661646,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Enabling emoji emoticons in ticket comments",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661646-Enabling-emoji-emoticons-in-ticket-comments"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-02-14T21:26:10Z",
+    "dita": "zug_cc",
+    "id": 203661606,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Configuring CC permissions and notifications",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661606-Configuring-CC-permissions-and-notifications"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2012-12-14T00:20:40Z",
+    "dita": "zug_markdown",
+    "id": 203661586,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Enabling formatting options for agents",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661586-Enabling-formatting-options-for-agents"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-05-25T21:58:10Z",
+    "dita": "zug_ticket_sharing",
+    "id": 203661466,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Sharing tickets with other Zendesk Support accounts",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661466-Sharing-tickets-with-other-Zendesk-Support-accounts"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-10-28T18:26:06Z",
+    "dita": "zug_multibrand_setup",
+    "id": 204108983,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Setting up multiple\n    brands\n    (Professional Add-on and\n    Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204108983-Setting-up-multiple-brands-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-06-10T23:32:46Z",
+    "dita": "zug_ticket_forms_creating",
+    "id": 203661616,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Creating ticket forms to support multiple request types\n    (Professional Add-on and\n    Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661616-Creating-ticket-forms-to-support-multiple-request-types-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-06-10T23:34:00Z",
+    "dita": "zug_ticket_forms_managing",
+    "id": 203661636,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Managing your ticket forms\n    (Professional Add-on and\n    Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661636-Managing-your-ticket-forms-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-06-10T23:35:10Z",
+    "dita": "zug_ticket_forms_enduser_text",
+    "id": 203661626,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Presenting ticket forms to end-users    (Professional Add-on and    Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661626-Presenting-ticket-forms-to-end-users-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2015-02-26T21:59:31Z",
+    "dita": "zug_multibrand_managing",
+    "id": 204577973,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Managing multiple brands\n    (Professional Add-on and\n    Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204577973-Managing-multiple-brands-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2015-02-26T21:55:07Z",
+    "dita": "zug_multibrand_channels",
+    "id": 204577963,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Adding email support addresses for multiple brands (Professional Add-on and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204577963-Adding-email-support-addresses-for-multiple-brands-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Max McCal",
+    "created_at": "2014-12-19T02:24:16Z",
+    "dita": null,
+    "id": 204382463,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Using views to sort your branded tickets (Professional Add-on and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204382463-Using-views-to-sort-your-branded-tickets-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Max McCal",
+    "created_at": "2014-12-19T02:07:49Z",
+    "dita": null,
+    "id": 204382443,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Using the email template with multiple brands (Professional Add-on and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204382443-Using-the-email-template-with-multiple-brands-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Max McCal",
+    "created_at": "2014-12-19T02:06:47Z",
+    "dita": null,
+    "id": 204382423,
+    "section_id": 200623836,
+    "source_locale": "en-us",
+    "title": "Setting up business rules for multiple brands  (Professional Add-on and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204382423-Setting-up-business-rules-for-multiple-brands-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-06-28T00:14:25Z",
+    "dita": "zug_widget_adding_to_HC",
+    "id": 115009522787,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Adding the Web Widget to your website or Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009522787-Adding-the-Web-Widget-to-your-website-or-Help-Center"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-06-28T00:17:34Z",
+    "dita": "zug_widget_configuring_components",
+    "id": 115009692388,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Configuring the components in your Web Widget",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009692388-Configuring-the-components-in-your-Web-Widget"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-03-28T01:12:24Z",
+    "dita": "zug_widget_ticket_forms",
+    "id": 115004884827,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Using custom ticket fields and ticket forms with the Web Widget",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004884827-Using-custom-ticket-fields-and-ticket-forms-with-the-Web-Widget"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-06-27T22:00:00Z",
+    "dita": "zug_widget_removing",
+    "id": 115009518247,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Removing the Web Widget from your website or Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009518247-Removing-the-Web-Widget-from-your-website-or-Help-Center"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2017-06-28T17:41:28Z",
+    "dita": "zug_widget_adding_custom_tags",
+    "id": 115009724228,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Adding custom tags to Web Widget tickets from specific pages",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115009724228-Adding-custom-tags-to-Web-Widget-tickets-from-specific-pages"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2016-11-14T18:31:56Z",
+    "dita": "zug_multibrand_adding_web_widget",
+    "id": 234968947,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Adding Web Widgets for multiple brands (Professional Add-on and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/234968947-Adding-Web-Widgets-for-multiple-brands-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2016-11-14T18:27:33Z",
+    "dita": "zug_multibrand_adding_facebook",
+    "id": 234745028,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Setting brand for your Facebook channel (Professional Add-on and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/234745028-Setting-brand-for-your-Facebook-channel-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2016-11-14T18:26:20Z",
+    "dita": "zug_multibrand_adding_twitter",
+    "id": 234968687,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Setting brand for your Twitter channel (Professional Add-on and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/234968687-Setting-brand-for-your-Twitter-channel-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2016-10-04T23:23:56Z",
+    "dita": "zug_widget_custom",
+    "id": 229167008,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Advanced customization of your Web Widget",
+    "url": "https://support.zendesk.com/hc/en-us/articles/229167008-Advanced-customization-of-your-Web-Widget"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2016-07-14T23:50:18Z",
+    "dita": null,
+    "id": 222874768,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Using restricted Help Center content with the Web Widget",
+    "url": "https://support.zendesk.com/hc/en-us/articles/222874768-Using-restricted-Help-Center-content-with-the-Web-Widget"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-02-26T01:54:59Z",
+    "dita": null,
+    "id": 217475337,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Chat-Support integration v2 FAQs",
+    "url": "https://support.zendesk.com/hc/en-us/articles/217475337-Chat-Support-integration-v2-FAQs"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-01-11T23:44:36Z",
+    "dita": "zug_channels_about",
+    "id": 203661596,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "About Zendesk Support channels",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661596-About-Zendesk-Support-channels"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2017-02-06T23:20:14Z",
+    "dita": "zug_api_dashboard",
+    "id": 115002555167,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Using the API dashboard",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115002555167-Using-the-API-dashboard"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2014-04-28T19:37:21Z",
+    "dita": "zug_zopim_app",
+    "id": 203661666,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Setting up Zendesk Chat in Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661666-Setting-up-Zendesk-Chat-in-Zendesk-Support"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-11-14T23:21:01Z",
+    "dita": "zug_widget",
+    "id": 203908456,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Using Web Widget to embed customer service in your website",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203908456-Using-Web-Widget-to-embed-customer-service-in-your-website"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2012-05-09T16:30:22Z",
+    "dita": "zug_facebook",
+    "id": 203661556,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Setting up your Facebook channel",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661556-Setting-up-your-Facebook-channel"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2012-05-08T21:39:57Z",
+    "dita": "zug_twitter",
+    "id": 203661546,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Setting up your Twitter channel",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661546-Setting-up-your-Twitter-channel"
+  },
+  {
+    "author": "Steven Yan",
+    "created_at": "2011-09-20T00:58:23Z",
+    "dita": "zug_twitter_search",
+    "id": 203661486,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Zendesk for Twitter advanced search operators",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661486-Zendesk-for-Twitter-advanced-search-operators"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-11-24T21:51:33Z",
+    "dita": "zug_mobile_sdk_admin_settings",
+    "id": 204256073,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Using the Mobile SDK to embed customer service in your app",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204256073-Using-the-Mobile-SDK-to-embed-customer-service-in-your-app"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-03-30T17:24:50Z",
+    "dita": "zug_migratingwebwidget",
+    "id": 205272467,
+    "section_id": 204146328,
+    "source_locale": "en-us",
+    "title": "Migrating from the Feedback Tab to the Web Widget",
+    "url": "https://support.zendesk.com/hc/en-us/articles/205272467-Migrating-from-the-Feedback-Tab-to-the-Web-Widget"
+  },
+  {
+    "author": "Avi W.",
+    "created_at": "2016-02-10T21:58:11Z",
+    "dita": null,
+    "id": 217114607,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Forwarding your incoming support email to Zendesk using Gmail/Google Apps",
+    "url": "https://support.zendesk.com/hc/en-us/articles/217114607-Forwarding-your-incoming-support-email-to-Zendesk-using-Gmail-Google-Apps"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-07-01T23:15:54Z",
+    "dita": "zug_email_sign",
+    "id": 203663326,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Digitally signing your email with DKIM or DMARC",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663326-Digitally-signing-your-email-with-DKIM-or-DMARC"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-04-30T16:22:58Z",
+    "dita": "zug_email_help",
+    "id": 203663306,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Email resources",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663306-Email-resources"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-04-02T21:28:57Z",
+    "dita": "zug_gmail_import",
+    "id": 203663296,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Enabling automatic ticket creation for your Gmail inbox",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663296-Enabling-automatic-ticket-creation-for-your-Gmail-inbox"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-10-07T16:20:32Z",
+    "dita": "zug_email_get_started",
+    "id": 203663256,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Getting started with email in Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663256-Getting-started-with-email-in-Zendesk-Support"
+  },
+  {
+    "author": "Max McCal",
+    "created_at": "2014-10-02T23:47:11Z",
+    "dita": "zug_email_spf",
+    "id": 203683886,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Setting up SPF for Zendesk to send email on behalf of your email domain",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203683886-Setting-up-SPF-for-Zendesk-to-send-email-on-behalf-of-your-email-domain"
+  },
+  {
+    "author": "Avi W.",
+    "created_at": "2016-02-11T00:31:24Z",
+    "dita": null,
+    "id": 217117617,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Forwarding your incoming support email to Zendesk using Yahoo",
+    "url": "https://support.zendesk.com/hc/en-us/articles/217117617-Forwarding-your-incoming-support-email-to-Zendesk-using-Yahoo"
+  },
+  {
+    "author": "Avi W.",
+    "created_at": "2016-02-04T21:44:12Z",
+    "dita": null,
+    "id": 216954207,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Forwarding your incoming support email to Zendesk using Outlook/Exchange",
+    "url": "https://support.zendesk.com/hc/en-us/articles/216954207-Forwarding-your-incoming-support-email-to-Zendesk-using-Outlook-Exchange"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-02-10T22:49:02Z",
+    "dita": "zug_email_support_addresses",
+    "id": 203663336,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Adding support addresses for users to submit tickets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663336-Adding-support-addresses-for-users-to-submit-tickets"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-07-20T22:23:53Z",
+    "dita": "zug_e_email_archiving",
+    "id": 203663156,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Archiving\n        ticket\n        email\n        notifications\n        (Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663156-Archiving-ticket-email-notifications-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2017-03-09T00:05:19Z",
+    "dita": null,
+    "id": 115004252728,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Disabling rich content in incoming emails",
+    "url": "https://support.zendesk.com/hc/en-us/articles/115004252728-Disabling-rich-content-in-incoming-emails"
+  },
+  {
+    "author": "Haley",
+    "created_at": "2016-09-17T19:20:54Z",
+    "dita": null,
+    "id": 227437147,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Customizing end-user account emails",
+    "url": "https://support.zendesk.com/hc/en-us/articles/227437147-Customizing-end-user-account-emails"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-08-19T18:26:13Z",
+    "dita": "zug_email_templates",
+    "id": 203663236,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Customizing templates for your email notifications",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663236-Customizing-templates-for-your-email-notifications"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-10-07T16:21:16Z",
+    "dita": "zug_email_external",
+    "id": 203663266,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Forwarding\n    incoming\n    email to Zendesk\n    Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663266-Forwarding-incoming-email-to-Zendesk-Support"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-15T20:06:30Z",
+    "dita": "zug_channels_email_only",
+    "id": 203663686,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Setting up to provide email-only support ",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663686-Setting-up-to-provide-email-only-support-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-10-07T16:21:59Z",
+    "dita": "zug_email_personal_reply",
+    "id": 203663276,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Enabling personalized email replies",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663276-Enabling-personalized-email-replies"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-10-17T18:11:26Z",
+    "dita": "zug_email_bw_list",
+    "id": 203663286,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Using the whitelist and blacklist to control access to Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663286-Using-the-whitelist-and-blacklist-to-control-access-to-Zendesk-Support"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-10-07T16:24:08Z",
+    "dita": "zug_email_spam",
+    "id": 203663246,
+    "section_id": 200623946,
+    "source_locale": "en-us",
+    "title": "Understanding and managing suspended tickets and spam",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663246-Understanding-and-managing-suspended-tickets-and-spam"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2016-01-08T23:14:24Z",
+    "dita": "zug_play_only_agents",
+    "id": 215598318,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Setting up Guided mode (Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/215598318-Setting-up-Guided-mode-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2013-03-13T22:04:55Z",
+    "dita": "zug_triggers_help",
+    "id": 203662226,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Triggers resources",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662226-Triggers-resources"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-06-03T16:25:17Z",
+    "dita": "zug_triggers_about",
+    "id": 203662246,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "About triggers and how they work",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662246-About-triggers-and-how-they-work"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-01-09T22:37:48Z",
+    "dita": "zug_automations_about",
+    "id": 203662236,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "About automations and how they work",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662236-About-automations-and-how-they-work"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-07T15:49:24Z",
+    "dita": "zug_automations",
+    "id": 203662126,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Creating and managing automations for time-based events",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662126-Creating-and-managing-automations-for-time-based-events"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-07T15:47:44Z",
+    "dita": "zug_triggers",
+    "id": 203662106,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Creating    and managing triggers for ticket updates and notifications",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662106-Creating-and-managing-triggers-for-ticket-updates-and-notifications"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-03-15T17:24:27Z",
+    "dita": "zug_trigger_ticket_received_at",
+    "id": 203662216,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Using the \"Ticket Received At\" condition",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662216-Using-the-Ticket-Received-At-condition"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-06-17T21:14:12Z",
+    "dita": "zug_do_reference",
+    "id": 203662156,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Zendesk Support placeholders reference",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662156-Zendesk-Support-placeholders-reference"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-07T15:54:23Z",
+    "dita": "zug_placeholders",
+    "id": 203662116,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Using placeholders",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662116-Using-placeholders"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-07T15:52:36Z",
+    "dita": "zug_tags",
+    "id": 203662096,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Using tags",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662096-Using-tags"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-04-07T15:50:45Z",
+    "dita": "zug_targets",
+    "id": 203662136,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Notifying external targets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662136-Notifying-external-targets"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-02-25T17:40:50Z",
+    "dita": "zug_business_hours",
+    "id": 203662206,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Setting your\n    schedule\n    with business hours and holidays\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662206-Setting-your-schedule-with-business-hours-and-holidays-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2012-05-31T18:17:09Z",
+    "dita": "zug_automations_default",
+    "id": 203662186,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "The Support default automations",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662186-The-Support-default-automations"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2012-05-31T18:11:33Z",
+    "dita": "zug_triggers_default",
+    "id": 203662176,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "About the Support default triggers",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662176-About-the-Support-default-triggers"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-05-20T14:38:33Z",
+    "dita": "zug_liquid",
+    "id": 203662146,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Using Liquid markup to customize comments and email notifications",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662146-Using-Liquid-markup-to-customize-comments-and-email-notifications"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-07-27T18:40:29Z",
+    "dita": "zug_e_rules_analysis",
+    "id": 203663166,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Analyzing your business rules (Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663166-Analyzing-your-business-rules-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-07-21T16:31:12Z",
+    "dita": "zug_e_rules_filtering",
+    "id": 203662166,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Filtering business rules\n        (Professional\n        and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662166-Filtering-business-rules-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-07-20T23:43:56Z",
+    "dita": "zug_e_adv_ticket_sharing",
+    "id": 203663146,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Using business rules to share tickets (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663146-Using-business-rules-to-share-tickets-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-02-15T22:36:36Z",
+    "dita": "zug_targets_yammer",
+    "id": 203662196,
+    "section_id": 200623866,
+    "source_locale": "en-us",
+    "title": "Notifying your Yammer feed",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662196-Notifying-your-Yammer-feed"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-10-28T21:03:31Z",
+    "dita": "zug_insights_creating_reports",
+    "id": 231249907,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Building custom reports in Insights (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/231249907-Building-custom-reports-in-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2016-10-31T16:50:22Z",
+    "dita": "zug_insights_printing_reports",
+    "id": 231738868,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Printing reports in Insights",
+    "url": "https://support.zendesk.com/hc/en-us/articles/231738868-Printing-reports-in-Insights"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-04-04T15:58:40Z",
+    "dita": null,
+    "id": 203662376,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Zendesk Insights resources (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662376-Zendesk-Insights-resources-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2016-03-22T21:14:24Z",
+    "dita": "zug_nps_troubleshooting",
+    "id": 218264567,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Troubleshooting\n    your Net Promoter\n    Score\u2120\n    survey",
+    "url": "https://support.zendesk.com/hc/en-us/articles/218264567-Troubleshooting-your-Net-Promoter-Score-survey"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2016-03-01T22:34:09Z",
+    "dita": "zug_nps_about",
+    "id": 217101828,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "About Net Promoter\n    Scores\u2120",
+    "url": "https://support.zendesk.com/hc/en-us/articles/217101828-About-Net-Promoter-Scores-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2016-03-01T22:15:24Z",
+    "dita": "zug_prediction_working",
+    "id": 217592937,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Working with Satisfaction Prediction Scores",
+    "url": "https://support.zendesk.com/hc/en-us/articles/217592937-Working-with-Satisfaction-Prediction-Scores"
+  },
+  {
+    "author": "Mike Mortimer",
+    "created_at": "2016-01-21T10:49:54Z",
+    "dita": "zug_prediction_about",
+    "id": 215884478,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "About Satisfaction\n    Prediction Scores",
+    "url": "https://support.zendesk.com/hc/en-us/articles/215884478-About-Satisfaction-Prediction-Scores"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2015-08-25T18:35:48Z",
+    "dita": "zug_insights_benchmark",
+    "id": 207729238,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "About the Zendesk\n    Benchmark and how to\n    opt-in",
+    "url": "https://support.zendesk.com/hc/en-us/articles/207729238-About-the-Zendesk-Benchmark-and-how-to-opt-in"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2015-08-20T16:36:09Z",
+    "dita": "zug_insights_sla",
+    "id": 208018217,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "SLA reporting dashboard overview (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/208018217-SLA-reporting-dashboard-overview-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2015-06-26T19:20:47Z",
+    "dita": "zug_first_reply_time",
+    "id": 205951808,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Calculating first reply time (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/205951808-Calculating-first-reply-time-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2015-04-13T18:04:14Z",
+    "dita": "zug_slas2",
+    "id": 204770038,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Defining and using SLA\n    policies (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204770038-Defining-and-using-SLA-policies-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2015-01-12T22:19:58Z",
+    "dita": "zug_insights_permissions",
+    "id": 204116536,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Understanding and restricting user permissions in Insights\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204116536-Understanding-and-restricting-user-permissions-in-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Brent",
+    "created_at": "2015-01-08T19:52:00Z",
+    "dita": null,
+    "id": 204411593,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Using the Backlog Dataset in Insights (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204411593-Using-the-Backlog-Dataset-in-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2015-01-07T23:22:07Z",
+    "dita": "zug_customer_satisfaction_dashboard",
+    "id": 204113956,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Viewing customer satisfaction score and\n    ratings (Professional and\n    Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204113956-Viewing-customer-satisfaction-score-and-ratings-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Joseph Black",
+    "created_at": "2014-12-26T23:43:28Z",
+    "dita": null,
+    "id": 204402153,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Reporting on Business Hours in Insights (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204402153-Reporting-on-Business-Hours-in-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-12-11T22:51:04Z",
+    "dita": "zug_insights_disconnected_date_dimensions",
+    "id": 204370563,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Understanding disconnected date dimensions in Insights\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204370563-Understanding-disconnected-date-dimensions-in-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Cynthia Au",
+    "created_at": "2014-10-17T18:43:48Z",
+    "dita": "zug_insights_building_metrics_for_events",
+    "id": 203777516,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Building custom metrics for the Events model in Insights\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203777516-Building-custom-metrics-for-the-Events-model-in-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-10-14T22:57:24Z",
+    "dita": "zug_nps_analyzing",
+    "id": 203981113,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Analyzing your Net Promoter Score\u2120 survey results\n    \n    (Professional Add-on and Enterprise Add-on)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203981113-Analyzing-your-Net-Promoter-Score-survey-results-Professional-Add-on-and-Enterprise-Add-on-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-10-13T22:55:11Z",
+    "dita": "zug_nps_creating",
+    "id": 203755166,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Creating and sending a Net Promoter\n    Score\u2120\n    survey to measure customer loyalty",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203755166-Creating-and-sending-a-Net-Promoter-Score-survey-to-measure-customer-loyalty"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2014-07-16T20:00:46Z",
+    "dita": "zug_insights_reporting_custom_fields",
+    "id": 203662446,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Reporting on custom fields in Insights\n    (Professional\n    and\n    Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662446-Reporting-on-custom-fields-in-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-07-03T00:49:57Z",
+    "dita": "zug_insights_sharing_reports",
+    "id": 203662426,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Sharing reports in Insights\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662426-Sharing-reports-in-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-07-03T00:47:48Z",
+    "dita": "zug_insights_creating_custom_reports",
+    "id": 203662436,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Creating dashboards in Insights   (Professional    and    Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662436-Creating-dashboards-in-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-07-03T00:43:15Z",
+    "dita": "zug_insights_using_prebuilt_reports",
+    "id": 203662416,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Using pre-built reports in Insights\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662416-Using-pre-built-reports-in-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2014-06-27T18:43:43Z",
+    "dita": "zug_insights_object_reference",
+    "id": 203662406,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Insights object reference\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662406-Insights-object-reference-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-06-24T22:02:03Z",
+    "dita": "zug_insights_enabling",
+    "id": 203662396,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Enabling Insights for yourself (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662396-Enabling-Insights-for-yourself-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2013-02-04T21:26:34Z",
+    "dita": "zug_sla",
+    "id": 203662356,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Monitoring performance with SLA service levels (v1)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662356-Monitoring-performance-with-SLA-service-levels-v1-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2013-01-24T23:53:42Z",
+    "dita": "zug_report_export_data",
+    "id": 203662346,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Exporting data to a CSV or XML file\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662346-Exporting-data-to-a-CSV-or-XML-file-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2012-12-18T00:09:26Z",
+    "dita": "zug_account_use_email",
+    "id": 203662326,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "About the monthly account usage email",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662326-About-the-monthly-account-usage-email"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2012-11-01T23:23:16Z",
+    "dita": "zug_adv_analytics_using",
+    "id": 203662306,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Opening Zendesk\n    Insights and getting around\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662306-Opening-Zendesk-Insights-and-getting-around-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2012-11-01T23:18:23Z",
+    "dita": "zug_adv_analytics_setup",
+    "id": 203662316,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Setting up Zendesk Insights \n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662316-Setting-up-Zendesk-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2012-09-11T17:32:25Z",
+    "dita": "zug_reporting_dashboard",
+    "id": 203662296,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Using the Reporting Overview",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662296-Using-the-Reporting-Overview"
+  },
+  {
+    "author": "Jake Holman",
+    "created_at": "2011-09-29T00:03:44Z",
+    "dita": "zug_satisfaction_rating_display100",
+    "id": 203662286,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Displaying your last 100 satisfaction ratings (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662286-Displaying-your-last-100-satisfaction-ratings-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-05-05T20:54:12Z",
+    "dita": "zug_csr",
+    "id": 203662256,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Using customer satisfaction  ratings (Professional and    Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662256-Using-customer-satisfaction-ratings-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-05-12T18:18:53Z",
+    "dita": "zug_reports",
+    "id": 203662266,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Monitoring ticket activity and agent performance with reports",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662266-Monitoring-ticket-activity-and-agent-performance-with-reports"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2015-07-08T16:34:56Z",
+    "dita": "zug_insights_prebuilt_dashboard_overview",
+    "id": 206146718,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Overview of the Insights pre-built\n    dashboard (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/206146718-Overview-of-the-Insights-pre-built-dashboard-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Jessica Marasco",
+    "created_at": "2015-08-06T19:56:04Z",
+    "dita": "zug_insights_metrics",
+    "id": 206544348,
+    "section_id": 200623876,
+    "source_locale": "en-us",
+    "title": "Insights metrics reference (Professional    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/206544348-Insights-metrics-reference-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2012-01-18T17:26:46Z",
+    "dita": "zug_localizing",
+    "id": 203663386,
+    "section_id": 200623956,
+    "source_locale": "en-us",
+    "title": "Configuring Zendesk Support for your locale and language",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663386-Configuring-Zendesk-Support-for-your-locale-and-language"
+  },
+  {
+    "author": "Yoko Drain",
+    "created_at": "2014-10-15T20:36:41Z",
+    "dita": null,
+    "id": 203761906,
+    "section_id": 200623956,
+    "source_locale": "en-us",
+    "title": "Language codes for Zendesk-supported languages",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203761906-Language-codes-for-Zendesk-supported-languages"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2012-01-18T17:27:39Z",
+    "dita": "zug_language_multiple",
+    "id": 203663376,
+    "section_id": 200623956,
+    "source_locale": "en-us",
+    "title": "Adding multiple languages to Zendesk Support\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663376-Adding-multiple-languages-to-Zendesk-Support-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-11-28T15:07:42Z",
+    "dita": "zug_dynamic_content",
+    "id": 203663356,
+    "section_id": 200623956,
+    "source_locale": "en-us",
+    "title": "Providing multiple language support with dynamic content\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663356-Providing-multiple-language-support-with-dynamic-content-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-12-06T17:21:40Z",
+    "dita": "zug_dc_export_import",
+    "id": 203663366,
+    "section_id": 200623956,
+    "source_locale": "en-us",
+    "title": "Exporting and importing dynamic    content (Professional and    Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663366-Exporting-and-importing-dynamic-content-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-11-27T22:07:56Z",
+    "dita": "zug_email_lang_detect",
+    "id": 203663346,
+    "section_id": 200623956,
+    "source_locale": "en-us",
+    "title": "Detecting an end-user's language from an email message",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663346-Detecting-an-end-user-s-language-from-an-email-message"
+  },
+  {
+    "author": "Toby Roger",
+    "created_at": "2012-10-26T18:56:17Z",
+    "dita": null,
+    "id": 203663926,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Best practices: Using automations to create service level targets",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663926-Best-practices-Using-automations-to-create-service-level-targets"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2012-09-19T23:46:26Z",
+    "dita": "triggers_ticketis",
+    "id": 203663916,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Triggers: The importance of the 'Ticket is' condition",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663916-Triggers-The-importance-of-the-Ticket-is-condition"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2012-09-04T19:38:02Z",
+    "dita": "conflicting_triggers",
+    "id": 203663906,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Avoiding conflicting triggers",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663906-Avoiding-conflicting-triggers"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-10-14T22:54:01Z",
+    "dita": "zug_nps_bestpractices_3",
+    "id": 203759096,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "NPS Best Practices: Analyzing your Net Promoter Score\u2120 results and taking\n    action (Professional\n    Add-on and Enterprise Add-on)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203759096-NPS-Best-Practices-Analyzing-your-Net-Promoter-Score-results-and-taking-action-Professional-Add-on-and-Enterprise-Add-on-"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-10-14T22:52:06Z",
+    "dita": "zug_nps_bestpractices_2",
+    "id": 203759086,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "NPS Best Practices: The most effective way to send a Net Promoter Score\u2120 survey",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203759086-NPS-Best-Practices-The-most-effective-way-to-send-a-Net-Promoter-Score-survey"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-10-14T22:50:53Z",
+    "dita": "zug_nps_bestpractices_1",
+    "id": 203759076,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "NPS Best Practices: What is Net Promoter\n    Score\u2120\n    and how does it help me?",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203759076-NPS-Best-Practices-What-is-Net-Promoter-Score-and-how-does-it-help-me-"
+  },
+  {
+    "author": "Amy Dee",
+    "created_at": "2014-09-09T21:18:53Z",
+    "dita": null,
+    "id": 203664306,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Insights tag reporting: Reporting on tickets with one or more tags (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664306-Insights-tag-reporting-Reporting-on-tickets-with-one-or-more-tags-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Brandon K.",
+    "created_at": "2014-07-01T20:09:42Z",
+    "dita": null,
+    "id": 203664256,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Time Tracking recipe: Leaderboards, time logs, top customers",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664256-Time-Tracking-recipe-Leaderboards-time-logs-top-customers"
+  },
+  {
+    "author": "Brandon K.",
+    "created_at": "2014-06-26T19:57:33Z",
+    "dita": null,
+    "id": 203664226,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Time Tracking recipe: The most costly support issues for your organization",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664226-Time-Tracking-recipe-The-most-costly-support-issues-for-your-organization"
+  },
+  {
+    "author": "Brandon K.",
+    "created_at": "2014-06-26T19:54:39Z",
+    "dita": null,
+    "id": 203664246,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Time Tracking recipe: A look inside your agents' day-to-day productivity",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664246-Time-Tracking-recipe-A-look-inside-your-agents-day-to-day-productivity"
+  },
+  {
+    "author": "Brandon K.",
+    "created_at": "2014-06-26T17:55:46Z",
+    "dita": null,
+    "id": 203664236,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Time Tracking recipe: The metrics you need to be measuring",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664236-Time-Tracking-recipe-The-metrics-you-need-to-be-measuring"
+  },
+  {
+    "author": "Jason Maynard",
+    "created_at": "2014-02-24T17:05:49Z",
+    "dita": "zug_ga_04_cleanup",
+    "id": 203664166,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Google Analytics and Help Center - Part 4: Fine-tuning Help Center",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664166-Google-Analytics-and-Help-Center-Part-4-Fine-tuning-Help-Center"
+  },
+  {
+    "author": "Jason Maynard",
+    "created_at": "2014-02-12T21:11:49Z",
+    "dita": "zug_ga_03_users",
+    "id": 203664156,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Google Analytics and Help Center - Part 3: Tracking customers' actions",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664156-Google-Analytics-and-Help-Center-Part-3-Tracking-customers-actions"
+  },
+  {
+    "author": "Jason Maynard",
+    "created_at": "2014-02-05T18:27:22Z",
+    "dita": "zug_ga_02_search",
+    "id": 203664146,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Google Analytics and Help Center - Part 2: Measuring the effectiveness of search",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664146-Google-Analytics-and-Help-Center-Part-2-Measuring-the-effectiveness-of-search"
+  },
+  {
+    "author": "Jason Maynard",
+    "created_at": "2014-01-28T21:50:33Z",
+    "dita": "zug_ga_01_intro",
+    "id": 203664136,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Google Analytics and Help Center - Part 1: Asking the right questions",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664136-Google-Analytics-and-Help-Center-Part-1-Asking-the-right-questions"
+  },
+  {
+    "author": "Erin Boyle",
+    "created_at": "2013-04-23T20:49:22Z",
+    "dita": null,
+    "id": 203663956,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Recipe: Setting up basic change management (IT example)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663956-Recipe-Setting-up-basic-change-management-IT-example-"
+  },
+  {
+    "author": "Erin Boyle",
+    "created_at": "2013-05-02T22:28:14Z",
+    "dita": null,
+    "id": 203663966,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Recipe: Setting up a change management process wizard (IT example)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663966-Recipe-Setting-up-a-change-management-process-wizard-IT-example-"
+  },
+  {
+    "author": "Erin Boyle",
+    "created_at": "2013-06-05T00:23:06Z",
+    "dita": null,
+    "id": 203663996,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Recipe: Setting up a basic request form (IT example)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203663996-Recipe-Setting-up-a-basic-request-form-IT-example-"
+  },
+  {
+    "author": "Steven Yan",
+    "created_at": "2013-07-24T02:43:45Z",
+    "dita": null,
+    "id": 203664046,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "User and Organization Fields Recipe: Internal IT Example",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664046-User-and-Organization-Fields-Recipe-Internal-IT-Example"
+  },
+  {
+    "author": "Erin Boyle",
+    "created_at": "2013-06-12T00:06:05Z",
+    "dita": null,
+    "id": 203664006,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Recipe: Setting up a basic request form (Software example)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664006-Recipe-Setting-up-a-basic-request-form-Software-example-"
+  },
+  {
+    "author": "Steven Yan",
+    "created_at": "2013-07-24T02:43:45Z",
+    "dita": null,
+    "id": 203664036,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "User and Organization Fields Recipe: Software Support Example",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664036-User-and-Organization-Fields-Recipe-Software-Support-Example"
+  },
+  {
+    "author": "Steven Yan",
+    "created_at": "2013-07-24T02:43:45Z",
+    "dita": null,
+    "id": 203664026,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "User and Organization Fields Recipe: Retail Business Example",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664026-User-and-Organization-Fields-Recipe-Retail-Business-Example"
+  },
+  {
+    "author": "Steven Yan",
+    "created_at": "2013-12-09T05:37:23Z",
+    "dita": "zug_cookbook_customer_centric",
+    "id": 203664116,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Cookbook for the customer-centric company",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664116-Cookbook-for-the-customer-centric-company"
+  },
+  {
+    "author": "Steven Yan",
+    "created_at": "2013-12-09T05:58:57Z",
+    "dita": "zug_cookbook_gather",
+    "id": 203664096,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Recipe for the customer-centric company: Gather customer info for every support\n    request",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664096-Recipe-for-the-customer-centric-company-Gather-customer-info-for-every-support-request"
+  },
+  {
+    "author": "Steven Yan",
+    "created_at": "2013-12-09T05:41:18Z",
+    "dita": "zug_cookbook_meaningful",
+    "id": 203664106,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Recipe for the customer-centric company: Create meaningful views of your customers",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664106-Recipe-for-the-customer-centric-company-Create-meaningful-views-of-your-customers"
+  },
+  {
+    "author": "Steven Yan",
+    "created_at": "2013-12-09T05:40:44Z",
+    "dita": "zug_cookbook_collect",
+    "id": 203664126,
+    "section_id": 200624006,
+    "source_locale": "en-us",
+    "title": "Recipe for the customer-centric company: Collect customer insights and act on them",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203664126-Recipe-for-the-customer-centric-company-Collect-customer-insights-and-act-on-them"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2016-09-21T17:11:15Z",
+    "dita": null,
+    "id": 227745787,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "JIRA: Linked tickets reporting",
+    "url": "https://support.zendesk.com/hc/en-us/articles/227745787-JIRA-Linked-tickets-reporting"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2014-01-31T00:11:24Z",
+    "dita": "jira3_setup",
+    "id": 203660196,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Setting up Zendesk Support for JIRA integration",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660196-Setting-up-Zendesk-Support-for-JIRA-integration"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2014-01-31T23:34:16Z",
+    "dita": "jira3_using",
+    "id": 203660206,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Using the Zendesk Support for JIRA integration",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660206-Using-the-Zendesk-Support-for-JIRA-integration"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2014-07-03T19:56:36Z",
+    "dita": null,
+    "id": 203660226,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Updating a ticket when the status of a JIRA issue changes",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660226-Updating-a-ticket-when-the-status-of-a-JIRA-issue-changes"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2012-09-24T22:35:58Z",
+    "dita": "sfdc_get_started",
+    "id": 203660026,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Zendesk for Salesforce v5: Getting Started",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660026-Zendesk-for-Salesforce-v5-Getting-Started"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-05-30T17:11:21Z",
+    "dita": "salesforce_features_overview",
+    "id": 203660216,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Salesforce: Choosing Zendesk for Salesforce features",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660216-Salesforce-Choosing-Zendesk-for-Salesforce-features"
+  },
+  {
+    "author": "Yuri Mylis",
+    "created_at": "2012-09-24T22:57:06Z",
+    "dita": "salesforce1_install_app_in_SF",
+    "id": 203660036,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Salesforce: Installing the Zendesk for Salesforce app in Salesforce",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660036-Salesforce-Installing-the-Zendesk-for-Salesforce-app-in-Salesforce"
+  },
+  {
+    "author": "Erin Boyle",
+    "created_at": "2012-09-24T22:50:04Z",
+    "dita": "salesforce2_config_app_in_ZD",
+    "id": 203660016,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Salesforce: Installing and configuring the app in Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660016-Salesforce-Installing-and-configuring-the-app-in-Zendesk-Support"
+  },
+  {
+    "author": "Erin Boyle",
+    "created_at": "2012-09-24T23:37:15Z",
+    "dita": "salesforce3_config_UserOrg_sync_inSF",
+    "id": 203659996,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Salesforce: Configuring user and organization syncing in Salesforce",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659996-Salesforce-Configuring-user-and-organization-syncing-in-Salesforce"
+  },
+  {
+    "author": "Erin Boyle",
+    "created_at": "2012-09-24T23:46:56Z",
+    "dita": "salesforce4_sending_ZDtickets_toSF",
+    "id": 203660006,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Salesforce: Setting up sending Zendesk tickets into Salesforce",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660006-Salesforce-Setting-up-sending-Zendesk-tickets-into-Salesforce"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-06-01T22:31:17Z",
+    "dita": "zug_wordpress_using",
+    "id": 203659896,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Setting up and using the Zendesk Support for Wordpress plugin",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659896-Setting-up-and-using-the-Zendesk-Support-for-Wordpress-plugin"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-05-11T17:30:31Z",
+    "dita": "zug_wordpress_remote",
+    "id": 203659866,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Setting up single sign-on (SSO) for WordPress",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659866-Setting-up-single-sign-on-SSO-for-WordPress"
+  },
+  {
+    "author": "Anton de Young",
+    "created_at": "2011-05-12T23:12:28Z",
+    "dita": "zug_wordpress_anonymous",
+    "id": 203659876,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Setting up anonymous ticket submissions with Zendesk Support for Wordpress",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203659876-Setting-up-anonymous-ticket-submissions-with-Zendesk-Support-for-Wordpress"
+  },
+  {
+    "author": "Ian Christopher B. de Jesus",
+    "created_at": "2013-02-20T04:40:38Z",
+    "dita": null,
+    "id": 203660116,
+    "section_id": 200623816,
+    "source_locale": "en-us",
+    "title": "Setting up Zendesk Support for Shopify integration",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660116-Setting-up-Zendesk-Support-for-Shopify-integration"
+  },
+  {
+    "author": "Jennifer Rowe",
+    "created_at": "2014-01-27T23:21:55Z",
+    "dita": "zug_apps_managing",
+    "id": 203662486,
+    "section_id": 200623886,
+    "source_locale": "en-us",
+    "title": "Managing your installed apps",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662486-Managing-your-installed-apps"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2015-12-16T18:52:10Z",
+    "dita": "zug_using_app_marketplace",
+    "id": 215115188,
+    "section_id": 200623886,
+    "source_locale": "en-us",
+    "title": "Using the Apps Marketplace",
+    "url": "https://support.zendesk.com/hc/en-us/articles/215115188-Using-the-Apps-Marketplace"
+  },
+  {
+    "author": "Aimee Spanier",
+    "created_at": "2016-02-12T20:54:11Z",
+    "dita": "zug_pathfinder_about",
+    "id": 216596738,
+    "section_id": 200623886,
+    "source_locale": "en-us",
+    "title": "Installing and using the Pathfinder\n    app (Professional Add-on and\n    Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/216596738-Installing-and-using-the-Pathfinder-app-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Charles Nadeau",
+    "created_at": "2015-04-20T18:10:49Z",
+    "dita": "zug_http_target",
+    "id": 204890268,
+    "section_id": 200623886,
+    "source_locale": "en-us",
+    "title": "Creating webhooks with the HTTP target",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204890268-Creating-webhooks-with-the-HTTP-target"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2014-05-30T21:33:44Z",
+    "dita": "zug_time_tracking",
+    "id": 203662506,
+    "section_id": 200623886,
+    "source_locale": "en-us",
+    "title": "Setting up the Time Tracking app\n    (Professional\n    and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662506-Setting-up-the-Time-Tracking-app-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Maxime",
+    "created_at": "2013-09-19T16:47:14Z",
+    "dita": "conditional_fields",
+    "id": 203662476,
+    "section_id": 200623886,
+    "source_locale": "en-us",
+    "title": "Using the Conditional Fields app (Professional Add-on and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203662476-Using-the-Conditional-Fields-app-Professional-Add-on-and-Enterprise-"
+  },
+  {
+    "author": "Rebecca",
+    "created_at": "2016-08-31T00:19:43Z",
+    "dita": null,
+    "id": 226379487,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Setting up a requests-only (tickets-only) Help Center (Guide Professional)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/226379487-Setting-up-a-requests-only-tickets-only-Help-Center-Guide-Professional-"
+  },
+  {
+    "author": "Sarah Kay",
+    "created_at": "2015-06-23T21:46:28Z",
+    "dita": null,
+    "id": 205891418,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Reporting on Average First Reply Time in Insights (Professional and Enterprise)",
+    "url": "https://support.zendesk.com/hc/en-us/articles/205891418-Reporting-on-Average-First-Reply-Time-in-Insights-Professional-and-Enterprise-"
+  },
+  {
+    "author": "Matthew Armstrong",
+    "created_at": "2015-01-21T04:34:05Z",
+    "dita": null,
+    "id": 204172316,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Auto-fill the Web Widget Contact Form",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204172316-Auto-fill-the-Web-Widget-Contact-Form"
+  },
+  {
+    "author": "Edward Pritchard",
+    "created_at": "2015-01-07T20:44:20Z",
+    "dita": null,
+    "id": 204410413,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Generating a HAR file for troubleshooting",
+    "url": "https://support.zendesk.com/hc/en-us/articles/204410413-Generating-a-HAR-file-for-troubleshooting"
+  },
+  {
+    "author": "Tiffany Rockwell",
+    "created_at": "2014-11-18T00:26:36Z",
+    "dita": null,
+    "id": 203927716,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Attachments in Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203927716-Attachments-in-Zendesk-Support"
+  },
+  {
+    "author": "Casem AbuLughod",
+    "created_at": "2014-01-03T16:10:31Z",
+    "dita": null,
+    "id": 203661156,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Best practices for removing agents",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203661156-Best-practices-for-removing-agents"
+  },
+  {
+    "author": "Jeremiah Currier",
+    "created_at": "2013-04-09T17:57:19Z",
+    "dita": null,
+    "id": 203660876,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Queue management in Zendesk Support",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660876-Queue-management-in-Zendesk-Support"
+  },
+  {
+    "author": "Aurash Pourmand",
+    "created_at": "2013-03-29T17:38:13Z",
+    "dita": null,
+    "id": 203660866,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Notifying External Email Addresses",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660866-Notifying-External-Email-Addresses"
+  },
+  {
+    "author": "Nora Mullen",
+    "created_at": "2013-02-08T00:05:13Z",
+    "dita": null,
+    "id": 203660846,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Configuring your firewall for use with Zendesk",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660846-Configuring-your-firewall-for-use-with-Zendesk"
+  },
+  {
+    "author": "Erin Boyle",
+    "created_at": "2013-01-17T22:50:14Z",
+    "dita": null,
+    "id": 203660816,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Customizing your customer satisfaction survey",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660816-Customizing-your-customer-satisfaction-survey"
+  },
+  {
+    "author": "Elyse Kanagaratnam",
+    "created_at": "2012-10-26T00:30:59Z",
+    "dita": null,
+    "id": 203660756,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Renaming your subdomain: the side effects",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660756-Renaming-your-subdomain-the-side-effects"
+  },
+  {
+    "author": "Adam",
+    "created_at": "2012-09-21T17:29:49Z",
+    "dita": "iframe_app",
+    "id": 203660696,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Providing agents with more information using the Iframe and Text apps",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660696-Providing-agents-with-more-information-using-the-Iframe-and-Text-apps"
+  },
+  {
+    "author": "Kelly Hoffer",
+    "created_at": "2011-04-06T19:17:02Z",
+    "dita": null,
+    "id": 203660386,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "What is the difference between a Solved ticket and a Closed ticket?",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660386-What-is-the-difference-between-a-Solved-ticket-and-a-Closed-ticket-"
+  },
+  {
+    "author": "Matthew Latkiewicz",
+    "created_at": "2010-04-22T16:52:02Z",
+    "dita": null,
+    "id": 203660266,
+    "section_id": 200623826,
+    "source_locale": "en-us",
+    "title": "Organize incoming tickets with multiple email addresses",
+    "url": "https://support.zendesk.com/hc/en-us/articles/203660266-Organize-incoming-tickets-with-multiple-email-addresses"
+  },
+  {
+    "author": "Erin McKeown",
+    "created_at": "2016-03-03T22:50:32Z",
+    "dita": null,
+    "id": 217677367,
+    "section_id": 201013338,
+    "source_locale": "en-us",
+    "title": "Business Continuity and Disaster Recovery",
+    "url": "https://support.zendesk.com/hc/en-us/articles/217677367-Business-Continuity-and-Disaster-Recovery"
+  }
+]
