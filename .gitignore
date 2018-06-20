@@ -4,8 +4,6 @@
 *.pyc
 /zep/zep/__pycache__/
 
-
-
 .idea/inspectionProfiles/
 .DS_Store
 cache/.DS_Store

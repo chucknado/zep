@@ -146,31 +146,6 @@ class Zendesk:
             return None
 
 
-# class Core(Zendesk):
-#     def __init__(self, product):
-#         Zendesk.__init__(self, product)
-#
-#     def show_me(self):
-#         url = os.path.join(self.root, 'users', 'me.json')
-#         me = self.get_record(url)
-#         print(me)
-#
-#     def list_user_events(self, user_id=295512778):
-#         # user_id = 295512778  # me
-#         params = {
-#             'event_types': ['help_center.activity.events.ArticleViewed'],
-#             'start_time': 1490054400
-#         }
-#         endpoint = os.path.join(self.root, 'users', str(user_id), 'events.json')
-#         url = endpoint + '?' + urlencode(params)
-#
-#         event_list = self.get_record(url)
-#
-#         for event in event_list['events']:
-#             print(event)
-#         # write_to_json(event_list, self.product_cache, f'user_{user_id}_events.json')
-
-
 class HelpCenter(Zendesk):
     def __init__(self, product):
         Zendesk.__init__(self, product)
