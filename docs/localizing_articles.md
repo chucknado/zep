@@ -28,7 +28,7 @@ source: Zendesk Internal/Zendesk User Guides/production/zep/docs/localizing_arti
 
 <h3 id="add_articles">Package the articles</h3>
 
-1. Get the list of article ids from the [loc handoff worksheet](https://docs.google.com/spreadsheets/d/1jldaCDT5iYrUdmzAT1jWwFbYOwGECVVcwK9agHJeGE8/edit#gid=0) in Google Docs and add their ids as a column in the **/handoffs/\_loader.txt** file. Each id should be on one line with no other characters. Example:
+1. Get the list of article ids from the loc handoff worksheet in Google Docs and add their ids as a column in the **/handoffs/\_loader.txt** file. Each id should be on one line with no other characters. Example:
 
 	**\_loader.txt**
 	```
@@ -189,7 +189,7 @@ The article and image files need to be zipped and uploaded to the Localizers FTP
 
 To do periodic mass updates of our content, we have to maintain a map of article ids and their corresponding DITA filenames. When we transform articles from DITA to HTML, the tool produces files named **filename.html**, such as **zug\_tags.html**. There's no information about the article's Help Center id. Without the map, we wouldn't know where to put the articles on Help Center.
 
-1. Get a list of the *new* articles from the [loc handoff worksheet](https://docs.google.com/spreadsheets/d/1jldaCDT5iYrUdmzAT1jWwFbYOwGECVVcwK9agHJeGE8/edit#gid=0). Ignore the updated articles.
+1. Get a list of the *new* articles from the loc handoff worksheet. Ignore the updated articles.
 
 2. Navigate to the following folder in Team Drives:
 
